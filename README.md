@@ -14,7 +14,10 @@ Create a document consisting of no more than **4 pages** that describes at least
 
 ### Marking Guide
 
-- 
+- +2 marks for explaining some of the considerations of the problem (data size, queries, consistency, etc.).
+- +3 marks for providing benefits/challenges with at least 3 potential database systems
+- +2 marks for arguing why you would select a particular database
+- +3 marks for writing style, organization, and grammar
 
 ## Part II: Implement a Solution (20 marks)
 
