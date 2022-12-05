@@ -22,13 +22,19 @@ Implement a database system that solves the problem statement. Create unit tests
 
 ### Marking Guide
 
-- +2 marks - create tables
-- +3 marks - load data
-- +2 marks - insert
-- +2 marks - update
-- +2 marks - query 1
-- +2 marks - query 2
-- +2 marks - query 3
-- +5 marks - unit tests
+- +2 marks - Write a method `create()` to create tables to store data.
 
+- +3 marks - Write a method `load()` to load two data sets: `GameState` stores current game state for each players and `GameEvent` that stores information on each game event that changes a player's state.
+ 
+- +2 marks - Write a method `insert()` that loads the sample data for each data set. Available in the files `gamestate.csv` and `gameevent.csv`.
+
+- +2 marks - Write a method `update()` that updates the current game state for a player.
+
+- +2 marks - Write a method `query1()` that returns the game state for a player given the player `id`. Return a string with the state information in any format.
+
+- +2 marks - Write a method `query2()` that returns the top 10 players by level in a given region.
+
+- +2 marks - Write a method `query3()` that returns the top 5 most active players between time X and Y in a given region.
+
+- +5 marks - Write unit tests to demonstrate that your previously constructed methods are working properly.
 
