@@ -1,6 +1,6 @@
 # COSC 516 Final Exam
 
-**This is an individual take home exam. No communication with others are allowed. You may use course and Internet resources.**
+**This is an individual take home exam. No communication with others is allowed. You may use course and Internet resources.**
 
 **The exam is available from Saturday, December 17th at 8 a.m. until Sunday, December 18th at 8 p.m. (36 hours).**
 
