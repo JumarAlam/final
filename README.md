@@ -10,7 +10,7 @@
 
 ## Part I: Describe Possibilities and Your Solution (10 marks)
 
-Create a document consisting of no more than **4 pages** that describes at least 3 different database systems and how they may apply to the problem. Provide benefits and challenges with each system. Select a particular database system and argue why it is the best choice for this problem. Note: The database system chosen does not have to be the same database system that you implement in the second part.
+Create a document consisting of no more than **4 pages** that describes at least 3 different database systems and how they may apply to the problem. Provide benefits and challenges with each system. Select a particular database system and argue why it is the best choice for this problem. Note: The database system chosen does not have to be the same database system that you implement in the second part. Relational databases are valid for comparison and to select as the best choice.
 
 ### Marking Guide
 
@@ -21,7 +21,7 @@ Create a document consisting of no more than **4 pages** that describes at least
 
 ## Part II: Implement a Solution (20 marks)
 
-Implement a database system that solves the problem statement. Create unit tests that verify that the data is loaded and queried properly. You may select any database except a traditional relational database such as MySQL/PostgreSQL. Submit your code and a screenshot of the tests passing within your repository.
+Implement a database system that solves the problem statement. Create unit tests that verify that the data is loaded and queried properly. You may select any database except a traditional relational database such as MySQL/PostgreSQL/Azure SQL Server. Submit your code and a screenshot of the tests passing within your repository.
 
 ### Marking Guide
 
