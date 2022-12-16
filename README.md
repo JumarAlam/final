@@ -63,11 +63,11 @@ Implement a database system that solves the problem statement. Create unit tests
 
 - +2 marks - Write a method `update()` that updates the current game state for a player.
 
-- +2 marks - Write a method `query1()` that returns the game state for a player given the player `id`. Return a string with the state information in any format.
+- +2 marks - Write a method `query1()` that returns the game state for a player given the player `id`. Return a string with the state information in any format. **Test for id=`1` and id=`949`.**
 
-- +2 marks - Write a method `query2()` that returns the top 10 players by level in a given region.
+- +2 marks - Write a method `query2()` that returns the top 10 players by level in a given region. **Test for region `1` and region `9`.**
 
-- +2 marks - Write a method `query3()` that returns the top 5 most active players between time X and Y in a given region. Active players are determined based on the number of game events that they have in the time range.
+- +2 marks - Write a method `query3()` that returns the top 5 most active players between time X and Y in a given region. Active players are determined based on the number of game events that they have in the time range. **Test for region `2` between `2022-12-17 05:30:00` and `2022-12-17 15:00:00` and for region `7` between `2022-12-18 00:00:00` and `2022-12-19 11:00:00`.**
 
 - +5 marks - Write unit tests to demonstrate that your previously constructed methods are working properly.
 
