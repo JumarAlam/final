@@ -31,7 +31,11 @@ Our designers are currently working on the game itself, but here is an overview 
   - `diffpower` - integer, positive or negative number indicating change of power
   - `difflevel` - integer, number indicating change of level
 
-3) The most important database operation is extremely fast read of the game state to send it to the player when requested. The database must also process game state updates and game event inserts quickly but  
+3) The most important database operation is extremely fast read of the game state to send it to the player when requested. The database must also process game state updates and game event inserts quickly.
+
+4) One common query is to show the top 10 players in a region. This should be near real-time but does not always have to reflect the most recent information.
+
+5) For marketing to players, the system will periodically execute queries to determine players that have high activity (lots of events) in a given time. This information will be used to market bundles for players to purchase. This query does not have to be as fast as it does not effect the immediate game play for users.
 
 
 ## Part I: Describe Possibilities and Your Solution (10 marks)
