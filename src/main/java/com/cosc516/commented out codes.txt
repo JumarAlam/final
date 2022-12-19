@@ -1,0 +1,84 @@
+	// 	// Get a reference to the container
+	// 	CosmosAsyncContainer container = client.getDatabase("final516")
+	// 										.getContainer("state");
+
+	// 	// Read the CSV file
+	// 	BufferedReader reader = new BufferedReader(new FileReader("src/data/gamestate.csv"));
+	// 	SimpleDateFormat date = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+
+	// 	// Read the file line by line
+	// 	String line;
+	// 	int lineCount = 0;
+	// 	while ((line = reader.readLine()) != null) {
+	// 		if (lineCount == 0)
+	//  			continue;
+	// 	// Split the line into fields
+	// 		String[] values = line.split(",");
+
+	// 		// Map the fields to a JSON object
+	// 		GameState state = new GameState();
+	// 		state.setId(Integer.parseInt(values[0]));
+	// 		state.setStatetime(date.parse(values[1]));
+	// 		state.setRegion(Integer.parseInt(values[2]));
+	// 		state.setName(values[3]);
+	// 		state.setEmail(values[4]);
+	// 		state.setGold(Integer.parseInt(values[5]));
+	// 		state.setPower(Integer.parseInt(values[6]));
+	// 		state.setLevel(Integer.parseInt(values[7]));
+			
+	// 		// ... set other fields as needed
+
+	// 		// Add the object to the container
+	// 		CosmosItemResponse<GameState> response = container.createItem(state, new CosmosItemRequestOptions()).block();
+	// 		lineCount++;
+	// 	}
+	// }
+
+
+    
+	// private static List<GameState> listToStateObject(String[] line) throws NumberFormatException, ParseException
+	// {
+		
+	// 	SimpleDateFormat date = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+	// 	List<GameState> states = new ArrayList<>(Integer.parseInt(line[0]), date.parse(line[1]), Integer.parseInt(line[2]), line[3], line[4], Integer.parseInt(line[5]), Integer.parseInt(line[6]), Integer.parseInt(line[7]));
+	// 	//GameState state = new GameState(Integer.parseInt(line[0]), date.parse(line[1]), Integer.parseInt(line[2]), line[3], line[4], Integer.parseInt(line[5]), Integer.parseInt(line[6]), Integer.parseInt(line[7]));
+	// 	return states;
+	// }
+		
+		// System.out.println("\nLoading Data.");
+
+		// // FileReader reader = new FileReader("gamestate.csv");
+        // // CSVParser parser = new CSVParser(reader, CSVFormat.DEFAULT);
+        // // List<CSVRecord> records = parser.getRecords();
+
+		// List<GameState> stateData = readnParseCSVfiles("src/data/gamestate.csv");
+
+		// for (GameState state : stateData)
+		// {
+		// 	//cosmosItemProperties itemProperties = new CosmosItemProperties();
+		// 	stateContainer.createItem(state);
+		// }
+
+
+	// private static List<GameState> readnParseCSVfiles(String path) throws CsvValidationException, NumberFormatException, ParseException
+	// {
+	// 	List<GameState> states = new ArrayList<>();
+
+	// 	try (CSVReader reader = new CSVReader(new FileReader(path))) {
+	// 		String[] line;
+	// 		while ((line = reader.readNext()) != null) {
+	// 			// Parse the line and create an object that represents a row in the CSV file
+	// 			SimpleDateFormat date = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+	// 			//Date timestamp = date.parse(filename);
+
+	// 			GameState state = new GameState(Integer.parseInt(line[0]), date.parse(line[1]), Integer.parseInt(line[2]), line[3], line[4], Integer.parseInt(line[5]), Integer.parseInt(line[6]), Integer.parseInt(line[7]));
+	// 			//Object object = new Object();
+	// 			//objects.add(object);
+	// 			states.add(state);
+	// 		}
+	// 	} catch (IOException e) {
+	// 		e.printStackTrace();
+	// 	}
+
+	// 	return states;
+	// }

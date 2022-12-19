@@ -1,0 +1,10002 @@
+[
+ {
+   "id": 1,
+   "statetime": "2022-12-19 15:23:07",
+   "region": 2,
+   "name": "Name#1",
+   "email": "email1@abc.com",
+   "gold": 56607,
+   "power": 248393,
+   "level": 21
+ },
+ {
+   "id": 2,
+   "statetime": "2022-12-20 09:17:42",
+   "region": 9,
+   "name": "Name#2",
+   "email": "email2@abc.com",
+   "gold": 817140,
+   "power": 442325,
+   "level": 23
+ },
+ {
+   "id": 3,
+   "statetime": "2022-12-19 14:48:21",
+   "region": 4,
+   "name": "Name#3",
+   "email": "email3@abc.com",
+   "gold": 439538,
+   "power": 127484,
+   "level": 2
+ },
+ {
+   "id": 4,
+   "statetime": "2022-12-22 11:40:03",
+   "region": 1,
+   "name": "Name#4",
+   "email": "email4@abc.com",
+   "gold": 127421,
+   "power": 903944,
+   "level": 8
+ },
+ {
+   "id": 5,
+   "statetime": "2022-12-23 20:45:53",
+   "region": 8,
+   "name": "Name#5",
+   "email": "email5@abc.com",
+   "gold": 812273,
+   "power": 76871,
+   "level": 8
+ },
+ {
+   "id": 6,
+   "statetime": "2022-12-19 03:30:07",
+   "region": 9,
+   "name": "Name#6",
+   "email": "email6@abc.com",
+   "gold": 961522,
+   "power": 650901,
+   "level": 6
+ },
+ {
+   "id": 7,
+   "statetime": "2022-12-17 14:41:49",
+   "region": 7,
+   "name": "Name#7",
+   "email": "email7@abc.com",
+   "gold": 210210,
+   "power": 190395,
+   "level": 43
+ },
+ {
+   "id": 8,
+   "statetime": "2022-12-23 11:03:45",
+   "region": 6,
+   "name": "Name#8",
+   "email": "email8@abc.com",
+   "gold": 770958,
+   "power": 803118,
+   "level": 2
+ },
+ {
+   "id": 9,
+   "statetime": "2022-12-20 19:01:38",
+   "region": 9,
+   "name": "Name#9",
+   "email": "email9@abc.com",
+   "gold": 585129,
+   "power": 335923,
+   "level": 38
+ },
+ {
+   "id": 10,
+   "statetime": "2022-12-19 08:52:59",
+   "region": 2,
+   "name": "Name#10",
+   "email": "email10@abc.com",
+   "gold": 315122,
+   "power": 603718,
+   "level": 33
+ },
+ {
+   "id": 11,
+   "statetime": "2022-12-20 19:01:33",
+   "region": 2,
+   "name": "Name#11",
+   "email": "email11@abc.com",
+   "gold": 527514,
+   "power": 532843,
+   "level": 45
+ },
+ {
+   "id": 12,
+   "statetime": "2022-12-19 21:45:43",
+   "region": 7,
+   "name": "Name#12",
+   "email": "email12@abc.com",
+   "gold": 528186,
+   "power": 776215,
+   "level": 26
+ },
+ {
+   "id": 13,
+   "statetime": "2022-12-22 21:55:04",
+   "region": 7,
+   "name": "Name#13",
+   "email": "email13@abc.com",
+   "gold": 159254,
+   "power": 696222,
+   "level": 47
+ },
+ {
+   "id": 14,
+   "statetime": "2022-12-23 09:15:50",
+   "region": 8,
+   "name": "Name#14",
+   "email": "email14@abc.com",
+   "gold": 598862,
+   "power": 365192,
+   "level": 13
+ },
+ {
+   "id": 15,
+   "statetime": "2022-12-18 15:13:07",
+   "region": 3,
+   "name": "Name#15",
+   "email": "email15@abc.com",
+   "gold": 180565,
+   "power": 822015,
+   "level": 43
+ },
+ {
+   "id": 16,
+   "statetime": "2022-12-17 21:26:45",
+   "region": 2,
+   "name": "Name#16",
+   "email": "email16@abc.com",
+   "gold": 442622,
+   "power": 64443,
+   "level": 2
+ },
+ {
+   "id": 17,
+   "statetime": "2022-12-21 14:42:14",
+   "region": 3,
+   "name": "Name#17",
+   "email": "email17@abc.com",
+   "gold": 65841,
+   "power": 611630,
+   "level": 48
+ },
+ {
+   "id": 18,
+   "statetime": "2022-12-19 11:10:45",
+   "region": 7,
+   "name": "Name#18",
+   "email": "email18@abc.com",
+   "gold": 694705,
+   "power": 660074,
+   "level": 40
+ },
+ {
+   "id": 19,
+   "statetime": "2022-12-18 19:00:38",
+   "region": 3,
+   "name": "Name#19",
+   "email": "email19@abc.com",
+   "gold": 827499,
+   "power": 434724,
+   "level": 34
+ },
+ {
+   "id": 20,
+   "statetime": "2022-12-19 07:24:41",
+   "region": 2,
+   "name": "Name#20",
+   "email": "email20@abc.com",
+   "gold": 526082,
+   "power": 137938,
+   "level": 42
+ },
+ {
+   "id": 21,
+   "statetime": "2022-12-20 16:17:48",
+   "region": 8,
+   "name": "Name#21",
+   "email": "email21@abc.com",
+   "gold": 590628,
+   "power": 834835,
+   "level": 47
+ },
+ {
+   "id": 22,
+   "statetime": "2022-12-17 12:09:30",
+   "region": 1,
+   "name": "Name#22",
+   "email": "email22@abc.com",
+   "gold": 629823,
+   "power": 335541,
+   "level": 19
+ },
+ {
+   "id": 23,
+   "statetime": "2022-12-18 04:43:20",
+   "region": 3,
+   "name": "Name#23",
+   "email": "email23@abc.com",
+   "gold": 857354,
+   "power": 180665,
+   "level": 36
+ },
+ {
+   "id": 24,
+   "statetime": "2022-12-24 03:08:42",
+   "region": 9,
+   "name": "Name#24",
+   "email": "email24@abc.com",
+   "gold": 341195,
+   "power": 331223,
+   "level": 10
+ },
+ {
+   "id": 25,
+   "statetime": "2022-12-21 17:54:24",
+   "region": 5,
+   "name": "Name#25",
+   "email": "email25@abc.com",
+   "gold": 362548,
+   "power": 859161,
+   "level": 23
+ },
+ {
+   "id": 26,
+   "statetime": "2022-12-21 02:57:03",
+   "region": 6,
+   "name": "Name#26",
+   "email": "email26@abc.com",
+   "gold": 81933,
+   "power": 438961,
+   "level": 22
+ },
+ {
+   "id": 27,
+   "statetime": "2022-12-17 20:55:55",
+   "region": 4,
+   "name": "Name#27",
+   "email": "email27@abc.com",
+   "gold": 359356,
+   "power": 58302,
+   "level": 10
+ },
+ {
+   "id": 28,
+   "statetime": "2022-12-20 04:07:43",
+   "region": 7,
+   "name": "Name#28",
+   "email": "email28@abc.com",
+   "gold": 80508,
+   "power": 511094,
+   "level": 12
+ },
+ {
+   "id": 29,
+   "statetime": "2022-12-20 16:34:58",
+   "region": 3,
+   "name": "Name#29",
+   "email": "email29@abc.com",
+   "gold": 277978,
+   "power": 134759,
+   "level": 47
+ },
+ {
+   "id": 30,
+   "statetime": "2022-12-20 23:48:56",
+   "region": 1,
+   "name": "Name#30",
+   "email": "email30@abc.com",
+   "gold": 249388,
+   "power": 536434,
+   "level": 47
+ },
+ {
+   "id": 31,
+   "statetime": "2022-12-23 23:04:25",
+   "region": 7,
+   "name": "Name#31",
+   "email": "email31@abc.com",
+   "gold": 238004,
+   "power": 714964,
+   "level": 39
+ },
+ {
+   "id": 32,
+   "statetime": "2022-12-18 08:02:37",
+   "region": 7,
+   "name": "Name#32",
+   "email": "email32@abc.com",
+   "gold": 872325,
+   "power": 713822,
+   "level": 29
+ },
+ {
+   "id": 33,
+   "statetime": "2022-12-18 18:58:29",
+   "region": 2,
+   "name": "Name#33",
+   "email": "email33@abc.com",
+   "gold": 151551,
+   "power": 251182,
+   "level": 21
+ },
+ {
+   "id": 34,
+   "statetime": "2022-12-24 04:14:50",
+   "region": 8,
+   "name": "Name#34",
+   "email": "email34@abc.com",
+   "gold": 796373,
+   "power": 224741,
+   "level": 13
+ },
+ {
+   "id": 35,
+   "statetime": "2022-12-19 01:33:56",
+   "region": 7,
+   "name": "Name#35",
+   "email": "email35@abc.com",
+   "gold": 537954,
+   "power": 371065,
+   "level": 34
+ },
+ {
+   "id": 36,
+   "statetime": "2022-12-20 04:11:53",
+   "region": 1,
+   "name": "Name#36",
+   "email": "email36@abc.com",
+   "gold": 914896,
+   "power": 863361,
+   "level": 19
+ },
+ {
+   "id": 37,
+   "statetime": "2022-12-17 11:00:09",
+   "region": 6,
+   "name": "Name#37",
+   "email": "email37@abc.com",
+   "gold": 705926,
+   "power": 560527,
+   "level": 41
+ },
+ {
+   "id": 38,
+   "statetime": "2022-12-18 16:55:57",
+   "region": 5,
+   "name": "Name#38",
+   "email": "email38@abc.com",
+   "gold": 43945,
+   "power": 369948,
+   "level": 46
+ },
+ {
+   "id": 39,
+   "statetime": "2022-12-21 05:13:03",
+   "region": 3,
+   "name": "Name#39",
+   "email": "email39@abc.com",
+   "gold": 973534,
+   "power": 370447,
+   "level": 43
+ },
+ {
+   "id": 40,
+   "statetime": "2022-12-21 13:04:52",
+   "region": 6,
+   "name": "Name#40",
+   "email": "email40@abc.com",
+   "gold": 199384,
+   "power": 487003,
+   "level": 27
+ },
+ {
+   "id": 41,
+   "statetime": "2022-12-18 06:44:34",
+   "region": 6,
+   "name": "Name#41",
+   "email": "email41@abc.com",
+   "gold": 709268,
+   "power": 881260,
+   "level": 48
+ },
+ {
+   "id": 42,
+   "statetime": "2022-12-18 04:54:28",
+   "region": 1,
+   "name": "Name#42",
+   "email": "email42@abc.com",
+   "gold": 13966,
+   "power": 985299,
+   "level": 28
+ },
+ {
+   "id": 43,
+   "statetime": "2022-12-22 08:30:32",
+   "region": 9,
+   "name": "Name#43",
+   "email": "email43@abc.com",
+   "gold": 469248,
+   "power": 873871,
+   "level": 48
+ },
+ {
+   "id": 44,
+   "statetime": "2022-12-22 12:08:53",
+   "region": 8,
+   "name": "Name#44",
+   "email": "email44@abc.com",
+   "gold": 885644,
+   "power": 815329,
+   "level": 4
+ },
+ {
+   "id": 45,
+   "statetime": "2022-12-18 09:14:29",
+   "region": 2,
+   "name": "Name#45",
+   "email": "email45@abc.com",
+   "gold": 572684,
+   "power": 921518,
+   "level": 4
+ },
+ {
+   "id": 46,
+   "statetime": "2022-12-20 21:40:33",
+   "region": 7,
+   "name": "Name#46",
+   "email": "email46@abc.com",
+   "gold": 688772,
+   "power": 498603,
+   "level": 2
+ },
+ {
+   "id": 47,
+   "statetime": "2022-12-21 01:30:24",
+   "region": 1,
+   "name": "Name#47",
+   "email": "email47@abc.com",
+   "gold": 924941,
+   "power": 347725,
+   "level": 22
+ },
+ {
+   "id": 48,
+   "statetime": "2022-12-23 20:53:44",
+   "region": 8,
+   "name": "Name#48",
+   "email": "email48@abc.com",
+   "gold": 319681,
+   "power": 862696,
+   "level": 29
+ },
+ {
+   "id": 49,
+   "statetime": "2022-12-23 21:39:35",
+   "region": 6,
+   "name": "Name#49",
+   "email": "email49@abc.com",
+   "gold": 503246,
+   "power": 567277,
+   "level": 35
+ },
+ {
+   "id": 50,
+   "statetime": "2022-12-24 05:46:19",
+   "region": 2,
+   "name": "Name#50",
+   "email": "email50@abc.com",
+   "gold": 67858,
+   "power": 147790,
+   "level": 12
+ },
+ {
+   "id": 51,
+   "statetime": "2022-12-18 05:25:10",
+   "region": 1,
+   "name": "Name#51",
+   "email": "email51@abc.com",
+   "gold": 491014,
+   "power": 348323,
+   "level": 31
+ },
+ {
+   "id": 52,
+   "statetime": "2022-12-17 11:37:42",
+   "region": 9,
+   "name": "Name#52",
+   "email": "email52@abc.com",
+   "gold": 103589,
+   "power": 884510,
+   "level": 28
+ },
+ {
+   "id": 53,
+   "statetime": "2022-12-17 17:35:19",
+   "region": 9,
+   "name": "Name#53",
+   "email": "email53@abc.com",
+   "gold": 834964,
+   "power": 967599,
+   "level": 28
+ },
+ {
+   "id": 54,
+   "statetime": "2022-12-17 20:50:54",
+   "region": 9,
+   "name": "Name#54",
+   "email": "email54@abc.com",
+   "gold": 424671,
+   "power": 527000,
+   "level": 45
+ },
+ {
+   "id": 55,
+   "statetime": "2022-12-23 01:20:28",
+   "region": 2,
+   "name": "Name#55",
+   "email": "email55@abc.com",
+   "gold": 86553,
+   "power": 69053,
+   "level": 33
+ },
+ {
+   "id": 56,
+   "statetime": "2022-12-22 22:35:34",
+   "region": 9,
+   "name": "Name#56",
+   "email": "email56@abc.com",
+   "gold": 820553,
+   "power": 999230,
+   "level": 7
+ },
+ {
+   "id": 57,
+   "statetime": "2022-12-24 02:21:20",
+   "region": 7,
+   "name": "Name#57",
+   "email": "email57@abc.com",
+   "gold": 752459,
+   "power": 418143,
+   "level": 46
+ },
+ {
+   "id": 58,
+   "statetime": "2022-12-23 07:25:42",
+   "region": 6,
+   "name": "Name#58",
+   "email": "email58@abc.com",
+   "gold": 512445,
+   "power": 748279,
+   "level": 34
+ },
+ {
+   "id": 59,
+   "statetime": "2022-12-23 08:34:16",
+   "region": 1,
+   "name": "Name#59",
+   "email": "email59@abc.com",
+   "gold": 197406,
+   "power": 673718,
+   "level": 38
+ },
+ {
+   "id": 60,
+   "statetime": "2022-12-24 03:47:04",
+   "region": 1,
+   "name": "Name#60",
+   "email": "email60@abc.com",
+   "gold": 744831,
+   "power": 777528,
+   "level": 16
+ },
+ {
+   "id": 61,
+   "statetime": "2022-12-23 21:58:24",
+   "region": 8,
+   "name": "Name#61",
+   "email": "email61@abc.com",
+   "gold": 739184,
+   "power": 134696,
+   "level": 15
+ },
+ {
+   "id": 62,
+   "statetime": "2022-12-19 16:35:11",
+   "region": 4,
+   "name": "Name#62",
+   "email": "email62@abc.com",
+   "gold": 990618,
+   "power": 916480,
+   "level": 43
+ },
+ {
+   "id": 63,
+   "statetime": "2022-12-20 03:59:12",
+   "region": 2,
+   "name": "Name#63",
+   "email": "email63@abc.com",
+   "gold": 100899,
+   "power": 912473,
+   "level": 19
+ },
+ {
+   "id": 64,
+   "statetime": "2022-12-21 11:57:55",
+   "region": 2,
+   "name": "Name#64",
+   "email": "email64@abc.com",
+   "gold": 303253,
+   "power": 756115,
+   "level": 40
+ },
+ {
+   "id": 65,
+   "statetime": "2022-12-17 12:48:08",
+   "region": 6,
+   "name": "Name#65",
+   "email": "email65@abc.com",
+   "gold": 580888,
+   "power": 44606,
+   "level": 38
+ },
+ {
+   "id": 66,
+   "statetime": "2022-12-20 13:08:19",
+   "region": 5,
+   "name": "Name#66",
+   "email": "email66@abc.com",
+   "gold": 127368,
+   "power": 643489,
+   "level": 12
+ },
+ {
+   "id": 67,
+   "statetime": "2022-12-19 09:14:56",
+   "region": 6,
+   "name": "Name#67",
+   "email": "email67@abc.com",
+   "gold": 41606,
+   "power": 752257,
+   "level": 38
+ },
+ {
+   "id": 68,
+   "statetime": "2022-12-20 00:14:39",
+   "region": 1,
+   "name": "Name#68",
+   "email": "email68@abc.com",
+   "gold": 865382,
+   "power": 294507,
+   "level": 42
+ },
+ {
+   "id": 69,
+   "statetime": "2022-12-23 21:54:20",
+   "region": 8,
+   "name": "Name#69",
+   "email": "email69@abc.com",
+   "gold": 472730,
+   "power": 506648,
+   "level": 48
+ },
+ {
+   "id": 70,
+   "statetime": "2022-12-18 21:04:41",
+   "region": 8,
+   "name": "Name#70",
+   "email": "email70@abc.com",
+   "gold": 198344,
+   "power": 234494,
+   "level": 7
+ },
+ {
+   "id": 71,
+   "statetime": "2022-12-20 13:22:03",
+   "region": 9,
+   "name": "Name#71",
+   "email": "email71@abc.com",
+   "gold": 578682,
+   "power": 227248,
+   "level": 2
+ },
+ {
+   "id": 72,
+   "statetime": "2022-12-18 02:00:20",
+   "region": 6,
+   "name": "Name#72",
+   "email": "email72@abc.com",
+   "gold": 772213,
+   "power": 207278,
+   "level": 23
+ },
+ {
+   "id": 73,
+   "statetime": "2022-12-18 06:17:42",
+   "region": 2,
+   "name": "Name#73",
+   "email": "email73@abc.com",
+   "gold": 590103,
+   "power": 719337,
+   "level": 45
+ },
+ {
+   "id": 74,
+   "statetime": "2022-12-22 14:10:26",
+   "region": 9,
+   "name": "Name#74",
+   "email": "email74@abc.com",
+   "gold": 125405,
+   "power": 883772,
+   "level": 23
+ },
+ {
+   "id": 75,
+   "statetime": "2022-12-20 04:40:39",
+   "region": 7,
+   "name": "Name#75",
+   "email": "email75@abc.com",
+   "gold": 630979,
+   "power": 899755,
+   "level": 31
+ },
+ {
+   "id": 76,
+   "statetime": "2022-12-19 20:09:08",
+   "region": 6,
+   "name": "Name#76",
+   "email": "email76@abc.com",
+   "gold": 523162,
+   "power": 18955,
+   "level": 39
+ },
+ {
+   "id": 77,
+   "statetime": "2022-12-18 17:46:43",
+   "region": 8,
+   "name": "Name#77",
+   "email": "email77@abc.com",
+   "gold": 790163,
+   "power": 327965,
+   "level": 14
+ },
+ {
+   "id": 78,
+   "statetime": "2022-12-19 17:34:28",
+   "region": 3,
+   "name": "Name#78",
+   "email": "email78@abc.com",
+   "gold": 105131,
+   "power": 867034,
+   "level": 18
+ },
+ {
+   "id": 79,
+   "statetime": "2022-12-22 00:14:32",
+   "region": 5,
+   "name": "Name#79",
+   "email": "email79@abc.com",
+   "gold": 730543,
+   "power": 368849,
+   "level": 26
+ },
+ {
+   "id": 80,
+   "statetime": "2022-12-21 11:54:12",
+   "region": 5,
+   "name": "Name#80",
+   "email": "email80@abc.com",
+   "gold": 246711,
+   "power": 293435,
+   "level": 32
+ },
+ {
+   "id": 81,
+   "statetime": "2022-12-17 19:03:38",
+   "region": 7,
+   "name": "Name#81",
+   "email": "email81@abc.com",
+   "gold": 716050,
+   "power": 848273,
+   "level": 35
+ },
+ {
+   "id": 82,
+   "statetime": "2022-12-20 07:13:18",
+   "region": 1,
+   "name": "Name#82",
+   "email": "email82@abc.com",
+   "gold": 841687,
+   "power": 824804,
+   "level": 44
+ },
+ {
+   "id": 83,
+   "statetime": "2022-12-20 20:43:14",
+   "region": 1,
+   "name": "Name#83",
+   "email": "email83@abc.com",
+   "gold": 732502,
+   "power": 684547,
+   "level": 9
+ },
+ {
+   "id": 84,
+   "statetime": "2022-12-18 18:30:32",
+   "region": 9,
+   "name": "Name#84",
+   "email": "email84@abc.com",
+   "gold": 832182,
+   "power": 424133,
+   "level": 20
+ },
+ {
+   "id": 85,
+   "statetime": "2022-12-18 07:25:05",
+   "region": 4,
+   "name": "Name#85",
+   "email": "email85@abc.com",
+   "gold": 993143,
+   "power": 128819,
+   "level": 28
+ },
+ {
+   "id": 86,
+   "statetime": "2022-12-18 15:00:46",
+   "region": 5,
+   "name": "Name#86",
+   "email": "email86@abc.com",
+   "gold": 305498,
+   "power": 116773,
+   "level": 5
+ },
+ {
+   "id": 87,
+   "statetime": "2022-12-19 08:22:50",
+   "region": 7,
+   "name": "Name#87",
+   "email": "email87@abc.com",
+   "gold": 447993,
+   "power": 938463,
+   "level": 8
+ },
+ {
+   "id": 88,
+   "statetime": "2022-12-21 13:16:46",
+   "region": 7,
+   "name": "Name#88",
+   "email": "email88@abc.com",
+   "gold": 39883,
+   "power": 673827,
+   "level": 35
+ },
+ {
+   "id": 89,
+   "statetime": "2022-12-21 17:10:00",
+   "region": 4,
+   "name": "Name#89",
+   "email": "email89@abc.com",
+   "gold": 895838,
+   "power": 388751,
+   "level": 37
+ },
+ {
+   "id": 90,
+   "statetime": "2022-12-22 19:35:04",
+   "region": 5,
+   "name": "Name#90",
+   "email": "email90@abc.com",
+   "gold": 55581,
+   "power": 134566,
+   "level": 10
+ },
+ {
+   "id": 91,
+   "statetime": "2022-12-19 22:16:41",
+   "region": 9,
+   "name": "Name#91",
+   "email": "email91@abc.com",
+   "gold": 436363,
+   "power": 838633,
+   "level": 3
+ },
+ {
+   "id": 92,
+   "statetime": "2022-12-24 03:02:03",
+   "region": 9,
+   "name": "Name#92",
+   "email": "email92@abc.com",
+   "gold": 219982,
+   "power": 787222,
+   "level": 27
+ },
+ {
+   "id": 93,
+   "statetime": "2022-12-19 21:54:58",
+   "region": 3,
+   "name": "Name#93",
+   "email": "email93@abc.com",
+   "gold": 133751,
+   "power": 446798,
+   "level": 6
+ },
+ {
+   "id": 94,
+   "statetime": "2022-12-20 18:05:44",
+   "region": 9,
+   "name": "Name#94",
+   "email": "email94@abc.com",
+   "gold": 612933,
+   "power": 65254,
+   "level": 41
+ },
+ {
+   "id": 95,
+   "statetime": "2022-12-20 10:36:21",
+   "region": 5,
+   "name": "Name#95",
+   "email": "email95@abc.com",
+   "gold": 930854,
+   "power": 633310,
+   "level": 10
+ },
+ {
+   "id": 96,
+   "statetime": "2022-12-23 23:30:19",
+   "region": 7,
+   "name": "Name#96",
+   "email": "email96@abc.com",
+   "gold": 570610,
+   "power": 643536,
+   "level": 30
+ },
+ {
+   "id": 97,
+   "statetime": "2022-12-20 20:41:09",
+   "region": 8,
+   "name": "Name#97",
+   "email": "email97@abc.com",
+   "gold": 776262,
+   "power": 725959,
+   "level": 25
+ },
+ {
+   "id": 98,
+   "statetime": "2022-12-18 08:49:33",
+   "region": 2,
+   "name": "Name#98",
+   "email": "email98@abc.com",
+   "gold": 453729,
+   "power": 835079,
+   "level": 44
+ },
+ {
+   "id": 99,
+   "statetime": "2022-12-17 18:53:56",
+   "region": 7,
+   "name": "Name#99",
+   "email": "email99@abc.com",
+   "gold": 829164,
+   "power": 15417,
+   "level": 7
+ },
+ {
+   "id": 100,
+   "statetime": "2022-12-23 12:17:29",
+   "region": 6,
+   "name": "Name#100",
+   "email": "email100@abc.com",
+   "gold": 284386,
+   "power": 534722,
+   "level": 13
+ },
+ {
+   "id": 101,
+   "statetime": "2022-12-23 09:10:23",
+   "region": 1,
+   "name": "Name#101",
+   "email": "email101@abc.com",
+   "gold": 103736,
+   "power": 362996,
+   "level": 38
+ },
+ {
+   "id": 102,
+   "statetime": "2022-12-20 14:55:49",
+   "region": 7,
+   "name": "Name#102",
+   "email": "email102@abc.com",
+   "gold": 760877,
+   "power": 133487,
+   "level": 2
+ },
+ {
+   "id": 103,
+   "statetime": "2022-12-22 17:06:53",
+   "region": 9,
+   "name": "Name#103",
+   "email": "email103@abc.com",
+   "gold": 492422,
+   "power": 595675,
+   "level": 35
+ },
+ {
+   "id": 104,
+   "statetime": "2022-12-21 08:02:27",
+   "region": 1,
+   "name": "Name#104",
+   "email": "email104@abc.com",
+   "gold": 316050,
+   "power": 216334,
+   "level": 14
+ },
+ {
+   "id": 105,
+   "statetime": "2022-12-19 12:49:24",
+   "region": 4,
+   "name": "Name#105",
+   "email": "email105@abc.com",
+   "gold": 343812,
+   "power": 133222,
+   "level": 38
+ },
+ {
+   "id": 106,
+   "statetime": "2022-12-21 09:15:11",
+   "region": 5,
+   "name": "Name#106",
+   "email": "email106@abc.com",
+   "gold": 527823,
+   "power": 442567,
+   "level": 3
+ },
+ {
+   "id": 107,
+   "statetime": "2022-12-17 18:31:26",
+   "region": 3,
+   "name": "Name#107",
+   "email": "email107@abc.com",
+   "gold": 940044,
+   "power": 37083,
+   "level": 24
+ },
+ {
+   "id": 108,
+   "statetime": "2022-12-21 22:38:18",
+   "region": 3,
+   "name": "Name#108",
+   "email": "email108@abc.com",
+   "gold": 541850,
+   "power": 806717,
+   "level": 49
+ },
+ {
+   "id": 109,
+   "statetime": "2022-12-23 16:15:20",
+   "region": 7,
+   "name": "Name#109",
+   "email": "email109@abc.com",
+   "gold": 447873,
+   "power": 465180,
+   "level": 31
+ },
+ {
+   "id": 110,
+   "statetime": "2022-12-22 02:31:28",
+   "region": 2,
+   "name": "Name#110",
+   "email": "email110@abc.com",
+   "gold": 533327,
+   "power": 753801,
+   "level": 31
+ },
+ {
+   "id": 111,
+   "statetime": "2022-12-20 18:35:20",
+   "region": 1,
+   "name": "Name#111",
+   "email": "email111@abc.com",
+   "gold": 349237,
+   "power": 642038,
+   "level": 45
+ },
+ {
+   "id": 112,
+   "statetime": "2022-12-23 21:45:16",
+   "region": 5,
+   "name": "Name#112",
+   "email": "email112@abc.com",
+   "gold": 685712,
+   "power": 620519,
+   "level": 19
+ },
+ {
+   "id": 113,
+   "statetime": "2022-12-24 06:46:18",
+   "region": 6,
+   "name": "Name#113",
+   "email": "email113@abc.com",
+   "gold": 221527,
+   "power": 203960,
+   "level": 28
+ },
+ {
+   "id": 114,
+   "statetime": "2022-12-20 14:02:38",
+   "region": 8,
+   "name": "Name#114",
+   "email": "email114@abc.com",
+   "gold": 764792,
+   "power": 963398,
+   "level": 16
+ },
+ {
+   "id": 115,
+   "statetime": "2022-12-22 11:52:46",
+   "region": 8,
+   "name": "Name#115",
+   "email": "email115@abc.com",
+   "gold": 882951,
+   "power": 707709,
+   "level": 36
+ },
+ {
+   "id": 116,
+   "statetime": "2022-12-21 22:07:17",
+   "region": 5,
+   "name": "Name#116",
+   "email": "email116@abc.com",
+   "gold": 989599,
+   "power": 77441,
+   "level": 21
+ },
+ {
+   "id": 117,
+   "statetime": "2022-12-23 14:20:42",
+   "region": 1,
+   "name": "Name#117",
+   "email": "email117@abc.com",
+   "gold": 844175,
+   "power": 793597,
+   "level": 27
+ },
+ {
+   "id": 118,
+   "statetime": "2022-12-19 23:36:44",
+   "region": 3,
+   "name": "Name#118",
+   "email": "email118@abc.com",
+   "gold": 208064,
+   "power": 564735,
+   "level": 18
+ },
+ {
+   "id": 119,
+   "statetime": "2022-12-21 22:44:22",
+   "region": 7,
+   "name": "Name#119",
+   "email": "email119@abc.com",
+   "gold": 831475,
+   "power": 529654,
+   "level": 17
+ },
+ {
+   "id": 120,
+   "statetime": "2022-12-20 23:52:23",
+   "region": 6,
+   "name": "Name#120",
+   "email": "email120@abc.com",
+   "gold": 207059,
+   "power": 971924,
+   "level": 20
+ },
+ {
+   "id": 121,
+   "statetime": "2022-12-22 09:37:47",
+   "region": 7,
+   "name": "Name#121",
+   "email": "email121@abc.com",
+   "gold": 253338,
+   "power": 605011,
+   "level": 25
+ },
+ {
+   "id": 122,
+   "statetime": "2022-12-18 09:04:19",
+   "region": 5,
+   "name": "Name#122",
+   "email": "email122@abc.com",
+   "gold": 858823,
+   "power": 694321,
+   "level": 9
+ },
+ {
+   "id": 123,
+   "statetime": "2022-12-23 13:02:15",
+   "region": 5,
+   "name": "Name#123",
+   "email": "email123@abc.com",
+   "gold": 797107,
+   "power": 390647,
+   "level": 28
+ },
+ {
+   "id": 124,
+   "statetime": "2022-12-23 11:34:40",
+   "region": 6,
+   "name": "Name#124",
+   "email": "email124@abc.com",
+   "gold": 373870,
+   "power": 599970,
+   "level": 33
+ },
+ {
+   "id": 125,
+   "statetime": "2022-12-23 21:44:25",
+   "region": 3,
+   "name": "Name#125",
+   "email": "email125@abc.com",
+   "gold": 400844,
+   "power": 244089,
+   "level": 18
+ },
+ {
+   "id": 126,
+   "statetime": "2022-12-19 23:52:22",
+   "region": 9,
+   "name": "Name#126",
+   "email": "email126@abc.com",
+   "gold": 188323,
+   "power": 432421,
+   "level": 19
+ },
+ {
+   "id": 127,
+   "statetime": "2022-12-18 19:49:35",
+   "region": 7,
+   "name": "Name#127",
+   "email": "email127@abc.com",
+   "gold": 36593,
+   "power": 918833,
+   "level": 18
+ },
+ {
+   "id": 128,
+   "statetime": "2022-12-19 02:14:42",
+   "region": 4,
+   "name": "Name#128",
+   "email": "email128@abc.com",
+   "gold": 627412,
+   "power": 199865,
+   "level": 49
+ },
+ {
+   "id": 129,
+   "statetime": "2022-12-23 15:46:49",
+   "region": 6,
+   "name": "Name#129",
+   "email": "email129@abc.com",
+   "gold": 3944,
+   "power": 375740,
+   "level": 43
+ },
+ {
+   "id": 130,
+   "statetime": "2022-12-19 21:24:11",
+   "region": 9,
+   "name": "Name#130",
+   "email": "email130@abc.com",
+   "gold": 928445,
+   "power": 227954,
+   "level": 1
+ },
+ {
+   "id": 131,
+   "statetime": "2022-12-21 01:26:04",
+   "region": 3,
+   "name": "Name#131",
+   "email": "email131@abc.com",
+   "gold": 795441,
+   "power": 102713,
+   "level": 45
+ },
+ {
+   "id": 132,
+   "statetime": "2022-12-18 18:41:54",
+   "region": 6,
+   "name": "Name#132",
+   "email": "email132@abc.com",
+   "gold": 959688,
+   "power": 213817,
+   "level": 36
+ },
+ {
+   "id": 133,
+   "statetime": "2022-12-19 12:12:43",
+   "region": 2,
+   "name": "Name#133",
+   "email": "email133@abc.com",
+   "gold": 384217,
+   "power": 201640,
+   "level": 28
+ },
+ {
+   "id": 134,
+   "statetime": "2022-12-18 09:25:55",
+   "region": 9,
+   "name": "Name#134",
+   "email": "email134@abc.com",
+   "gold": 39196,
+   "power": 17456,
+   "level": 18
+ },
+ {
+   "id": 135,
+   "statetime": "2022-12-23 10:26:48",
+   "region": 6,
+   "name": "Name#135",
+   "email": "email135@abc.com",
+   "gold": 884418,
+   "power": 417428,
+   "level": 1
+ },
+ {
+   "id": 136,
+   "statetime": "2022-12-19 01:36:07",
+   "region": 6,
+   "name": "Name#136",
+   "email": "email136@abc.com",
+   "gold": 663376,
+   "power": 654835,
+   "level": 33
+ },
+ {
+   "id": 137,
+   "statetime": "2022-12-19 15:02:12",
+   "region": 5,
+   "name": "Name#137",
+   "email": "email137@abc.com",
+   "gold": 844969,
+   "power": 354194,
+   "level": 31
+ },
+ {
+   "id": 138,
+   "statetime": "2022-12-19 21:22:17",
+   "region": 4,
+   "name": "Name#138",
+   "email": "email138@abc.com",
+   "gold": 829877,
+   "power": 952468,
+   "level": 34
+ },
+ {
+   "id": 139,
+   "statetime": "2022-12-21 16:30:57",
+   "region": 8,
+   "name": "Name#139",
+   "email": "email139@abc.com",
+   "gold": 694821,
+   "power": 849619,
+   "level": 1
+ },
+ {
+   "id": 140,
+   "statetime": "2022-12-22 12:34:01",
+   "region": 1,
+   "name": "Name#140",
+   "email": "email140@abc.com",
+   "gold": 372568,
+   "power": 825235,
+   "level": 1
+ },
+ {
+   "id": 141,
+   "statetime": "2022-12-18 14:03:45",
+   "region": 7,
+   "name": "Name#141",
+   "email": "email141@abc.com",
+   "gold": 19135,
+   "power": 743287,
+   "level": 20
+ },
+ {
+   "id": 142,
+   "statetime": "2022-12-23 11:24:23",
+   "region": 9,
+   "name": "Name#142",
+   "email": "email142@abc.com",
+   "gold": 550945,
+   "power": 484708,
+   "level": 8
+ },
+ {
+   "id": 143,
+   "statetime": "2022-12-22 03:37:18",
+   "region": 4,
+   "name": "Name#143",
+   "email": "email143@abc.com",
+   "gold": 867890,
+   "power": 870665,
+   "level": 39
+ },
+ {
+   "id": 144,
+   "statetime": "2022-12-18 06:58:09",
+   "region": 3,
+   "name": "Name#144",
+   "email": "email144@abc.com",
+   "gold": 42602,
+   "power": 108253,
+   "level": 2
+ },
+ {
+   "id": 145,
+   "statetime": "2022-12-18 21:10:19",
+   "region": 2,
+   "name": "Name#145",
+   "email": "email145@abc.com",
+   "gold": 352554,
+   "power": 170344,
+   "level": 43
+ },
+ {
+   "id": 146,
+   "statetime": "2022-12-23 02:43:52",
+   "region": 3,
+   "name": "Name#146",
+   "email": "email146@abc.com",
+   "gold": 625087,
+   "power": 410027,
+   "level": 28
+ },
+ {
+   "id": 147,
+   "statetime": "2022-12-21 03:32:28",
+   "region": 6,
+   "name": "Name#147",
+   "email": "email147@abc.com",
+   "gold": 820952,
+   "power": 151311,
+   "level": 10
+ },
+ {
+   "id": 148,
+   "statetime": "2022-12-17 13:57:56",
+   "region": 4,
+   "name": "Name#148",
+   "email": "email148@abc.com",
+   "gold": 490407,
+   "power": 554860,
+   "level": 48
+ },
+ {
+   "id": 149,
+   "statetime": "2022-12-22 03:55:31",
+   "region": 3,
+   "name": "Name#149",
+   "email": "email149@abc.com",
+   "gold": 576570,
+   "power": 988163,
+   "level": 37
+ },
+ {
+   "id": 150,
+   "statetime": "2022-12-23 04:42:01",
+   "region": 1,
+   "name": "Name#150",
+   "email": "email150@abc.com",
+   "gold": 673857,
+   "power": 215153,
+   "level": 4
+ },
+ {
+   "id": 151,
+   "statetime": "2022-12-20 03:36:39",
+   "region": 7,
+   "name": "Name#151",
+   "email": "email151@abc.com",
+   "gold": 791254,
+   "power": 151704,
+   "level": 40
+ },
+ {
+   "id": 152,
+   "statetime": "2022-12-21 11:19:46",
+   "region": 4,
+   "name": "Name#152",
+   "email": "email152@abc.com",
+   "gold": 917169,
+   "power": 666296,
+   "level": 33
+ },
+ {
+   "id": 153,
+   "statetime": "2022-12-23 02:11:52",
+   "region": 4,
+   "name": "Name#153",
+   "email": "email153@abc.com",
+   "gold": 673429,
+   "power": 520444,
+   "level": 30
+ },
+ {
+   "id": 154,
+   "statetime": "2022-12-20 12:33:23",
+   "region": 2,
+   "name": "Name#154",
+   "email": "email154@abc.com",
+   "gold": 274290,
+   "power": 508470,
+   "level": 47
+ },
+ {
+   "id": 155,
+   "statetime": "2022-12-18 21:10:39",
+   "region": 3,
+   "name": "Name#155",
+   "email": "email155@abc.com",
+   "gold": 874000,
+   "power": 723172,
+   "level": 39
+ },
+ {
+   "id": 156,
+   "statetime": "2022-12-21 01:57:33",
+   "region": 3,
+   "name": "Name#156",
+   "email": "email156@abc.com",
+   "gold": 774445,
+   "power": 181104,
+   "level": 21
+ },
+ {
+   "id": 157,
+   "statetime": "2022-12-18 21:34:26",
+   "region": 9,
+   "name": "Name#157",
+   "email": "email157@abc.com",
+   "gold": 577135,
+   "power": 63086,
+   "level": 49
+ },
+ {
+   "id": 158,
+   "statetime": "2022-12-21 04:05:57",
+   "region": 2,
+   "name": "Name#158",
+   "email": "email158@abc.com",
+   "gold": 60784,
+   "power": 995495,
+   "level": 31
+ },
+ {
+   "id": 159,
+   "statetime": "2022-12-23 14:01:02",
+   "region": 9,
+   "name": "Name#159",
+   "email": "email159@abc.com",
+   "gold": 281748,
+   "power": 310823,
+   "level": 26
+ },
+ {
+   "id": 160,
+   "statetime": "2022-12-20 09:54:37",
+   "region": 6,
+   "name": "Name#160",
+   "email": "email160@abc.com",
+   "gold": 480576,
+   "power": 535959,
+   "level": 15
+ },
+ {
+   "id": 161,
+   "statetime": "2022-12-19 22:17:44",
+   "region": 9,
+   "name": "Name#161",
+   "email": "email161@abc.com",
+   "gold": 774252,
+   "power": 574758,
+   "level": 29
+ },
+ {
+   "id": 162,
+   "statetime": "2022-12-22 06:04:20",
+   "region": 9,
+   "name": "Name#162",
+   "email": "email162@abc.com",
+   "gold": 992702,
+   "power": 780095,
+   "level": 45
+ },
+ {
+   "id": 163,
+   "statetime": "2022-12-21 22:22:10",
+   "region": 2,
+   "name": "Name#163",
+   "email": "email163@abc.com",
+   "gold": 166782,
+   "power": 283336,
+   "level": 37
+ },
+ {
+   "id": 164,
+   "statetime": "2022-12-22 19:17:23",
+   "region": 7,
+   "name": "Name#164",
+   "email": "email164@abc.com",
+   "gold": 988791,
+   "power": 103812,
+   "level": 20
+ },
+ {
+   "id": 165,
+   "statetime": "2022-12-22 08:53:50",
+   "region": 5,
+   "name": "Name#165",
+   "email": "email165@abc.com",
+   "gold": 865807,
+   "power": 726634,
+   "level": 28
+ },
+ {
+   "id": 166,
+   "statetime": "2022-12-20 17:51:38",
+   "region": 4,
+   "name": "Name#166",
+   "email": "email166@abc.com",
+   "gold": 831111,
+   "power": 926400,
+   "level": 47
+ },
+ {
+   "id": 167,
+   "statetime": "2022-12-22 23:59:27",
+   "region": 7,
+   "name": "Name#167",
+   "email": "email167@abc.com",
+   "gold": 620741,
+   "power": 876237,
+   "level": 30
+ },
+ {
+   "id": 168,
+   "statetime": "2022-12-21 02:55:38",
+   "region": 7,
+   "name": "Name#168",
+   "email": "email168@abc.com",
+   "gold": 624130,
+   "power": 571621,
+   "level": 39
+ },
+ {
+   "id": 169,
+   "statetime": "2022-12-19 16:12:06",
+   "region": 1,
+   "name": "Name#169",
+   "email": "email169@abc.com",
+   "gold": 183714,
+   "power": 765273,
+   "level": 26
+ },
+ {
+   "id": 170,
+   "statetime": "2022-12-21 00:33:24",
+   "region": 4,
+   "name": "Name#170",
+   "email": "email170@abc.com",
+   "gold": 22098,
+   "power": 93958,
+   "level": 27
+ },
+ {
+   "id": 171,
+   "statetime": "2022-12-20 00:53:32",
+   "region": 2,
+   "name": "Name#171",
+   "email": "email171@abc.com",
+   "gold": 715860,
+   "power": 830482,
+   "level": 24
+ },
+ {
+   "id": 172,
+   "statetime": "2022-12-18 20:09:36",
+   "region": 5,
+   "name": "Name#172",
+   "email": "email172@abc.com",
+   "gold": 900453,
+   "power": 22266,
+   "level": 24
+ },
+ {
+   "id": 173,
+   "statetime": "2022-12-20 03:24:03",
+   "region": 4,
+   "name": "Name#173",
+   "email": "email173@abc.com",
+   "gold": 85443,
+   "power": 863456,
+   "level": 35
+ },
+ {
+   "id": 174,
+   "statetime": "2022-12-23 10:38:14",
+   "region": 3,
+   "name": "Name#174",
+   "email": "email174@abc.com",
+   "gold": 470252,
+   "power": 86918,
+   "level": 10
+ },
+ {
+   "id": 175,
+   "statetime": "2022-12-23 12:19:15",
+   "region": 7,
+   "name": "Name#175",
+   "email": "email175@abc.com",
+   "gold": 419994,
+   "power": 917173,
+   "level": 34
+ },
+ {
+   "id": 176,
+   "statetime": "2022-12-19 09:24:22",
+   "region": 4,
+   "name": "Name#176",
+   "email": "email176@abc.com",
+   "gold": 414832,
+   "power": 284866,
+   "level": 43
+ },
+ {
+   "id": 177,
+   "statetime": "2022-12-20 14:31:47",
+   "region": 2,
+   "name": "Name#177",
+   "email": "email177@abc.com",
+   "gold": 718282,
+   "power": 880856,
+   "level": 18
+ },
+ {
+   "id": 178,
+   "statetime": "2022-12-20 18:38:29",
+   "region": 5,
+   "name": "Name#178",
+   "email": "email178@abc.com",
+   "gold": 714435,
+   "power": 603938,
+   "level": 9
+ },
+ {
+   "id": 179,
+   "statetime": "2022-12-22 11:04:47",
+   "region": 2,
+   "name": "Name#179",
+   "email": "email179@abc.com",
+   "gold": 125882,
+   "power": 478775,
+   "level": 48
+ },
+ {
+   "id": 180,
+   "statetime": "2022-12-24 03:06:48",
+   "region": 6,
+   "name": "Name#180",
+   "email": "email180@abc.com",
+   "gold": 305806,
+   "power": 576099,
+   "level": 4
+ },
+ {
+   "id": 181,
+   "statetime": "2022-12-19 06:24:24",
+   "region": 7,
+   "name": "Name#181",
+   "email": "email181@abc.com",
+   "gold": 936106,
+   "power": 394468,
+   "level": 15
+ },
+ {
+   "id": 182,
+   "statetime": "2022-12-19 15:12:21",
+   "region": 1,
+   "name": "Name#182",
+   "email": "email182@abc.com",
+   "gold": 601471,
+   "power": 131006,
+   "level": 46
+ },
+ {
+   "id": 183,
+   "statetime": "2022-12-20 03:39:51",
+   "region": 2,
+   "name": "Name#183",
+   "email": "email183@abc.com",
+   "gold": 358172,
+   "power": 807674,
+   "level": 17
+ },
+ {
+   "id": 184,
+   "statetime": "2022-12-21 12:58:57",
+   "region": 1,
+   "name": "Name#184",
+   "email": "email184@abc.com",
+   "gold": 197288,
+   "power": 454401,
+   "level": 28
+ },
+ {
+   "id": 185,
+   "statetime": "2022-12-18 06:30:02",
+   "region": 2,
+   "name": "Name#185",
+   "email": "email185@abc.com",
+   "gold": 690888,
+   "power": 425811,
+   "level": 17
+ },
+ {
+   "id": 186,
+   "statetime": "2022-12-23 13:27:25",
+   "region": 7,
+   "name": "Name#186",
+   "email": "email186@abc.com",
+   "gold": 819849,
+   "power": 760719,
+   "level": 1
+ },
+ {
+   "id": 187,
+   "statetime": "2022-12-23 19:29:54",
+   "region": 5,
+   "name": "Name#187",
+   "email": "email187@abc.com",
+   "gold": 167435,
+   "power": 915664,
+   "level": 30
+ },
+ {
+   "id": 188,
+   "statetime": "2022-12-22 02:22:15",
+   "region": 2,
+   "name": "Name#188",
+   "email": "email188@abc.com",
+   "gold": 974938,
+   "power": 795825,
+   "level": 21
+ },
+ {
+   "id": 189,
+   "statetime": "2022-12-21 08:38:48",
+   "region": 9,
+   "name": "Name#189",
+   "email": "email189@abc.com",
+   "gold": 128727,
+   "power": 197538,
+   "level": 41
+ },
+ {
+   "id": 190,
+   "statetime": "2022-12-22 02:04:10",
+   "region": 5,
+   "name": "Name#190",
+   "email": "email190@abc.com",
+   "gold": 228137,
+   "power": 414132,
+   "level": 9
+ },
+ {
+   "id": 191,
+   "statetime": "2022-12-19 21:44:53",
+   "region": 4,
+   "name": "Name#191",
+   "email": "email191@abc.com",
+   "gold": 927376,
+   "power": 561789,
+   "level": 21
+ },
+ {
+   "id": 192,
+   "statetime": "2022-12-19 08:31:48",
+   "region": 9,
+   "name": "Name#192",
+   "email": "email192@abc.com",
+   "gold": 514422,
+   "power": 212479,
+   "level": 47
+ },
+ {
+   "id": 193,
+   "statetime": "2022-12-17 16:45:48",
+   "region": 4,
+   "name": "Name#193",
+   "email": "email193@abc.com",
+   "gold": 147335,
+   "power": 787100,
+   "level": 44
+ },
+ {
+   "id": 194,
+   "statetime": "2022-12-21 13:35:49",
+   "region": 1,
+   "name": "Name#194",
+   "email": "email194@abc.com",
+   "gold": 450310,
+   "power": 231922,
+   "level": 48
+ },
+ {
+   "id": 195,
+   "statetime": "2022-12-24 03:09:06",
+   "region": 4,
+   "name": "Name#195",
+   "email": "email195@abc.com",
+   "gold": 514816,
+   "power": 108357,
+   "level": 7
+ },
+ {
+   "id": 196,
+   "statetime": "2022-12-23 00:55:22",
+   "region": 9,
+   "name": "Name#196",
+   "email": "email196@abc.com",
+   "gold": 495436,
+   "power": 644844,
+   "level": 40
+ },
+ {
+   "id": 197,
+   "statetime": "2022-12-17 15:53:57",
+   "region": 2,
+   "name": "Name#197",
+   "email": "email197@abc.com",
+   "gold": 877730,
+   "power": 911330,
+   "level": 46
+ },
+ {
+   "id": 198,
+   "statetime": "2022-12-23 03:01:47",
+   "region": 2,
+   "name": "Name#198",
+   "email": "email198@abc.com",
+   "gold": 722862,
+   "power": 239054,
+   "level": 25
+ },
+ {
+   "id": 199,
+   "statetime": "2022-12-24 00:17:26",
+   "region": 2,
+   "name": "Name#199",
+   "email": "email199@abc.com",
+   "gold": 983736,
+   "power": 680776,
+   "level": 39
+ },
+ {
+   "id": 200,
+   "statetime": "2022-12-19 11:56:02",
+   "region": 3,
+   "name": "Name#200",
+   "email": "email200@abc.com",
+   "gold": 449975,
+   "power": 686979,
+   "level": 48
+ },
+ {
+   "id": 201,
+   "statetime": "2022-12-21 02:30:55",
+   "region": 4,
+   "name": "Name#201",
+   "email": "email201@abc.com",
+   "gold": 186427,
+   "power": 580602,
+   "level": 5
+ },
+ {
+   "id": 202,
+   "statetime": "2022-12-19 06:04:40",
+   "region": 8,
+   "name": "Name#202",
+   "email": "email202@abc.com",
+   "gold": 715893,
+   "power": 235066,
+   "level": 34
+ },
+ {
+   "id": 203,
+   "statetime": "2022-12-22 05:37:46",
+   "region": 7,
+   "name": "Name#203",
+   "email": "email203@abc.com",
+   "gold": 569262,
+   "power": 342496,
+   "level": 8
+ },
+ {
+   "id": 204,
+   "statetime": "2022-12-20 00:40:22",
+   "region": 3,
+   "name": "Name#204",
+   "email": "email204@abc.com",
+   "gold": 676024,
+   "power": 615882,
+   "level": 24
+ },
+ {
+   "id": 205,
+   "statetime": "2022-12-22 10:02:55",
+   "region": 9,
+   "name": "Name#205",
+   "email": "email205@abc.com",
+   "gold": 504200,
+   "power": 972267,
+   "level": 37
+ },
+ {
+   "id": 206,
+   "statetime": "2022-12-19 04:42:21",
+   "region": 1,
+   "name": "Name#206",
+   "email": "email206@abc.com",
+   "gold": 360897,
+   "power": 106334,
+   "level": 4
+ },
+ {
+   "id": 207,
+   "statetime": "2022-12-23 07:00:38",
+   "region": 8,
+   "name": "Name#207",
+   "email": "email207@abc.com",
+   "gold": 16762,
+   "power": 614117,
+   "level": 48
+ },
+ {
+   "id": 208,
+   "statetime": "2022-12-21 01:43:27",
+   "region": 3,
+   "name": "Name#208",
+   "email": "email208@abc.com",
+   "gold": 441951,
+   "power": 4386,
+   "level": 48
+ },
+ {
+   "id": 209,
+   "statetime": "2022-12-17 10:05:27",
+   "region": 6,
+   "name": "Name#209",
+   "email": "email209@abc.com",
+   "gold": 504921,
+   "power": 307452,
+   "level": 8
+ },
+ {
+   "id": 210,
+   "statetime": "2022-12-22 00:19:54",
+   "region": 8,
+   "name": "Name#210",
+   "email": "email210@abc.com",
+   "gold": 281031,
+   "power": 866295,
+   "level": 5
+ },
+ {
+   "id": 211,
+   "statetime": "2022-12-18 17:39:59",
+   "region": 5,
+   "name": "Name#211",
+   "email": "email211@abc.com",
+   "gold": 941807,
+   "power": 934517,
+   "level": 25
+ },
+ {
+   "id": 212,
+   "statetime": "2022-12-19 19:19:49",
+   "region": 5,
+   "name": "Name#212",
+   "email": "email212@abc.com",
+   "gold": 380703,
+   "power": 954017,
+   "level": 37
+ },
+ {
+   "id": 213,
+   "statetime": "2022-12-23 00:41:30",
+   "region": 9,
+   "name": "Name#213",
+   "email": "email213@abc.com",
+   "gold": 899727,
+   "power": 986362,
+   "level": 20
+ },
+ {
+   "id": 214,
+   "statetime": "2022-12-17 22:51:02",
+   "region": 3,
+   "name": "Name#214",
+   "email": "email214@abc.com",
+   "gold": 727729,
+   "power": 18306,
+   "level": 20
+ },
+ {
+   "id": 215,
+   "statetime": "2022-12-18 22:18:00",
+   "region": 5,
+   "name": "Name#215",
+   "email": "email215@abc.com",
+   "gold": 12992,
+   "power": 906450,
+   "level": 8
+ },
+ {
+   "id": 216,
+   "statetime": "2022-12-18 02:07:36",
+   "region": 1,
+   "name": "Name#216",
+   "email": "email216@abc.com",
+   "gold": 571600,
+   "power": 576631,
+   "level": 6
+ },
+ {
+   "id": 217,
+   "statetime": "2022-12-19 00:13:03",
+   "region": 5,
+   "name": "Name#217",
+   "email": "email217@abc.com",
+   "gold": 534644,
+   "power": 68751,
+   "level": 28
+ },
+ {
+   "id": 218,
+   "statetime": "2022-12-21 08:57:33",
+   "region": 5,
+   "name": "Name#218",
+   "email": "email218@abc.com",
+   "gold": 122452,
+   "power": 419252,
+   "level": 17
+ },
+ {
+   "id": 219,
+   "statetime": "2022-12-17 14:26:27",
+   "region": 6,
+   "name": "Name#219",
+   "email": "email219@abc.com",
+   "gold": 677263,
+   "power": 718762,
+   "level": 3
+ },
+ {
+   "id": 220,
+   "statetime": "2022-12-17 23:43:05",
+   "region": 2,
+   "name": "Name#220",
+   "email": "email220@abc.com",
+   "gold": 795556,
+   "power": 502905,
+   "level": 48
+ },
+ {
+   "id": 221,
+   "statetime": "2022-12-21 03:49:07",
+   "region": 9,
+   "name": "Name#221",
+   "email": "email221@abc.com",
+   "gold": 830747,
+   "power": 690660,
+   "level": 44
+ },
+ {
+   "id": 222,
+   "statetime": "2022-12-21 18:15:49",
+   "region": 5,
+   "name": "Name#222",
+   "email": "email222@abc.com",
+   "gold": 740222,
+   "power": 145976,
+   "level": 2
+ },
+ {
+   "id": 223,
+   "statetime": "2022-12-23 21:17:09",
+   "region": 3,
+   "name": "Name#223",
+   "email": "email223@abc.com",
+   "gold": 268001,
+   "power": 269877,
+   "level": 6
+ },
+ {
+   "id": 224,
+   "statetime": "2022-12-17 22:22:33",
+   "region": 4,
+   "name": "Name#224",
+   "email": "email224@abc.com",
+   "gold": 471655,
+   "power": 630756,
+   "level": 31
+ },
+ {
+   "id": 225,
+   "statetime": "2022-12-19 10:24:16",
+   "region": 1,
+   "name": "Name#225",
+   "email": "email225@abc.com",
+   "gold": 616400,
+   "power": 771502,
+   "level": 14
+ },
+ {
+   "id": 226,
+   "statetime": "2022-12-19 14:31:52",
+   "region": 9,
+   "name": "Name#226",
+   "email": "email226@abc.com",
+   "gold": 397039,
+   "power": 655397,
+   "level": 13
+ },
+ {
+   "id": 227,
+   "statetime": "2022-12-17 18:55:41",
+   "region": 2,
+   "name": "Name#227",
+   "email": "email227@abc.com",
+   "gold": 509494,
+   "power": 218510,
+   "level": 7
+ },
+ {
+   "id": 228,
+   "statetime": "2022-12-21 23:20:03",
+   "region": 2,
+   "name": "Name#228",
+   "email": "email228@abc.com",
+   "gold": 969116,
+   "power": 833887,
+   "level": 2
+ },
+ {
+   "id": 229,
+   "statetime": "2022-12-21 08:11:53",
+   "region": 7,
+   "name": "Name#229",
+   "email": "email229@abc.com",
+   "gold": 632634,
+   "power": 991562,
+   "level": 19
+ },
+ {
+   "id": 230,
+   "statetime": "2022-12-18 04:42:10",
+   "region": 5,
+   "name": "Name#230",
+   "email": "email230@abc.com",
+   "gold": 212965,
+   "power": 107887,
+   "level": 43
+ },
+ {
+   "id": 231,
+   "statetime": "2022-12-19 10:56:15",
+   "region": 9,
+   "name": "Name#231",
+   "email": "email231@abc.com",
+   "gold": 973072,
+   "power": 73296,
+   "level": 13
+ },
+ {
+   "id": 232,
+   "statetime": "2022-12-21 01:36:54",
+   "region": 9,
+   "name": "Name#232",
+   "email": "email232@abc.com",
+   "gold": 17184,
+   "power": 240728,
+   "level": 13
+ },
+ {
+   "id": 233,
+   "statetime": "2022-12-22 20:38:22",
+   "region": 6,
+   "name": "Name#233",
+   "email": "email233@abc.com",
+   "gold": 109530,
+   "power": 589248,
+   "level": 37
+ },
+ {
+   "id": 234,
+   "statetime": "2022-12-21 20:22:02",
+   "region": 9,
+   "name": "Name#234",
+   "email": "email234@abc.com",
+   "gold": 289403,
+   "power": 178375,
+   "level": 15
+ },
+ {
+   "id": 235,
+   "statetime": "2022-12-22 07:52:05",
+   "region": 8,
+   "name": "Name#235",
+   "email": "email235@abc.com",
+   "gold": 285861,
+   "power": 370437,
+   "level": 2
+ },
+ {
+   "id": 236,
+   "statetime": "2022-12-19 03:07:05",
+   "region": 2,
+   "name": "Name#236",
+   "email": "email236@abc.com",
+   "gold": 440438,
+   "power": 603365,
+   "level": 22
+ },
+ {
+   "id": 237,
+   "statetime": "2022-12-18 16:47:37",
+   "region": 6,
+   "name": "Name#237",
+   "email": "email237@abc.com",
+   "gold": 863445,
+   "power": 943264,
+   "level": 17
+ },
+ {
+   "id": 238,
+   "statetime": "2022-12-20 23:09:24",
+   "region": 6,
+   "name": "Name#238",
+   "email": "email238@abc.com",
+   "gold": 722508,
+   "power": 441558,
+   "level": 26
+ },
+ {
+   "id": 239,
+   "statetime": "2022-12-22 00:55:50",
+   "region": 8,
+   "name": "Name#239",
+   "email": "email239@abc.com",
+   "gold": 597475,
+   "power": 516946,
+   "level": 22
+ },
+ {
+   "id": 240,
+   "statetime": "2022-12-21 17:08:08",
+   "region": 4,
+   "name": "Name#240",
+   "email": "email240@abc.com",
+   "gold": 214912,
+   "power": 552887,
+   "level": 29
+ },
+ {
+   "id": 241,
+   "statetime": "2022-12-18 21:38:56",
+   "region": 8,
+   "name": "Name#241",
+   "email": "email241@abc.com",
+   "gold": 624815,
+   "power": 757299,
+   "level": 23
+ },
+ {
+   "id": 242,
+   "statetime": "2022-12-18 09:03:31",
+   "region": 2,
+   "name": "Name#242",
+   "email": "email242@abc.com",
+   "gold": 472334,
+   "power": 186880,
+   "level": 48
+ },
+ {
+   "id": 243,
+   "statetime": "2022-12-23 04:39:18",
+   "region": 9,
+   "name": "Name#243",
+   "email": "email243@abc.com",
+   "gold": 969318,
+   "power": 476721,
+   "level": 49
+ },
+ {
+   "id": 244,
+   "statetime": "2022-12-23 02:24:09",
+   "region": 8,
+   "name": "Name#244",
+   "email": "email244@abc.com",
+   "gold": 656586,
+   "power": 714998,
+   "level": 5
+ },
+ {
+   "id": 245,
+   "statetime": "2022-12-19 05:24:12",
+   "region": 4,
+   "name": "Name#245",
+   "email": "email245@abc.com",
+   "gold": 195070,
+   "power": 845637,
+   "level": 19
+ },
+ {
+   "id": 246,
+   "statetime": "2022-12-17 22:37:52",
+   "region": 8,
+   "name": "Name#246",
+   "email": "email246@abc.com",
+   "gold": 33728,
+   "power": 78239,
+   "level": 38
+ },
+ {
+   "id": 247,
+   "statetime": "2022-12-19 13:32:22",
+   "region": 1,
+   "name": "Name#247",
+   "email": "email247@abc.com",
+   "gold": 579386,
+   "power": 55495,
+   "level": 29
+ },
+ {
+   "id": 248,
+   "statetime": "2022-12-23 23:44:57",
+   "region": 1,
+   "name": "Name#248",
+   "email": "email248@abc.com",
+   "gold": 170314,
+   "power": 668641,
+   "level": 5
+ },
+ {
+   "id": 249,
+   "statetime": "2022-12-23 03:23:51",
+   "region": 2,
+   "name": "Name#249",
+   "email": "email249@abc.com",
+   "gold": 52488,
+   "power": 328104,
+   "level": 31
+ },
+ {
+   "id": 250,
+   "statetime": "2022-12-22 20:36:42",
+   "region": 8,
+   "name": "Name#250",
+   "email": "email250@abc.com",
+   "gold": 165406,
+   "power": 828753,
+   "level": 26
+ },
+ {
+   "id": 251,
+   "statetime": "2022-12-17 21:23:25",
+   "region": 9,
+   "name": "Name#251",
+   "email": "email251@abc.com",
+   "gold": 340552,
+   "power": 834605,
+   "level": 23
+ },
+ {
+   "id": 252,
+   "statetime": "2022-12-19 11:41:17",
+   "region": 7,
+   "name": "Name#252",
+   "email": "email252@abc.com",
+   "gold": 652012,
+   "power": 45292,
+   "level": 30
+ },
+ {
+   "id": 253,
+   "statetime": "2022-12-18 12:35:14",
+   "region": 5,
+   "name": "Name#253",
+   "email": "email253@abc.com",
+   "gold": 250206,
+   "power": 992028,
+   "level": 25
+ },
+ {
+   "id": 254,
+   "statetime": "2022-12-20 20:48:03",
+   "region": 2,
+   "name": "Name#254",
+   "email": "email254@abc.com",
+   "gold": 310368,
+   "power": 292311,
+   "level": 44
+ },
+ {
+   "id": 255,
+   "statetime": "2022-12-20 02:05:29",
+   "region": 1,
+   "name": "Name#255",
+   "email": "email255@abc.com",
+   "gold": 471845,
+   "power": 905432,
+   "level": 5
+ },
+ {
+   "id": 256,
+   "statetime": "2022-12-19 12:54:46",
+   "region": 3,
+   "name": "Name#256",
+   "email": "email256@abc.com",
+   "gold": 599984,
+   "power": 809661,
+   "level": 39
+ },
+ {
+   "id": 257,
+   "statetime": "2022-12-22 13:25:26",
+   "region": 6,
+   "name": "Name#257",
+   "email": "email257@abc.com",
+   "gold": 726185,
+   "power": 141872,
+   "level": 5
+ },
+ {
+   "id": 258,
+   "statetime": "2022-12-20 20:25:40",
+   "region": 8,
+   "name": "Name#258",
+   "email": "email258@abc.com",
+   "gold": 312784,
+   "power": 17372,
+   "level": 31
+ },
+ {
+   "id": 259,
+   "statetime": "2022-12-19 18:34:59",
+   "region": 1,
+   "name": "Name#259",
+   "email": "email259@abc.com",
+   "gold": 792159,
+   "power": 767065,
+   "level": 37
+ },
+ {
+   "id": 260,
+   "statetime": "2022-12-20 15:06:42",
+   "region": 1,
+   "name": "Name#260",
+   "email": "email260@abc.com",
+   "gold": 481570,
+   "power": 936979,
+   "level": 47
+ },
+ {
+   "id": 261,
+   "statetime": "2022-12-19 11:16:20",
+   "region": 1,
+   "name": "Name#261",
+   "email": "email261@abc.com",
+   "gold": 94338,
+   "power": 114033,
+   "level": 28
+ },
+ {
+   "id": 262,
+   "statetime": "2022-12-21 19:04:08",
+   "region": 4,
+   "name": "Name#262",
+   "email": "email262@abc.com",
+   "gold": 564256,
+   "power": 104779,
+   "level": 8
+ },
+ {
+   "id": 263,
+   "statetime": "2022-12-23 18:40:46",
+   "region": 5,
+   "name": "Name#263",
+   "email": "email263@abc.com",
+   "gold": 98497,
+   "power": 34993,
+   "level": 29
+ },
+ {
+   "id": 264,
+   "statetime": "2022-12-20 01:10:05",
+   "region": 9,
+   "name": "Name#264",
+   "email": "email264@abc.com",
+   "gold": 61437,
+   "power": 265172,
+   "level": 34
+ },
+ {
+   "id": 265,
+   "statetime": "2022-12-22 14:53:07",
+   "region": 3,
+   "name": "Name#265",
+   "email": "email265@abc.com",
+   "gold": 813822,
+   "power": 711779,
+   "level": 26
+ },
+ {
+   "id": 266,
+   "statetime": "2022-12-23 20:40:34",
+   "region": 7,
+   "name": "Name#266",
+   "email": "email266@abc.com",
+   "gold": 24802,
+   "power": 210422,
+   "level": 12
+ },
+ {
+   "id": 267,
+   "statetime": "2022-12-22 02:54:32",
+   "region": 9,
+   "name": "Name#267",
+   "email": "email267@abc.com",
+   "gold": 564191,
+   "power": 123205,
+   "level": 29
+ },
+ {
+   "id": 268,
+   "statetime": "2022-12-20 12:52:50",
+   "region": 2,
+   "name": "Name#268",
+   "email": "email268@abc.com",
+   "gold": 873968,
+   "power": 347756,
+   "level": 23
+ },
+ {
+   "id": 269,
+   "statetime": "2022-12-18 17:27:10",
+   "region": 9,
+   "name": "Name#269",
+   "email": "email269@abc.com",
+   "gold": 428095,
+   "power": 919848,
+   "level": 46
+ },
+ {
+   "id": 270,
+   "statetime": "2022-12-20 16:34:43",
+   "region": 4,
+   "name": "Name#270",
+   "email": "email270@abc.com",
+   "gold": 293952,
+   "power": 789836,
+   "level": 10
+ },
+ {
+   "id": 271,
+   "statetime": "2022-12-21 06:06:26",
+   "region": 1,
+   "name": "Name#271",
+   "email": "email271@abc.com",
+   "gold": 355889,
+   "power": 523889,
+   "level": 40
+ },
+ {
+   "id": 272,
+   "statetime": "2022-12-21 18:52:49",
+   "region": 4,
+   "name": "Name#272",
+   "email": "email272@abc.com",
+   "gold": 395976,
+   "power": 640236,
+   "level": 40
+ },
+ {
+   "id": 273,
+   "statetime": "2022-12-18 08:50:44",
+   "region": 8,
+   "name": "Name#273",
+   "email": "email273@abc.com",
+   "gold": 843182,
+   "power": 756410,
+   "level": 36
+ },
+ {
+   "id": 274,
+   "statetime": "2022-12-21 06:07:39",
+   "region": 5,
+   "name": "Name#274",
+   "email": "email274@abc.com",
+   "gold": 371571,
+   "power": 490745,
+   "level": 23
+ },
+ {
+   "id": 275,
+   "statetime": "2022-12-22 21:55:05",
+   "region": 2,
+   "name": "Name#275",
+   "email": "email275@abc.com",
+   "gold": 546772,
+   "power": 724163,
+   "level": 15
+ },
+ {
+   "id": 276,
+   "statetime": "2022-12-17 18:41:19",
+   "region": 3,
+   "name": "Name#276",
+   "email": "email276@abc.com",
+   "gold": 51990,
+   "power": 173872,
+   "level": 41
+ },
+ {
+   "id": 277,
+   "statetime": "2022-12-17 18:59:00",
+   "region": 7,
+   "name": "Name#277",
+   "email": "email277@abc.com",
+   "gold": 802215,
+   "power": 161215,
+   "level": 23
+ },
+ {
+   "id": 278,
+   "statetime": "2022-12-23 16:27:53",
+   "region": 3,
+   "name": "Name#278",
+   "email": "email278@abc.com",
+   "gold": 331254,
+   "power": 907526,
+   "level": 28
+ },
+ {
+   "id": 279,
+   "statetime": "2022-12-22 04:05:04",
+   "region": 5,
+   "name": "Name#279",
+   "email": "email279@abc.com",
+   "gold": 854791,
+   "power": 468670,
+   "level": 43
+ },
+ {
+   "id": 280,
+   "statetime": "2022-12-19 08:26:34",
+   "region": 6,
+   "name": "Name#280",
+   "email": "email280@abc.com",
+   "gold": 380288,
+   "power": 235570,
+   "level": 21
+ },
+ {
+   "id": 281,
+   "statetime": "2022-12-18 03:22:33",
+   "region": 8,
+   "name": "Name#281",
+   "email": "email281@abc.com",
+   "gold": 950184,
+   "power": 550187,
+   "level": 38
+ },
+ {
+   "id": 282,
+   "statetime": "2022-12-23 13:26:31",
+   "region": 5,
+   "name": "Name#282",
+   "email": "email282@abc.com",
+   "gold": 805209,
+   "power": 567728,
+   "level": 30
+ },
+ {
+   "id": 283,
+   "statetime": "2022-12-20 10:21:13",
+   "region": 3,
+   "name": "Name#283",
+   "email": "email283@abc.com",
+   "gold": 75374,
+   "power": 459543,
+   "level": 45
+ },
+ {
+   "id": 284,
+   "statetime": "2022-12-21 08:49:49",
+   "region": 8,
+   "name": "Name#284",
+   "email": "email284@abc.com",
+   "gold": 455984,
+   "power": 10513,
+   "level": 31
+ },
+ {
+   "id": 285,
+   "statetime": "2022-12-19 03:12:56",
+   "region": 1,
+   "name": "Name#285",
+   "email": "email285@abc.com",
+   "gold": 242591,
+   "power": 648000,
+   "level": 23
+ },
+ {
+   "id": 286,
+   "statetime": "2022-12-19 16:31:51",
+   "region": 8,
+   "name": "Name#286",
+   "email": "email286@abc.com",
+   "gold": 448767,
+   "power": 906555,
+   "level": 11
+ },
+ {
+   "id": 287,
+   "statetime": "2022-12-22 06:49:48",
+   "region": 6,
+   "name": "Name#287",
+   "email": "email287@abc.com",
+   "gold": 158166,
+   "power": 822376,
+   "level": 19
+ },
+ {
+   "id": 288,
+   "statetime": "2022-12-23 14:38:54",
+   "region": 5,
+   "name": "Name#288",
+   "email": "email288@abc.com",
+   "gold": 878089,
+   "power": 430114,
+   "level": 19
+ },
+ {
+   "id": 289,
+   "statetime": "2022-12-17 19:16:40",
+   "region": 2,
+   "name": "Name#289",
+   "email": "email289@abc.com",
+   "gold": 142762,
+   "power": 408156,
+   "level": 45
+ },
+ {
+   "id": 290,
+   "statetime": "2022-12-24 02:00:49",
+   "region": 5,
+   "name": "Name#290",
+   "email": "email290@abc.com",
+   "gold": 723610,
+   "power": 581412,
+   "level": 12
+ },
+ {
+   "id": 291,
+   "statetime": "2022-12-18 00:06:33",
+   "region": 4,
+   "name": "Name#291",
+   "email": "email291@abc.com",
+   "gold": 743561,
+   "power": 249411,
+   "level": 46
+ },
+ {
+   "id": 292,
+   "statetime": "2022-12-18 20:48:33",
+   "region": 4,
+   "name": "Name#292",
+   "email": "email292@abc.com",
+   "gold": 441223,
+   "power": 973881,
+   "level": 19
+ },
+ {
+   "id": 293,
+   "statetime": "2022-12-19 08:56:34",
+   "region": 7,
+   "name": "Name#293",
+   "email": "email293@abc.com",
+   "gold": 320544,
+   "power": 441335,
+   "level": 39
+ },
+ {
+   "id": 294,
+   "statetime": "2022-12-23 22:10:56",
+   "region": 1,
+   "name": "Name#294",
+   "email": "email294@abc.com",
+   "gold": 54385,
+   "power": 639095,
+   "level": 41
+ },
+ {
+   "id": 295,
+   "statetime": "2022-12-19 00:49:21",
+   "region": 1,
+   "name": "Name#295",
+   "email": "email295@abc.com",
+   "gold": 995984,
+   "power": 262498,
+   "level": 28
+ },
+ {
+   "id": 296,
+   "statetime": "2022-12-17 12:58:42",
+   "region": 5,
+   "name": "Name#296",
+   "email": "email296@abc.com",
+   "gold": 531366,
+   "power": 46508,
+   "level": 29
+ },
+ {
+   "id": 297,
+   "statetime": "2022-12-24 01:36:34",
+   "region": 7,
+   "name": "Name#297",
+   "email": "email297@abc.com",
+   "gold": 734210,
+   "power": 449470,
+   "level": 39
+ },
+ {
+   "id": 298,
+   "statetime": "2022-12-20 16:57:40",
+   "region": 5,
+   "name": "Name#298",
+   "email": "email298@abc.com",
+   "gold": 641132,
+   "power": 718430,
+   "level": 9
+ },
+ {
+   "id": 299,
+   "statetime": "2022-12-22 09:52:41",
+   "region": 5,
+   "name": "Name#299",
+   "email": "email299@abc.com",
+   "gold": 307221,
+   "power": 629140,
+   "level": 41
+ },
+ {
+   "id": 300,
+   "statetime": "2022-12-17 17:34:26",
+   "region": 6,
+   "name": "Name#300",
+   "email": "email300@abc.com",
+   "gold": 695207,
+   "power": 891102,
+   "level": 27
+ },
+ {
+   "id": 301,
+   "statetime": "2022-12-17 12:20:31",
+   "region": 1,
+   "name": "Name#301",
+   "email": "email301@abc.com",
+   "gold": 664422,
+   "power": 634294,
+   "level": 21
+ },
+ {
+   "id": 302,
+   "statetime": "2022-12-21 15:50:51",
+   "region": 8,
+   "name": "Name#302",
+   "email": "email302@abc.com",
+   "gold": 170855,
+   "power": 134554,
+   "level": 41
+ },
+ {
+   "id": 303,
+   "statetime": "2022-12-23 09:49:57",
+   "region": 2,
+   "name": "Name#303",
+   "email": "email303@abc.com",
+   "gold": 420394,
+   "power": 469432,
+   "level": 3
+ },
+ {
+   "id": 304,
+   "statetime": "2022-12-22 22:47:02",
+   "region": 5,
+   "name": "Name#304",
+   "email": "email304@abc.com",
+   "gold": 898468,
+   "power": 170477,
+   "level": 4
+ },
+ {
+   "id": 305,
+   "statetime": "2022-12-23 11:15:05",
+   "region": 3,
+   "name": "Name#305",
+   "email": "email305@abc.com",
+   "gold": 852862,
+   "power": 558457,
+   "level": 31
+ },
+ {
+   "id": 306,
+   "statetime": "2022-12-23 01:35:37",
+   "region": 6,
+   "name": "Name#306",
+   "email": "email306@abc.com",
+   "gold": 248551,
+   "power": 951386,
+   "level": 17
+ },
+ {
+   "id": 307,
+   "statetime": "2022-12-20 15:09:05",
+   "region": 2,
+   "name": "Name#307",
+   "email": "email307@abc.com",
+   "gold": 387051,
+   "power": 860586,
+   "level": 41
+ },
+ {
+   "id": 308,
+   "statetime": "2022-12-23 15:42:58",
+   "region": 4,
+   "name": "Name#308",
+   "email": "email308@abc.com",
+   "gold": 672928,
+   "power": 364652,
+   "level": 5
+ },
+ {
+   "id": 309,
+   "statetime": "2022-12-23 22:46:37",
+   "region": 8,
+   "name": "Name#309",
+   "email": "email309@abc.com",
+   "gold": 553847,
+   "power": 329604,
+   "level": 8
+ },
+ {
+   "id": 310,
+   "statetime": "2022-12-18 23:54:40",
+   "region": 5,
+   "name": "Name#310",
+   "email": "email310@abc.com",
+   "gold": 447794,
+   "power": 233737,
+   "level": 2
+ },
+ {
+   "id": 311,
+   "statetime": "2022-12-21 11:06:28",
+   "region": 3,
+   "name": "Name#311",
+   "email": "email311@abc.com",
+   "gold": 529617,
+   "power": 195732,
+   "level": 29
+ },
+ {
+   "id": 312,
+   "statetime": "2022-12-19 13:39:18",
+   "region": 1,
+   "name": "Name#312",
+   "email": "email312@abc.com",
+   "gold": 889664,
+   "power": 851217,
+   "level": 43
+ },
+ {
+   "id": 313,
+   "statetime": "2022-12-23 04:39:02",
+   "region": 5,
+   "name": "Name#313",
+   "email": "email313@abc.com",
+   "gold": 405347,
+   "power": 809444,
+   "level": 48
+ },
+ {
+   "id": 314,
+   "statetime": "2022-12-19 05:52:20",
+   "region": 7,
+   "name": "Name#314",
+   "email": "email314@abc.com",
+   "gold": 719134,
+   "power": 740863,
+   "level": 48
+ },
+ {
+   "id": 315,
+   "statetime": "2022-12-23 15:45:46",
+   "region": 4,
+   "name": "Name#315",
+   "email": "email315@abc.com",
+   "gold": 954956,
+   "power": 967837,
+   "level": 45
+ },
+ {
+   "id": 316,
+   "statetime": "2022-12-23 15:09:06",
+   "region": 4,
+   "name": "Name#316",
+   "email": "email316@abc.com",
+   "gold": 880741,
+   "power": 872990,
+   "level": 37
+ },
+ {
+   "id": 317,
+   "statetime": "2022-12-21 17:48:23",
+   "region": 9,
+   "name": "Name#317",
+   "email": "email317@abc.com",
+   "gold": 278590,
+   "power": 460041,
+   "level": 39
+ },
+ {
+   "id": 318,
+   "statetime": "2022-12-21 05:16:41",
+   "region": 7,
+   "name": "Name#318",
+   "email": "email318@abc.com",
+   "gold": 87864,
+   "power": 63391,
+   "level": 14
+ },
+ {
+   "id": 319,
+   "statetime": "2022-12-22 17:39:40",
+   "region": 9,
+   "name": "Name#319",
+   "email": "email319@abc.com",
+   "gold": 56556,
+   "power": 611025,
+   "level": 11
+ },
+ {
+   "id": 320,
+   "statetime": "2022-12-22 02:58:33",
+   "region": 8,
+   "name": "Name#320",
+   "email": "email320@abc.com",
+   "gold": 912084,
+   "power": 890036,
+   "level": 48
+ },
+ {
+   "id": 321,
+   "statetime": "2022-12-22 02:14:58",
+   "region": 4,
+   "name": "Name#321",
+   "email": "email321@abc.com",
+   "gold": 101374,
+   "power": 360189,
+   "level": 31
+ },
+ {
+   "id": 322,
+   "statetime": "2022-12-23 02:13:10",
+   "region": 1,
+   "name": "Name#322",
+   "email": "email322@abc.com",
+   "gold": 328576,
+   "power": 9781,
+   "level": 47
+ },
+ {
+   "id": 323,
+   "statetime": "2022-12-23 19:08:13",
+   "region": 3,
+   "name": "Name#323",
+   "email": "email323@abc.com",
+   "gold": 473711,
+   "power": 162465,
+   "level": 27
+ },
+ {
+   "id": 324,
+   "statetime": "2022-12-22 13:13:05",
+   "region": 2,
+   "name": "Name#324",
+   "email": "email324@abc.com",
+   "gold": 582795,
+   "power": 731252,
+   "level": 8
+ },
+ {
+   "id": 325,
+   "statetime": "2022-12-19 05:25:52",
+   "region": 7,
+   "name": "Name#325",
+   "email": "email325@abc.com",
+   "gold": 20712,
+   "power": 126564,
+   "level": 25
+ },
+ {
+   "id": 326,
+   "statetime": "2022-12-24 05:14:42",
+   "region": 2,
+   "name": "Name#326",
+   "email": "email326@abc.com",
+   "gold": 2000,
+   "power": 396904,
+   "level": 26
+ },
+ {
+   "id": 327,
+   "statetime": "2022-12-17 17:39:50",
+   "region": 8,
+   "name": "Name#327",
+   "email": "email327@abc.com",
+   "gold": 771689,
+   "power": 593516,
+   "level": 5
+ },
+ {
+   "id": 328,
+   "statetime": "2022-12-18 07:27:50",
+   "region": 2,
+   "name": "Name#328",
+   "email": "email328@abc.com",
+   "gold": 361549,
+   "power": 527265,
+   "level": 49
+ },
+ {
+   "id": 329,
+   "statetime": "2022-12-18 01:02:09",
+   "region": 7,
+   "name": "Name#329",
+   "email": "email329@abc.com",
+   "gold": 626748,
+   "power": 472341,
+   "level": 11
+ },
+ {
+   "id": 330,
+   "statetime": "2022-12-19 14:14:22",
+   "region": 9,
+   "name": "Name#330",
+   "email": "email330@abc.com",
+   "gold": 731071,
+   "power": 83536,
+   "level": 1
+ },
+ {
+   "id": 331,
+   "statetime": "2022-12-24 00:16:08",
+   "region": 1,
+   "name": "Name#331",
+   "email": "email331@abc.com",
+   "gold": 741372,
+   "power": 486799,
+   "level": 7
+ },
+ {
+   "id": 332,
+   "statetime": "2022-12-23 06:34:36",
+   "region": 7,
+   "name": "Name#332",
+   "email": "email332@abc.com",
+   "gold": 170718,
+   "power": 345068,
+   "level": 6
+ },
+ {
+   "id": 333,
+   "statetime": "2022-12-20 01:17:29",
+   "region": 3,
+   "name": "Name#333",
+   "email": "email333@abc.com",
+   "gold": 817263,
+   "power": 6587,
+   "level": 8
+ },
+ {
+   "id": 334,
+   "statetime": "2022-12-22 23:19:36",
+   "region": 8,
+   "name": "Name#334",
+   "email": "email334@abc.com",
+   "gold": 426856,
+   "power": 208830,
+   "level": 8
+ },
+ {
+   "id": 335,
+   "statetime": "2022-12-18 13:11:43",
+   "region": 6,
+   "name": "Name#335",
+   "email": "email335@abc.com",
+   "gold": 974251,
+   "power": 926256,
+   "level": 29
+ },
+ {
+   "id": 336,
+   "statetime": "2022-12-21 06:44:35",
+   "region": 5,
+   "name": "Name#336",
+   "email": "email336@abc.com",
+   "gold": 61246,
+   "power": 24172,
+   "level": 20
+ },
+ {
+   "id": 337,
+   "statetime": "2022-12-21 12:51:33",
+   "region": 4,
+   "name": "Name#337",
+   "email": "email337@abc.com",
+   "gold": 316366,
+   "power": 248654,
+   "level": 1
+ },
+ {
+   "id": 338,
+   "statetime": "2022-12-20 09:41:57",
+   "region": 3,
+   "name": "Name#338",
+   "email": "email338@abc.com",
+   "gold": 914082,
+   "power": 296256,
+   "level": 17
+ },
+ {
+   "id": 339,
+   "statetime": "2022-12-21 06:30:25",
+   "region": 3,
+   "name": "Name#339",
+   "email": "email339@abc.com",
+   "gold": 207895,
+   "power": 851265,
+   "level": 44
+ },
+ {
+   "id": 340,
+   "statetime": "2022-12-17 10:16:27",
+   "region": 1,
+   "name": "Name#340",
+   "email": "email340@abc.com",
+   "gold": 851764,
+   "power": 124230,
+   "level": 2
+ },
+ {
+   "id": 341,
+   "statetime": "2022-12-18 12:45:31",
+   "region": 8,
+   "name": "Name#341",
+   "email": "email341@abc.com",
+   "gold": 757224,
+   "power": 92382,
+   "level": 40
+ },
+ {
+   "id": 342,
+   "statetime": "2022-12-19 00:00:42",
+   "region": 4,
+   "name": "Name#342",
+   "email": "email342@abc.com",
+   "gold": 877222,
+   "power": 90022,
+   "level": 24
+ },
+ {
+   "id": 343,
+   "statetime": "2022-12-17 16:16:14",
+   "region": 3,
+   "name": "Name#343",
+   "email": "email343@abc.com",
+   "gold": 171327,
+   "power": 864880,
+   "level": 31
+ },
+ {
+   "id": 344,
+   "statetime": "2022-12-22 13:25:20",
+   "region": 9,
+   "name": "Name#344",
+   "email": "email344@abc.com",
+   "gold": 96794,
+   "power": 364128,
+   "level": 2
+ },
+ {
+   "id": 345,
+   "statetime": "2022-12-23 03:37:02",
+   "region": 4,
+   "name": "Name#345",
+   "email": "email345@abc.com",
+   "gold": 693555,
+   "power": 501805,
+   "level": 1
+ },
+ {
+   "id": 346,
+   "statetime": "2022-12-20 02:47:55",
+   "region": 3,
+   "name": "Name#346",
+   "email": "email346@abc.com",
+   "gold": 531019,
+   "power": 793590,
+   "level": 34
+ },
+ {
+   "id": 347,
+   "statetime": "2022-12-18 08:19:11",
+   "region": 9,
+   "name": "Name#347",
+   "email": "email347@abc.com",
+   "gold": 469036,
+   "power": 154144,
+   "level": 23
+ },
+ {
+   "id": 348,
+   "statetime": "2022-12-21 09:27:49",
+   "region": 8,
+   "name": "Name#348",
+   "email": "email348@abc.com",
+   "gold": 690863,
+   "power": 448653,
+   "level": 40
+ },
+ {
+   "id": 349,
+   "statetime": "2022-12-18 04:47:26",
+   "region": 6,
+   "name": "Name#349",
+   "email": "email349@abc.com",
+   "gold": 944049,
+   "power": 402127,
+   "level": 45
+ },
+ {
+   "id": 350,
+   "statetime": "2022-12-21 13:29:11",
+   "region": 2,
+   "name": "Name#350",
+   "email": "email350@abc.com",
+   "gold": 572009,
+   "power": 866571,
+   "level": 15
+ },
+ {
+   "id": 351,
+   "statetime": "2022-12-23 09:09:03",
+   "region": 7,
+   "name": "Name#351",
+   "email": "email351@abc.com",
+   "gold": 122631,
+   "power": 703562,
+   "level": 9
+ },
+ {
+   "id": 352,
+   "statetime": "2022-12-23 16:45:14",
+   "region": 9,
+   "name": "Name#352",
+   "email": "email352@abc.com",
+   "gold": 231195,
+   "power": 814192,
+   "level": 28
+ },
+ {
+   "id": 353,
+   "statetime": "2022-12-21 02:07:26",
+   "region": 2,
+   "name": "Name#353",
+   "email": "email353@abc.com",
+   "gold": 940713,
+   "power": 507900,
+   "level": 31
+ },
+ {
+   "id": 354,
+   "statetime": "2022-12-21 03:48:36",
+   "region": 7,
+   "name": "Name#354",
+   "email": "email354@abc.com",
+   "gold": 281679,
+   "power": 315207,
+   "level": 31
+ },
+ {
+   "id": 355,
+   "statetime": "2022-12-23 00:30:21",
+   "region": 7,
+   "name": "Name#355",
+   "email": "email355@abc.com",
+   "gold": 517896,
+   "power": 434310,
+   "level": 11
+ },
+ {
+   "id": 356,
+   "statetime": "2022-12-23 21:50:46",
+   "region": 5,
+   "name": "Name#356",
+   "email": "email356@abc.com",
+   "gold": 562711,
+   "power": 780554,
+   "level": 8
+ },
+ {
+   "id": 357,
+   "statetime": "2022-12-21 21:12:54",
+   "region": 9,
+   "name": "Name#357",
+   "email": "email357@abc.com",
+   "gold": 785740,
+   "power": 211519,
+   "level": 45
+ },
+ {
+   "id": 358,
+   "statetime": "2022-12-20 17:02:28",
+   "region": 7,
+   "name": "Name#358",
+   "email": "email358@abc.com",
+   "gold": 614262,
+   "power": 169536,
+   "level": 26
+ },
+ {
+   "id": 359,
+   "statetime": "2022-12-17 09:50:08",
+   "region": 2,
+   "name": "Name#359",
+   "email": "email359@abc.com",
+   "gold": 802844,
+   "power": 229292,
+   "level": 13
+ },
+ {
+   "id": 360,
+   "statetime": "2022-12-19 15:18:48",
+   "region": 2,
+   "name": "Name#360",
+   "email": "email360@abc.com",
+   "gold": 542945,
+   "power": 382618,
+   "level": 10
+ },
+ {
+   "id": 361,
+   "statetime": "2022-12-23 20:45:47",
+   "region": 3,
+   "name": "Name#361",
+   "email": "email361@abc.com",
+   "gold": 582927,
+   "power": 958199,
+   "level": 2
+ },
+ {
+   "id": 362,
+   "statetime": "2022-12-22 02:38:22",
+   "region": 9,
+   "name": "Name#362",
+   "email": "email362@abc.com",
+   "gold": 677826,
+   "power": 967875,
+   "level": 3
+ },
+ {
+   "id": 363,
+   "statetime": "2022-12-20 08:08:45",
+   "region": 8,
+   "name": "Name#363",
+   "email": "email363@abc.com",
+   "gold": 453277,
+   "power": 532571,
+   "level": 7
+ },
+ {
+   "id": 364,
+   "statetime": "2022-12-21 03:13:21",
+   "region": 4,
+   "name": "Name#364",
+   "email": "email364@abc.com",
+   "gold": 362239,
+   "power": 56199,
+   "level": 7
+ },
+ {
+   "id": 365,
+   "statetime": "2022-12-19 01:57:38",
+   "region": 3,
+   "name": "Name#365",
+   "email": "email365@abc.com",
+   "gold": 842632,
+   "power": 537024,
+   "level": 24
+ },
+ {
+   "id": 366,
+   "statetime": "2022-12-21 00:28:55",
+   "region": 6,
+   "name": "Name#366",
+   "email": "email366@abc.com",
+   "gold": 667389,
+   "power": 483001,
+   "level": 40
+ },
+ {
+   "id": 367,
+   "statetime": "2022-12-17 21:23:04",
+   "region": 9,
+   "name": "Name#367",
+   "email": "email367@abc.com",
+   "gold": 872828,
+   "power": 131,
+   "level": 48
+ },
+ {
+   "id": 368,
+   "statetime": "2022-12-19 08:19:25",
+   "region": 1,
+   "name": "Name#368",
+   "email": "email368@abc.com",
+   "gold": 488011,
+   "power": 463753,
+   "level": 38
+ },
+ {
+   "id": 369,
+   "statetime": "2022-12-21 22:06:06",
+   "region": 6,
+   "name": "Name#369",
+   "email": "email369@abc.com",
+   "gold": 501871,
+   "power": 698656,
+   "level": 9
+ },
+ {
+   "id": 370,
+   "statetime": "2022-12-19 11:46:31",
+   "region": 5,
+   "name": "Name#370",
+   "email": "email370@abc.com",
+   "gold": 676170,
+   "power": 488872,
+   "level": 7
+ },
+ {
+   "id": 371,
+   "statetime": "2022-12-17 20:24:25",
+   "region": 5,
+   "name": "Name#371",
+   "email": "email371@abc.com",
+   "gold": 242514,
+   "power": 637237,
+   "level": 1
+ },
+ {
+   "id": 372,
+   "statetime": "2022-12-23 05:53:14",
+   "region": 7,
+   "name": "Name#372",
+   "email": "email372@abc.com",
+   "gold": 389109,
+   "power": 250787,
+   "level": 6
+ },
+ {
+   "id": 373,
+   "statetime": "2022-12-19 20:49:32",
+   "region": 7,
+   "name": "Name#373",
+   "email": "email373@abc.com",
+   "gold": 953697,
+   "power": 252207,
+   "level": 31
+ },
+ {
+   "id": 374,
+   "statetime": "2022-12-21 09:39:53",
+   "region": 1,
+   "name": "Name#374",
+   "email": "email374@abc.com",
+   "gold": 443766,
+   "power": 944167,
+   "level": 17
+ },
+ {
+   "id": 375,
+   "statetime": "2022-12-24 01:26:59",
+   "region": 3,
+   "name": "Name#375",
+   "email": "email375@abc.com",
+   "gold": 485934,
+   "power": 33630,
+   "level": 11
+ },
+ {
+   "id": 376,
+   "statetime": "2022-12-20 05:50:14",
+   "region": 7,
+   "name": "Name#376",
+   "email": "email376@abc.com",
+   "gold": 577040,
+   "power": 315084,
+   "level": 4
+ },
+ {
+   "id": 377,
+   "statetime": "2022-12-23 15:30:25",
+   "region": 8,
+   "name": "Name#377",
+   "email": "email377@abc.com",
+   "gold": 474229,
+   "power": 108978,
+   "level": 38
+ },
+ {
+   "id": 378,
+   "statetime": "2022-12-17 09:30:31",
+   "region": 1,
+   "name": "Name#378",
+   "email": "email378@abc.com",
+   "gold": 24940,
+   "power": 36797,
+   "level": 13
+ },
+ {
+   "id": 379,
+   "statetime": "2022-12-21 02:21:35",
+   "region": 7,
+   "name": "Name#379",
+   "email": "email379@abc.com",
+   "gold": 91251,
+   "power": 832773,
+   "level": 46
+ },
+ {
+   "id": 380,
+   "statetime": "2022-12-17 13:00:05",
+   "region": 2,
+   "name": "Name#380",
+   "email": "email380@abc.com",
+   "gold": 993267,
+   "power": 668825,
+   "level": 18
+ },
+ {
+   "id": 381,
+   "statetime": "2022-12-20 16:15:39",
+   "region": 8,
+   "name": "Name#381",
+   "email": "email381@abc.com",
+   "gold": 216569,
+   "power": 599817,
+   "level": 18
+ },
+ {
+   "id": 382,
+   "statetime": "2022-12-19 05:45:52",
+   "region": 3,
+   "name": "Name#382",
+   "email": "email382@abc.com",
+   "gold": 600199,
+   "power": 308709,
+   "level": 21
+ },
+ {
+   "id": 383,
+   "statetime": "2022-12-24 03:26:45",
+   "region": 6,
+   "name": "Name#383",
+   "email": "email383@abc.com",
+   "gold": 37112,
+   "power": 424812,
+   "level": 21
+ },
+ {
+   "id": 384,
+   "statetime": "2022-12-19 05:51:10",
+   "region": 5,
+   "name": "Name#384",
+   "email": "email384@abc.com",
+   "gold": 50945,
+   "power": 701697,
+   "level": 40
+ },
+ {
+   "id": 385,
+   "statetime": "2022-12-19 23:50:24",
+   "region": 3,
+   "name": "Name#385",
+   "email": "email385@abc.com",
+   "gold": 841382,
+   "power": 198705,
+   "level": 12
+ },
+ {
+   "id": 386,
+   "statetime": "2022-12-21 16:14:14",
+   "region": 2,
+   "name": "Name#386",
+   "email": "email386@abc.com",
+   "gold": 289867,
+   "power": 367114,
+   "level": 7
+ },
+ {
+   "id": 387,
+   "statetime": "2022-12-17 20:54:23",
+   "region": 1,
+   "name": "Name#387",
+   "email": "email387@abc.com",
+   "gold": 870150,
+   "power": 241160,
+   "level": 23
+ },
+ {
+   "id": 388,
+   "statetime": "2022-12-20 09:55:00",
+   "region": 7,
+   "name": "Name#388",
+   "email": "email388@abc.com",
+   "gold": 674029,
+   "power": 522564,
+   "level": 5
+ },
+ {
+   "id": 389,
+   "statetime": "2022-12-23 15:43:09",
+   "region": 6,
+   "name": "Name#389",
+   "email": "email389@abc.com",
+   "gold": 151085,
+   "power": 446860,
+   "level": 39
+ },
+ {
+   "id": 390,
+   "statetime": "2022-12-24 04:23:45",
+   "region": 7,
+   "name": "Name#390",
+   "email": "email390@abc.com",
+   "gold": 993536,
+   "power": 835022,
+   "level": 45
+ },
+ {
+   "id": 391,
+   "statetime": "2022-12-19 11:34:32",
+   "region": 2,
+   "name": "Name#391",
+   "email": "email391@abc.com",
+   "gold": 773673,
+   "power": 290051,
+   "level": 46
+ },
+ {
+   "id": 392,
+   "statetime": "2022-12-21 05:43:09",
+   "region": 1,
+   "name": "Name#392",
+   "email": "email392@abc.com",
+   "gold": 190306,
+   "power": 587151,
+   "level": 9
+ },
+ {
+   "id": 393,
+   "statetime": "2022-12-20 02:23:29",
+   "region": 9,
+   "name": "Name#393",
+   "email": "email393@abc.com",
+   "gold": 666871,
+   "power": 391432,
+   "level": 26
+ },
+ {
+   "id": 394,
+   "statetime": "2022-12-21 05:53:20",
+   "region": 7,
+   "name": "Name#394",
+   "email": "email394@abc.com",
+   "gold": 649578,
+   "power": 191785,
+   "level": 2
+ },
+ {
+   "id": 395,
+   "statetime": "2022-12-21 08:27:54",
+   "region": 9,
+   "name": "Name#395",
+   "email": "email395@abc.com",
+   "gold": 581887,
+   "power": 105357,
+   "level": 29
+ },
+ {
+   "id": 396,
+   "statetime": "2022-12-22 00:25:09",
+   "region": 1,
+   "name": "Name#396",
+   "email": "email396@abc.com",
+   "gold": 603115,
+   "power": 907452,
+   "level": 35
+ },
+ {
+   "id": 397,
+   "statetime": "2022-12-23 17:39:55",
+   "region": 1,
+   "name": "Name#397",
+   "email": "email397@abc.com",
+   "gold": 648101,
+   "power": 678495,
+   "level": 15
+ },
+ {
+   "id": 398,
+   "statetime": "2022-12-23 05:17:03",
+   "region": 3,
+   "name": "Name#398",
+   "email": "email398@abc.com",
+   "gold": 745584,
+   "power": 34376,
+   "level": 26
+ },
+ {
+   "id": 399,
+   "statetime": "2022-12-22 14:25:54",
+   "region": 9,
+   "name": "Name#399",
+   "email": "email399@abc.com",
+   "gold": 93593,
+   "power": 763643,
+   "level": 26
+ },
+ {
+   "id": 400,
+   "statetime": "2022-12-18 17:18:20",
+   "region": 6,
+   "name": "Name#400",
+   "email": "email400@abc.com",
+   "gold": 140217,
+   "power": 770394,
+   "level": 13
+ },
+ {
+   "id": 401,
+   "statetime": "2022-12-24 07:12:31",
+   "region": 6,
+   "name": "Name#401",
+   "email": "email401@abc.com",
+   "gold": 798892,
+   "power": 526063,
+   "level": 9
+ },
+ {
+   "id": 402,
+   "statetime": "2022-12-17 13:07:07",
+   "region": 2,
+   "name": "Name#402",
+   "email": "email402@abc.com",
+   "gold": 747832,
+   "power": 23155,
+   "level": 18
+ },
+ {
+   "id": 403,
+   "statetime": "2022-12-19 11:08:55",
+   "region": 6,
+   "name": "Name#403",
+   "email": "email403@abc.com",
+   "gold": 994966,
+   "power": 230753,
+   "level": 15
+ },
+ {
+   "id": 404,
+   "statetime": "2022-12-23 22:54:39",
+   "region": 1,
+   "name": "Name#404",
+   "email": "email404@abc.com",
+   "gold": 518467,
+   "power": 372981,
+   "level": 19
+ },
+ {
+   "id": 405,
+   "statetime": "2022-12-18 03:16:31",
+   "region": 5,
+   "name": "Name#405",
+   "email": "email405@abc.com",
+   "gold": 763826,
+   "power": 115,
+   "level": 8
+ },
+ {
+   "id": 406,
+   "statetime": "2022-12-18 12:10:42",
+   "region": 5,
+   "name": "Name#406",
+   "email": "email406@abc.com",
+   "gold": 788641,
+   "power": 10828,
+   "level": 8
+ },
+ {
+   "id": 407,
+   "statetime": "2022-12-21 06:16:21",
+   "region": 4,
+   "name": "Name#407",
+   "email": "email407@abc.com",
+   "gold": 528911,
+   "power": 264029,
+   "level": 9
+ },
+ {
+   "id": 408,
+   "statetime": "2022-12-19 08:43:15",
+   "region": 8,
+   "name": "Name#408",
+   "email": "email408@abc.com",
+   "gold": 391797,
+   "power": 38273,
+   "level": 3
+ },
+ {
+   "id": 409,
+   "statetime": "2022-12-23 08:39:39",
+   "region": 5,
+   "name": "Name#409",
+   "email": "email409@abc.com",
+   "gold": 656919,
+   "power": 108156,
+   "level": 38
+ },
+ {
+   "id": 410,
+   "statetime": "2022-12-21 08:13:08",
+   "region": 9,
+   "name": "Name#410",
+   "email": "email410@abc.com",
+   "gold": 526137,
+   "power": 809780,
+   "level": 26
+ },
+ {
+   "id": 411,
+   "statetime": "2022-12-18 03:06:19",
+   "region": 9,
+   "name": "Name#411",
+   "email": "email411@abc.com",
+   "gold": 853180,
+   "power": 387640,
+   "level": 43
+ },
+ {
+   "id": 412,
+   "statetime": "2022-12-21 20:13:19",
+   "region": 3,
+   "name": "Name#412",
+   "email": "email412@abc.com",
+   "gold": 347404,
+   "power": 391581,
+   "level": 41
+ },
+ {
+   "id": 413,
+   "statetime": "2022-12-22 22:00:18",
+   "region": 1,
+   "name": "Name#413",
+   "email": "email413@abc.com",
+   "gold": 808535,
+   "power": 880346,
+   "level": 26
+ },
+ {
+   "id": 414,
+   "statetime": "2022-12-24 07:12:14",
+   "region": 2,
+   "name": "Name#414",
+   "email": "email414@abc.com",
+   "gold": 4338,
+   "power": 279461,
+   "level": 36
+ },
+ {
+   "id": 415,
+   "statetime": "2022-12-18 15:38:04",
+   "region": 9,
+   "name": "Name#415",
+   "email": "email415@abc.com",
+   "gold": 86548,
+   "power": 199423,
+   "level": 27
+ },
+ {
+   "id": 416,
+   "statetime": "2022-12-17 09:19:32",
+   "region": 1,
+   "name": "Name#416",
+   "email": "email416@abc.com",
+   "gold": 56346,
+   "power": 572417,
+   "level": 45
+ },
+ {
+   "id": 417,
+   "statetime": "2022-12-19 19:34:50",
+   "region": 6,
+   "name": "Name#417",
+   "email": "email417@abc.com",
+   "gold": 60188,
+   "power": 636028,
+   "level": 34
+ },
+ {
+   "id": 418,
+   "statetime": "2022-12-23 22:45:49",
+   "region": 5,
+   "name": "Name#418",
+   "email": "email418@abc.com",
+   "gold": 639875,
+   "power": 994384,
+   "level": 40
+ },
+ {
+   "id": 419,
+   "statetime": "2022-12-18 15:27:45",
+   "region": 4,
+   "name": "Name#419",
+   "email": "email419@abc.com",
+   "gold": 233827,
+   "power": 487167,
+   "level": 37
+ },
+ {
+   "id": 420,
+   "statetime": "2022-12-17 16:29:09",
+   "region": 5,
+   "name": "Name#420",
+   "email": "email420@abc.com",
+   "gold": 88595,
+   "power": 364793,
+   "level": 24
+ },
+ {
+   "id": 421,
+   "statetime": "2022-12-18 14:24:46",
+   "region": 2,
+   "name": "Name#421",
+   "email": "email421@abc.com",
+   "gold": 735986,
+   "power": 774828,
+   "level": 16
+ },
+ {
+   "id": 422,
+   "statetime": "2022-12-19 23:04:09",
+   "region": 5,
+   "name": "Name#422",
+   "email": "email422@abc.com",
+   "gold": 280500,
+   "power": 760368,
+   "level": 37
+ },
+ {
+   "id": 423,
+   "statetime": "2022-12-21 22:29:47",
+   "region": 8,
+   "name": "Name#423",
+   "email": "email423@abc.com",
+   "gold": 134440,
+   "power": 20817,
+   "level": 40
+ },
+ {
+   "id": 424,
+   "statetime": "2022-12-20 14:20:29",
+   "region": 9,
+   "name": "Name#424",
+   "email": "email424@abc.com",
+   "gold": 221056,
+   "power": 489630,
+   "level": 6
+ },
+ {
+   "id": 425,
+   "statetime": "2022-12-23 09:41:54",
+   "region": 1,
+   "name": "Name#425",
+   "email": "email425@abc.com",
+   "gold": 295316,
+   "power": 557071,
+   "level": 34
+ },
+ {
+   "id": 426,
+   "statetime": "2022-12-20 08:28:44",
+   "region": 7,
+   "name": "Name#426",
+   "email": "email426@abc.com",
+   "gold": 14373,
+   "power": 418066,
+   "level": 18
+ },
+ {
+   "id": 427,
+   "statetime": "2022-12-20 17:06:10",
+   "region": 7,
+   "name": "Name#427",
+   "email": "email427@abc.com",
+   "gold": 40840,
+   "power": 658756,
+   "level": 36
+ },
+ {
+   "id": 428,
+   "statetime": "2022-12-18 15:32:29",
+   "region": 3,
+   "name": "Name#428",
+   "email": "email428@abc.com",
+   "gold": 117471,
+   "power": 451158,
+   "level": 43
+ },
+ {
+   "id": 429,
+   "statetime": "2022-12-22 19:11:55",
+   "region": 5,
+   "name": "Name#429",
+   "email": "email429@abc.com",
+   "gold": 68600,
+   "power": 452074,
+   "level": 25
+ },
+ {
+   "id": 430,
+   "statetime": "2022-12-20 11:05:19",
+   "region": 6,
+   "name": "Name#430",
+   "email": "email430@abc.com",
+   "gold": 651829,
+   "power": 215060,
+   "level": 31
+ },
+ {
+   "id": 431,
+   "statetime": "2022-12-17 13:24:54",
+   "region": 8,
+   "name": "Name#431",
+   "email": "email431@abc.com",
+   "gold": 413384,
+   "power": 851092,
+   "level": 16
+ },
+ {
+   "id": 432,
+   "statetime": "2022-12-23 06:24:05",
+   "region": 4,
+   "name": "Name#432",
+   "email": "email432@abc.com",
+   "gold": 865126,
+   "power": 269040,
+   "level": 9
+ },
+ {
+   "id": 433,
+   "statetime": "2022-12-23 16:34:01",
+   "region": 2,
+   "name": "Name#433",
+   "email": "email433@abc.com",
+   "gold": 45774,
+   "power": 238355,
+   "level": 23
+ },
+ {
+   "id": 434,
+   "statetime": "2022-12-22 09:41:50",
+   "region": 3,
+   "name": "Name#434",
+   "email": "email434@abc.com",
+   "gold": 790411,
+   "power": 993882,
+   "level": 40
+ },
+ {
+   "id": 435,
+   "statetime": "2022-12-18 02:39:00",
+   "region": 2,
+   "name": "Name#435",
+   "email": "email435@abc.com",
+   "gold": 249474,
+   "power": 529251,
+   "level": 39
+ },
+ {
+   "id": 436,
+   "statetime": "2022-12-20 09:10:10",
+   "region": 4,
+   "name": "Name#436",
+   "email": "email436@abc.com",
+   "gold": 82455,
+   "power": 962307,
+   "level": 3
+ },
+ {
+   "id": 437,
+   "statetime": "2022-12-18 05:34:11",
+   "region": 6,
+   "name": "Name#437",
+   "email": "email437@abc.com",
+   "gold": 542741,
+   "power": 94040,
+   "level": 4
+ },
+ {
+   "id": 438,
+   "statetime": "2022-12-18 18:43:10",
+   "region": 8,
+   "name": "Name#438",
+   "email": "email438@abc.com",
+   "gold": 812784,
+   "power": 799245,
+   "level": 31
+ },
+ {
+   "id": 439,
+   "statetime": "2022-12-22 10:43:15",
+   "region": 2,
+   "name": "Name#439",
+   "email": "email439@abc.com",
+   "gold": 307306,
+   "power": 655940,
+   "level": 4
+ },
+ {
+   "id": 440,
+   "statetime": "2022-12-24 00:34:21",
+   "region": 5,
+   "name": "Name#440",
+   "email": "email440@abc.com",
+   "gold": 302309,
+   "power": 235798,
+   "level": 49
+ },
+ {
+   "id": 441,
+   "statetime": "2022-12-21 22:36:21",
+   "region": 1,
+   "name": "Name#441",
+   "email": "email441@abc.com",
+   "gold": 893363,
+   "power": 256309,
+   "level": 37
+ },
+ {
+   "id": 442,
+   "statetime": "2022-12-18 18:16:53",
+   "region": 9,
+   "name": "Name#442",
+   "email": "email442@abc.com",
+   "gold": 399906,
+   "power": 443674,
+   "level": 35
+ },
+ {
+   "id": 443,
+   "statetime": "2022-12-17 16:14:08",
+   "region": 8,
+   "name": "Name#443",
+   "email": "email443@abc.com",
+   "gold": 965058,
+   "power": 108537,
+   "level": 12
+ },
+ {
+   "id": 444,
+   "statetime": "2022-12-19 00:58:41",
+   "region": 9,
+   "name": "Name#444",
+   "email": "email444@abc.com",
+   "gold": 442970,
+   "power": 268436,
+   "level": 27
+ },
+ {
+   "id": 445,
+   "statetime": "2022-12-21 01:04:43",
+   "region": 2,
+   "name": "Name#445",
+   "email": "email445@abc.com",
+   "gold": 109613,
+   "power": 821221,
+   "level": 29
+ },
+ {
+   "id": 446,
+   "statetime": "2022-12-18 05:01:55",
+   "region": 6,
+   "name": "Name#446",
+   "email": "email446@abc.com",
+   "gold": 547658,
+   "power": 7717,
+   "level": 18
+ },
+ {
+   "id": 447,
+   "statetime": "2022-12-20 12:57:43",
+   "region": 6,
+   "name": "Name#447",
+   "email": "email447@abc.com",
+   "gold": 467224,
+   "power": 910132,
+   "level": 7
+ },
+ {
+   "id": 448,
+   "statetime": "2022-12-21 22:10:56",
+   "region": 5,
+   "name": "Name#448",
+   "email": "email448@abc.com",
+   "gold": 94663,
+   "power": 969318,
+   "level": 19
+ },
+ {
+   "id": 449,
+   "statetime": "2022-12-18 22:57:41",
+   "region": 4,
+   "name": "Name#449",
+   "email": "email449@abc.com",
+   "gold": 782250,
+   "power": 200877,
+   "level": 49
+ },
+ {
+   "id": 450,
+   "statetime": "2022-12-22 16:01:31",
+   "region": 5,
+   "name": "Name#450",
+   "email": "email450@abc.com",
+   "gold": 20034,
+   "power": 374572,
+   "level": 33
+ },
+ {
+   "id": 451,
+   "statetime": "2022-12-20 07:13:32",
+   "region": 3,
+   "name": "Name#451",
+   "email": "email451@abc.com",
+   "gold": 188555,
+   "power": 972745,
+   "level": 11
+ },
+ {
+   "id": 452,
+   "statetime": "2022-12-23 18:29:00",
+   "region": 1,
+   "name": "Name#452",
+   "email": "email452@abc.com",
+   "gold": 560039,
+   "power": 227912,
+   "level": 36
+ },
+ {
+   "id": 453,
+   "statetime": "2022-12-18 23:12:07",
+   "region": 1,
+   "name": "Name#453",
+   "email": "email453@abc.com",
+   "gold": 700000,
+   "power": 690057,
+   "level": 24
+ },
+ {
+   "id": 454,
+   "statetime": "2022-12-18 22:54:42",
+   "region": 4,
+   "name": "Name#454",
+   "email": "email454@abc.com",
+   "gold": 632674,
+   "power": 707013,
+   "level": 44
+ },
+ {
+   "id": 455,
+   "statetime": "2022-12-17 11:39:50",
+   "region": 3,
+   "name": "Name#455",
+   "email": "email455@abc.com",
+   "gold": 581325,
+   "power": 525994,
+   "level": 39
+ },
+ {
+   "id": 456,
+   "statetime": "2022-12-20 03:10:00",
+   "region": 9,
+   "name": "Name#456",
+   "email": "email456@abc.com",
+   "gold": 883872,
+   "power": 362028,
+   "level": 41
+ },
+ {
+   "id": 457,
+   "statetime": "2022-12-24 06:40:33",
+   "region": 7,
+   "name": "Name#457",
+   "email": "email457@abc.com",
+   "gold": 406277,
+   "power": 552378,
+   "level": 11
+ },
+ {
+   "id": 458,
+   "statetime": "2022-12-21 04:02:19",
+   "region": 9,
+   "name": "Name#458",
+   "email": "email458@abc.com",
+   "gold": 655653,
+   "power": 875652,
+   "level": 34
+ },
+ {
+   "id": 459,
+   "statetime": "2022-12-20 17:50:25",
+   "region": 5,
+   "name": "Name#459",
+   "email": "email459@abc.com",
+   "gold": 437990,
+   "power": 194169,
+   "level": 30
+ },
+ {
+   "id": 460,
+   "statetime": "2022-12-19 07:44:39",
+   "region": 9,
+   "name": "Name#460",
+   "email": "email460@abc.com",
+   "gold": 300352,
+   "power": 801901,
+   "level": 36
+ },
+ {
+   "id": 461,
+   "statetime": "2022-12-23 11:15:48",
+   "region": 7,
+   "name": "Name#461",
+   "email": "email461@abc.com",
+   "gold": 894371,
+   "power": 527089,
+   "level": 2
+ },
+ {
+   "id": 462,
+   "statetime": "2022-12-23 14:13:18",
+   "region": 5,
+   "name": "Name#462",
+   "email": "email462@abc.com",
+   "gold": 938554,
+   "power": 500279,
+   "level": 29
+ },
+ {
+   "id": 463,
+   "statetime": "2022-12-17 11:50:48",
+   "region": 1,
+   "name": "Name#463",
+   "email": "email463@abc.com",
+   "gold": 924243,
+   "power": 753422,
+   "level": 21
+ },
+ {
+   "id": 464,
+   "statetime": "2022-12-17 17:10:17",
+   "region": 7,
+   "name": "Name#464",
+   "email": "email464@abc.com",
+   "gold": 367637,
+   "power": 99553,
+   "level": 12
+ },
+ {
+   "id": 465,
+   "statetime": "2022-12-20 09:01:38",
+   "region": 2,
+   "name": "Name#465",
+   "email": "email465@abc.com",
+   "gold": 717767,
+   "power": 754133,
+   "level": 32
+ },
+ {
+   "id": 466,
+   "statetime": "2022-12-21 02:16:29",
+   "region": 6,
+   "name": "Name#466",
+   "email": "email466@abc.com",
+   "gold": 383463,
+   "power": 801616,
+   "level": 46
+ },
+ {
+   "id": 467,
+   "statetime": "2022-12-20 02:03:48",
+   "region": 9,
+   "name": "Name#467",
+   "email": "email467@abc.com",
+   "gold": 811535,
+   "power": 324739,
+   "level": 14
+ },
+ {
+   "id": 468,
+   "statetime": "2022-12-24 05:37:55",
+   "region": 2,
+   "name": "Name#468",
+   "email": "email468@abc.com",
+   "gold": 514282,
+   "power": 971337,
+   "level": 28
+ },
+ {
+   "id": 469,
+   "statetime": "2022-12-18 23:18:02",
+   "region": 6,
+   "name": "Name#469",
+   "email": "email469@abc.com",
+   "gold": 484886,
+   "power": 288815,
+   "level": 28
+ },
+ {
+   "id": 470,
+   "statetime": "2022-12-23 05:19:00",
+   "region": 8,
+   "name": "Name#470",
+   "email": "email470@abc.com",
+   "gold": 354200,
+   "power": 311391,
+   "level": 36
+ },
+ {
+   "id": 471,
+   "statetime": "2022-12-23 11:20:13",
+   "region": 1,
+   "name": "Name#471",
+   "email": "email471@abc.com",
+   "gold": 412654,
+   "power": 653307,
+   "level": 44
+ },
+ {
+   "id": 472,
+   "statetime": "2022-12-19 07:48:23",
+   "region": 7,
+   "name": "Name#472",
+   "email": "email472@abc.com",
+   "gold": 979871,
+   "power": 650152,
+   "level": 16
+ },
+ {
+   "id": 473,
+   "statetime": "2022-12-23 23:17:44",
+   "region": 7,
+   "name": "Name#473",
+   "email": "email473@abc.com",
+   "gold": 978237,
+   "power": 787062,
+   "level": 42
+ },
+ {
+   "id": 474,
+   "statetime": "2022-12-18 19:12:19",
+   "region": 2,
+   "name": "Name#474",
+   "email": "email474@abc.com",
+   "gold": 204999,
+   "power": 177337,
+   "level": 13
+ },
+ {
+   "id": 475,
+   "statetime": "2022-12-19 13:13:51",
+   "region": 8,
+   "name": "Name#475",
+   "email": "email475@abc.com",
+   "gold": 853089,
+   "power": 605042,
+   "level": 12
+ },
+ {
+   "id": 476,
+   "statetime": "2022-12-21 12:25:56",
+   "region": 2,
+   "name": "Name#476",
+   "email": "email476@abc.com",
+   "gold": 345800,
+   "power": 524758,
+   "level": 36
+ },
+ {
+   "id": 477,
+   "statetime": "2022-12-21 07:36:28",
+   "region": 9,
+   "name": "Name#477",
+   "email": "email477@abc.com",
+   "gold": 194146,
+   "power": 508591,
+   "level": 10
+ },
+ {
+   "id": 478,
+   "statetime": "2022-12-18 14:29:39",
+   "region": 1,
+   "name": "Name#478",
+   "email": "email478@abc.com",
+   "gold": 558635,
+   "power": 462260,
+   "level": 47
+ },
+ {
+   "id": 479,
+   "statetime": "2022-12-18 23:17:53",
+   "region": 6,
+   "name": "Name#479",
+   "email": "email479@abc.com",
+   "gold": 957580,
+   "power": 36823,
+   "level": 4
+ },
+ {
+   "id": 480,
+   "statetime": "2022-12-19 08:28:23",
+   "region": 3,
+   "name": "Name#480",
+   "email": "email480@abc.com",
+   "gold": 904924,
+   "power": 298714,
+   "level": 43
+ },
+ {
+   "id": 481,
+   "statetime": "2022-12-18 15:23:29",
+   "region": 9,
+   "name": "Name#481",
+   "email": "email481@abc.com",
+   "gold": 979313,
+   "power": 891387,
+   "level": 38
+ },
+ {
+   "id": 482,
+   "statetime": "2022-12-20 23:04:31",
+   "region": 2,
+   "name": "Name#482",
+   "email": "email482@abc.com",
+   "gold": 466805,
+   "power": 174895,
+   "level": 10
+ },
+ {
+   "id": 483,
+   "statetime": "2022-12-24 00:20:47",
+   "region": 6,
+   "name": "Name#483",
+   "email": "email483@abc.com",
+   "gold": 284980,
+   "power": 337272,
+   "level": 41
+ },
+ {
+   "id": 484,
+   "statetime": "2022-12-21 08:00:41",
+   "region": 4,
+   "name": "Name#484",
+   "email": "email484@abc.com",
+   "gold": 842964,
+   "power": 321485,
+   "level": 10
+ },
+ {
+   "id": 485,
+   "statetime": "2022-12-23 10:35:10",
+   "region": 5,
+   "name": "Name#485",
+   "email": "email485@abc.com",
+   "gold": 326600,
+   "power": 27641,
+   "level": 9
+ },
+ {
+   "id": 486,
+   "statetime": "2022-12-18 01:31:43",
+   "region": 2,
+   "name": "Name#486",
+   "email": "email486@abc.com",
+   "gold": 188640,
+   "power": 925055,
+   "level": 32
+ },
+ {
+   "id": 487,
+   "statetime": "2022-12-21 03:48:18",
+   "region": 4,
+   "name": "Name#487",
+   "email": "email487@abc.com",
+   "gold": 603905,
+   "power": 657197,
+   "level": 18
+ },
+ {
+   "id": 488,
+   "statetime": "2022-12-18 04:28:26",
+   "region": 6,
+   "name": "Name#488",
+   "email": "email488@abc.com",
+   "gold": 152117,
+   "power": 162614,
+   "level": 7
+ },
+ {
+   "id": 489,
+   "statetime": "2022-12-21 16:08:17",
+   "region": 1,
+   "name": "Name#489",
+   "email": "email489@abc.com",
+   "gold": 116972,
+   "power": 273123,
+   "level": 43
+ },
+ {
+   "id": 490,
+   "statetime": "2022-12-19 06:54:19",
+   "region": 4,
+   "name": "Name#490",
+   "email": "email490@abc.com",
+   "gold": 528095,
+   "power": 966496,
+   "level": 34
+ },
+ {
+   "id": 491,
+   "statetime": "2022-12-22 16:46:49",
+   "region": 9,
+   "name": "Name#491",
+   "email": "email491@abc.com",
+   "gold": 669519,
+   "power": 854122,
+   "level": 13
+ },
+ {
+   "id": 492,
+   "statetime": "2022-12-22 16:45:50",
+   "region": 2,
+   "name": "Name#492",
+   "email": "email492@abc.com",
+   "gold": 931132,
+   "power": 265126,
+   "level": 29
+ },
+ {
+   "id": 493,
+   "statetime": "2022-12-20 23:08:07",
+   "region": 3,
+   "name": "Name#493",
+   "email": "email493@abc.com",
+   "gold": 11353,
+   "power": 343135,
+   "level": 14
+ },
+ {
+   "id": 494,
+   "statetime": "2022-12-23 04:18:48",
+   "region": 6,
+   "name": "Name#494",
+   "email": "email494@abc.com",
+   "gold": 237114,
+   "power": 555824,
+   "level": 13
+ },
+ {
+   "id": 495,
+   "statetime": "2022-12-20 13:22:19",
+   "region": 3,
+   "name": "Name#495",
+   "email": "email495@abc.com",
+   "gold": 923549,
+   "power": 800965,
+   "level": 36
+ },
+ {
+   "id": 496,
+   "statetime": "2022-12-21 07:59:32",
+   "region": 3,
+   "name": "Name#496",
+   "email": "email496@abc.com",
+   "gold": 774017,
+   "power": 962163,
+   "level": 33
+ },
+ {
+   "id": 497,
+   "statetime": "2022-12-22 16:03:40",
+   "region": 5,
+   "name": "Name#497",
+   "email": "email497@abc.com",
+   "gold": 228644,
+   "power": 559635,
+   "level": 3
+ },
+ {
+   "id": 498,
+   "statetime": "2022-12-18 12:09:26",
+   "region": 5,
+   "name": "Name#498",
+   "email": "email498@abc.com",
+   "gold": 392504,
+   "power": 765900,
+   "level": 44
+ },
+ {
+   "id": 499,
+   "statetime": "2022-12-19 17:46:35",
+   "region": 7,
+   "name": "Name#499",
+   "email": "email499@abc.com",
+   "gold": 834070,
+   "power": 156393,
+   "level": 3
+ },
+ {
+   "id": 500,
+   "statetime": "2022-12-22 14:57:15",
+   "region": 3,
+   "name": "Name#500",
+   "email": "email500@abc.com",
+   "gold": 173366,
+   "power": 402216,
+   "level": 34
+ },
+ {
+   "id": 501,
+   "statetime": "2022-12-22 22:37:54",
+   "region": 2,
+   "name": "Name#501",
+   "email": "email501@abc.com",
+   "gold": 764224,
+   "power": 474012,
+   "level": 5
+ },
+ {
+   "id": 502,
+   "statetime": "2022-12-22 04:33:36",
+   "region": 5,
+   "name": "Name#502",
+   "email": "email502@abc.com",
+   "gold": 143784,
+   "power": 263610,
+   "level": 26
+ },
+ {
+   "id": 503,
+   "statetime": "2022-12-23 11:33:25",
+   "region": 7,
+   "name": "Name#503",
+   "email": "email503@abc.com",
+   "gold": 695489,
+   "power": 369880,
+   "level": 19
+ },
+ {
+   "id": 504,
+   "statetime": "2022-12-19 10:18:41",
+   "region": 5,
+   "name": "Name#504",
+   "email": "email504@abc.com",
+   "gold": 279327,
+   "power": 959620,
+   "level": 49
+ },
+ {
+   "id": 505,
+   "statetime": "2022-12-17 19:00:32",
+   "region": 1,
+   "name": "Name#505",
+   "email": "email505@abc.com",
+   "gold": 906696,
+   "power": 670036,
+   "level": 45
+ },
+ {
+   "id": 506,
+   "statetime": "2022-12-19 17:45:40",
+   "region": 2,
+   "name": "Name#506",
+   "email": "email506@abc.com",
+   "gold": 133940,
+   "power": 574449,
+   "level": 20
+ },
+ {
+   "id": 507,
+   "statetime": "2022-12-23 17:44:32",
+   "region": 5,
+   "name": "Name#507",
+   "email": "email507@abc.com",
+   "gold": 626820,
+   "power": 338464,
+   "level": 2
+ },
+ {
+   "id": 508,
+   "statetime": "2022-12-19 02:49:03",
+   "region": 7,
+   "name": "Name#508",
+   "email": "email508@abc.com",
+   "gold": 722346,
+   "power": 538706,
+   "level": 42
+ },
+ {
+   "id": 509,
+   "statetime": "2022-12-21 09:14:02",
+   "region": 3,
+   "name": "Name#509",
+   "email": "email509@abc.com",
+   "gold": 534213,
+   "power": 389676,
+   "level": 12
+ },
+ {
+   "id": 510,
+   "statetime": "2022-12-20 21:12:11",
+   "region": 3,
+   "name": "Name#510",
+   "email": "email510@abc.com",
+   "gold": 855928,
+   "power": 789674,
+   "level": 20
+ },
+ {
+   "id": 511,
+   "statetime": "2022-12-18 12:09:18",
+   "region": 9,
+   "name": "Name#511",
+   "email": "email511@abc.com",
+   "gold": 774549,
+   "power": 391712,
+   "level": 20
+ },
+ {
+   "id": 512,
+   "statetime": "2022-12-17 13:37:01",
+   "region": 5,
+   "name": "Name#512",
+   "email": "email512@abc.com",
+   "gold": 640425,
+   "power": 28230,
+   "level": 16
+ },
+ {
+   "id": 513,
+   "statetime": "2022-12-20 07:56:06",
+   "region": 9,
+   "name": "Name#513",
+   "email": "email513@abc.com",
+   "gold": 791274,
+   "power": 234197,
+   "level": 7
+ },
+ {
+   "id": 514,
+   "statetime": "2022-12-17 10:39:57",
+   "region": 6,
+   "name": "Name#514",
+   "email": "email514@abc.com",
+   "gold": 171616,
+   "power": 493467,
+   "level": 30
+ },
+ {
+   "id": 515,
+   "statetime": "2022-12-24 05:54:24",
+   "region": 8,
+   "name": "Name#515",
+   "email": "email515@abc.com",
+   "gold": 568028,
+   "power": 270930,
+   "level": 37
+ },
+ {
+   "id": 516,
+   "statetime": "2022-12-23 22:40:04",
+   "region": 2,
+   "name": "Name#516",
+   "email": "email516@abc.com",
+   "gold": 110869,
+   "power": 327669,
+   "level": 30
+ },
+ {
+   "id": 517,
+   "statetime": "2022-12-19 13:33:52",
+   "region": 8,
+   "name": "Name#517",
+   "email": "email517@abc.com",
+   "gold": 568010,
+   "power": 875186,
+   "level": 42
+ },
+ {
+   "id": 518,
+   "statetime": "2022-12-21 05:10:45",
+   "region": 1,
+   "name": "Name#518",
+   "email": "email518@abc.com",
+   "gold": 514047,
+   "power": 291538,
+   "level": 12
+ },
+ {
+   "id": 519,
+   "statetime": "2022-12-21 01:51:58",
+   "region": 2,
+   "name": "Name#519",
+   "email": "email519@abc.com",
+   "gold": 288991,
+   "power": 178307,
+   "level": 14
+ },
+ {
+   "id": 520,
+   "statetime": "2022-12-17 21:14:39",
+   "region": 1,
+   "name": "Name#520",
+   "email": "email520@abc.com",
+   "gold": 528398,
+   "power": 644179,
+   "level": 19
+ },
+ {
+   "id": 521,
+   "statetime": "2022-12-22 09:45:38",
+   "region": 8,
+   "name": "Name#521",
+   "email": "email521@abc.com",
+   "gold": 596074,
+   "power": 122254,
+   "level": 44
+ },
+ {
+   "id": 522,
+   "statetime": "2022-12-18 16:45:31",
+   "region": 5,
+   "name": "Name#522",
+   "email": "email522@abc.com",
+   "gold": 920913,
+   "power": 267514,
+   "level": 7
+ },
+ {
+   "id": 523,
+   "statetime": "2022-12-20 02:58:11",
+   "region": 9,
+   "name": "Name#523",
+   "email": "email523@abc.com",
+   "gold": 154694,
+   "power": 971763,
+   "level": 2
+ },
+ {
+   "id": 524,
+   "statetime": "2022-12-20 16:08:47",
+   "region": 8,
+   "name": "Name#524",
+   "email": "email524@abc.com",
+   "gold": 730171,
+   "power": 804953,
+   "level": 3
+ },
+ {
+   "id": 525,
+   "statetime": "2022-12-22 03:39:26",
+   "region": 7,
+   "name": "Name#525",
+   "email": "email525@abc.com",
+   "gold": 968088,
+   "power": 408713,
+   "level": 22
+ },
+ {
+   "id": 526,
+   "statetime": "2022-12-18 16:55:54",
+   "region": 8,
+   "name": "Name#526",
+   "email": "email526@abc.com",
+   "gold": 249964,
+   "power": 411325,
+   "level": 44
+ },
+ {
+   "id": 527,
+   "statetime": "2022-12-21 07:54:57",
+   "region": 6,
+   "name": "Name#527",
+   "email": "email527@abc.com",
+   "gold": 378276,
+   "power": 225212,
+   "level": 49
+ },
+ {
+   "id": 528,
+   "statetime": "2022-12-18 11:06:36",
+   "region": 4,
+   "name": "Name#528",
+   "email": "email528@abc.com",
+   "gold": 731189,
+   "power": 667500,
+   "level": 28
+ },
+ {
+   "id": 529,
+   "statetime": "2022-12-17 10:47:50",
+   "region": 8,
+   "name": "Name#529",
+   "email": "email529@abc.com",
+   "gold": 90782,
+   "power": 74166,
+   "level": 5
+ },
+ {
+   "id": 530,
+   "statetime": "2022-12-24 01:13:05",
+   "region": 2,
+   "name": "Name#530",
+   "email": "email530@abc.com",
+   "gold": 180145,
+   "power": 585902,
+   "level": 24
+ },
+ {
+   "id": 531,
+   "statetime": "2022-12-21 04:58:05",
+   "region": 7,
+   "name": "Name#531",
+   "email": "email531@abc.com",
+   "gold": 39128,
+   "power": 780951,
+   "level": 14
+ },
+ {
+   "id": 532,
+   "statetime": "2022-12-19 03:54:56",
+   "region": 6,
+   "name": "Name#532",
+   "email": "email532@abc.com",
+   "gold": 148153,
+   "power": 496392,
+   "level": 36
+ },
+ {
+   "id": 533,
+   "statetime": "2022-12-17 09:02:18",
+   "region": 8,
+   "name": "Name#533",
+   "email": "email533@abc.com",
+   "gold": 569499,
+   "power": 602870,
+   "level": 9
+ },
+ {
+   "id": 534,
+   "statetime": "2022-12-20 11:47:56",
+   "region": 2,
+   "name": "Name#534",
+   "email": "email534@abc.com",
+   "gold": 216225,
+   "power": 840904,
+   "level": 11
+ },
+ {
+   "id": 535,
+   "statetime": "2022-12-21 20:49:27",
+   "region": 3,
+   "name": "Name#535",
+   "email": "email535@abc.com",
+   "gold": 959273,
+   "power": 611214,
+   "level": 3
+ },
+ {
+   "id": 536,
+   "statetime": "2022-12-23 09:26:05",
+   "region": 2,
+   "name": "Name#536",
+   "email": "email536@abc.com",
+   "gold": 353588,
+   "power": 901451,
+   "level": 18
+ },
+ {
+   "id": 537,
+   "statetime": "2022-12-22 20:33:28",
+   "region": 6,
+   "name": "Name#537",
+   "email": "email537@abc.com",
+   "gold": 322667,
+   "power": 326889,
+   "level": 1
+ },
+ {
+   "id": 538,
+   "statetime": "2022-12-21 13:27:51",
+   "region": 4,
+   "name": "Name#538",
+   "email": "email538@abc.com",
+   "gold": 620374,
+   "power": 619844,
+   "level": 9
+ },
+ {
+   "id": 539,
+   "statetime": "2022-12-17 21:30:19",
+   "region": 5,
+   "name": "Name#539",
+   "email": "email539@abc.com",
+   "gold": 453853,
+   "power": 371605,
+   "level": 32
+ },
+ {
+   "id": 540,
+   "statetime": "2022-12-19 11:29:37",
+   "region": 4,
+   "name": "Name#540",
+   "email": "email540@abc.com",
+   "gold": 488378,
+   "power": 311040,
+   "level": 34
+ },
+ {
+   "id": 541,
+   "statetime": "2022-12-18 20:03:53",
+   "region": 7,
+   "name": "Name#541",
+   "email": "email541@abc.com",
+   "gold": 856230,
+   "power": 437979,
+   "level": 24
+ },
+ {
+   "id": 542,
+   "statetime": "2022-12-18 02:39:45",
+   "region": 1,
+   "name": "Name#542",
+   "email": "email542@abc.com",
+   "gold": 608327,
+   "power": 431635,
+   "level": 14
+ },
+ {
+   "id": 543,
+   "statetime": "2022-12-20 16:18:13",
+   "region": 9,
+   "name": "Name#543",
+   "email": "email543@abc.com",
+   "gold": 365508,
+   "power": 751691,
+   "level": 28
+ },
+ {
+   "id": 544,
+   "statetime": "2022-12-22 05:59:52",
+   "region": 7,
+   "name": "Name#544",
+   "email": "email544@abc.com",
+   "gold": 580960,
+   "power": 672384,
+   "level": 44
+ },
+ {
+   "id": 545,
+   "statetime": "2022-12-19 17:28:12",
+   "region": 8,
+   "name": "Name#545",
+   "email": "email545@abc.com",
+   "gold": 579542,
+   "power": 277191,
+   "level": 4
+ },
+ {
+   "id": 546,
+   "statetime": "2022-12-21 23:21:23",
+   "region": 3,
+   "name": "Name#546",
+   "email": "email546@abc.com",
+   "gold": 482216,
+   "power": 150969,
+   "level": 8
+ },
+ {
+   "id": 547,
+   "statetime": "2022-12-23 12:07:00",
+   "region": 1,
+   "name": "Name#547",
+   "email": "email547@abc.com",
+   "gold": 744076,
+   "power": 533768,
+   "level": 48
+ },
+ {
+   "id": 548,
+   "statetime": "2022-12-18 13:52:29",
+   "region": 4,
+   "name": "Name#548",
+   "email": "email548@abc.com",
+   "gold": 721554,
+   "power": 478597,
+   "level": 25
+ },
+ {
+   "id": 549,
+   "statetime": "2022-12-17 14:06:25",
+   "region": 9,
+   "name": "Name#549",
+   "email": "email549@abc.com",
+   "gold": 106539,
+   "power": 753931,
+   "level": 34
+ },
+ {
+   "id": 550,
+   "statetime": "2022-12-20 13:07:25",
+   "region": 5,
+   "name": "Name#550",
+   "email": "email550@abc.com",
+   "gold": 689006,
+   "power": 575601,
+   "level": 20
+ },
+ {
+   "id": 551,
+   "statetime": "2022-12-20 23:47:25",
+   "region": 6,
+   "name": "Name#551",
+   "email": "email551@abc.com",
+   "gold": 340534,
+   "power": 399185,
+   "level": 47
+ },
+ {
+   "id": 552,
+   "statetime": "2022-12-20 12:12:58",
+   "region": 3,
+   "name": "Name#552",
+   "email": "email552@abc.com",
+   "gold": 347616,
+   "power": 86263,
+   "level": 2
+ },
+ {
+   "id": 553,
+   "statetime": "2022-12-19 04:13:40",
+   "region": 1,
+   "name": "Name#553",
+   "email": "email553@abc.com",
+   "gold": 804683,
+   "power": 278345,
+   "level": 33
+ },
+ {
+   "id": 554,
+   "statetime": "2022-12-18 22:20:14",
+   "region": 5,
+   "name": "Name#554",
+   "email": "email554@abc.com",
+   "gold": 340572,
+   "power": 595097,
+   "level": 32
+ },
+ {
+   "id": 555,
+   "statetime": "2022-12-22 16:45:34",
+   "region": 4,
+   "name": "Name#555",
+   "email": "email555@abc.com",
+   "gold": 559818,
+   "power": 508156,
+   "level": 6
+ },
+ {
+   "id": 556,
+   "statetime": "2022-12-22 10:04:55",
+   "region": 2,
+   "name": "Name#556",
+   "email": "email556@abc.com",
+   "gold": 143893,
+   "power": 878019,
+   "level": 18
+ },
+ {
+   "id": 557,
+   "statetime": "2022-12-22 14:57:00",
+   "region": 7,
+   "name": "Name#557",
+   "email": "email557@abc.com",
+   "gold": 805958,
+   "power": 100860,
+   "level": 39
+ },
+ {
+   "id": 558,
+   "statetime": "2022-12-21 08:12:11",
+   "region": 9,
+   "name": "Name#558",
+   "email": "email558@abc.com",
+   "gold": 180725,
+   "power": 480553,
+   "level": 27
+ },
+ {
+   "id": 559,
+   "statetime": "2022-12-22 03:20:23",
+   "region": 9,
+   "name": "Name#559",
+   "email": "email559@abc.com",
+   "gold": 570541,
+   "power": 177358,
+   "level": 7
+ },
+ {
+   "id": 560,
+   "statetime": "2022-12-23 21:42:40",
+   "region": 2,
+   "name": "Name#560",
+   "email": "email560@abc.com",
+   "gold": 347977,
+   "power": 671662,
+   "level": 23
+ },
+ {
+   "id": 561,
+   "statetime": "2022-12-18 11:40:00",
+   "region": 8,
+   "name": "Name#561",
+   "email": "email561@abc.com",
+   "gold": 350969,
+   "power": 462502,
+   "level": 41
+ },
+ {
+   "id": 562,
+   "statetime": "2022-12-18 16:38:28",
+   "region": 3,
+   "name": "Name#562",
+   "email": "email562@abc.com",
+   "gold": 282400,
+   "power": 261329,
+   "level": 29
+ },
+ {
+   "id": 563,
+   "statetime": "2022-12-22 18:47:24",
+   "region": 3,
+   "name": "Name#563",
+   "email": "email563@abc.com",
+   "gold": 830311,
+   "power": 483627,
+   "level": 23
+ },
+ {
+   "id": 564,
+   "statetime": "2022-12-22 18:25:24",
+   "region": 9,
+   "name": "Name#564",
+   "email": "email564@abc.com",
+   "gold": 734370,
+   "power": 594422,
+   "level": 41
+ },
+ {
+   "id": 565,
+   "statetime": "2022-12-22 01:43:53",
+   "region": 9,
+   "name": "Name#565",
+   "email": "email565@abc.com",
+   "gold": 670558,
+   "power": 241690,
+   "level": 19
+ },
+ {
+   "id": 566,
+   "statetime": "2022-12-19 10:57:04",
+   "region": 5,
+   "name": "Name#566",
+   "email": "email566@abc.com",
+   "gold": 361357,
+   "power": 621387,
+   "level": 45
+ },
+ {
+   "id": 567,
+   "statetime": "2022-12-20 00:22:02",
+   "region": 9,
+   "name": "Name#567",
+   "email": "email567@abc.com",
+   "gold": 390917,
+   "power": 125393,
+   "level": 49
+ },
+ {
+   "id": 568,
+   "statetime": "2022-12-23 21:13:15",
+   "region": 2,
+   "name": "Name#568",
+   "email": "email568@abc.com",
+   "gold": 226127,
+   "power": 277925,
+   "level": 30
+ },
+ {
+   "id": 569,
+   "statetime": "2022-12-19 02:19:03",
+   "region": 2,
+   "name": "Name#569",
+   "email": "email569@abc.com",
+   "gold": 818350,
+   "power": 455471,
+   "level": 25
+ },
+ {
+   "id": 570,
+   "statetime": "2022-12-18 22:27:28",
+   "region": 3,
+   "name": "Name#570",
+   "email": "email570@abc.com",
+   "gold": 998110,
+   "power": 180914,
+   "level": 48
+ },
+ {
+   "id": 571,
+   "statetime": "2022-12-20 09:04:20",
+   "region": 2,
+   "name": "Name#571",
+   "email": "email571@abc.com",
+   "gold": 426862,
+   "power": 477776,
+   "level": 1
+ },
+ {
+   "id": 572,
+   "statetime": "2022-12-23 18:04:35",
+   "region": 6,
+   "name": "Name#572",
+   "email": "email572@abc.com",
+   "gold": 748525,
+   "power": 917441,
+   "level": 39
+ },
+ {
+   "id": 573,
+   "statetime": "2022-12-21 15:19:56",
+   "region": 1,
+   "name": "Name#573",
+   "email": "email573@abc.com",
+   "gold": 200799,
+   "power": 762626,
+   "level": 43
+ },
+ {
+   "id": 574,
+   "statetime": "2022-12-19 12:26:19",
+   "region": 1,
+   "name": "Name#574",
+   "email": "email574@abc.com",
+   "gold": 155180,
+   "power": 65067,
+   "level": 48
+ },
+ {
+   "id": 575,
+   "statetime": "2022-12-19 09:54:26",
+   "region": 2,
+   "name": "Name#575",
+   "email": "email575@abc.com",
+   "gold": 800883,
+   "power": 231525,
+   "level": 2
+ },
+ {
+   "id": 576,
+   "statetime": "2022-12-17 10:12:36",
+   "region": 7,
+   "name": "Name#576",
+   "email": "email576@abc.com",
+   "gold": 931861,
+   "power": 495137,
+   "level": 29
+ },
+ {
+   "id": 577,
+   "statetime": "2022-12-18 02:59:38",
+   "region": 8,
+   "name": "Name#577",
+   "email": "email577@abc.com",
+   "gold": 307619,
+   "power": 609013,
+   "level": 19
+ },
+ {
+   "id": 578,
+   "statetime": "2022-12-22 18:10:45",
+   "region": 8,
+   "name": "Name#578",
+   "email": "email578@abc.com",
+   "gold": 456215,
+   "power": 470263,
+   "level": 18
+ },
+ {
+   "id": 579,
+   "statetime": "2022-12-20 06:32:16",
+   "region": 2,
+   "name": "Name#579",
+   "email": "email579@abc.com",
+   "gold": 345151,
+   "power": 214007,
+   "level": 28
+ },
+ {
+   "id": 580,
+   "statetime": "2022-12-19 15:51:15",
+   "region": 6,
+   "name": "Name#580",
+   "email": "email580@abc.com",
+   "gold": 615930,
+   "power": 221865,
+   "level": 28
+ },
+ {
+   "id": 581,
+   "statetime": "2022-12-18 06:34:46",
+   "region": 3,
+   "name": "Name#581",
+   "email": "email581@abc.com",
+   "gold": 54751,
+   "power": 675756,
+   "level": 22
+ },
+ {
+   "id": 582,
+   "statetime": "2022-12-17 12:03:52",
+   "region": 6,
+   "name": "Name#582",
+   "email": "email582@abc.com",
+   "gold": 213275,
+   "power": 198487,
+   "level": 31
+ },
+ {
+   "id": 583,
+   "statetime": "2022-12-20 15:36:34",
+   "region": 4,
+   "name": "Name#583",
+   "email": "email583@abc.com",
+   "gold": 31570,
+   "power": 392875,
+   "level": 36
+ },
+ {
+   "id": 584,
+   "statetime": "2022-12-22 19:34:42",
+   "region": 7,
+   "name": "Name#584",
+   "email": "email584@abc.com",
+   "gold": 760029,
+   "power": 998354,
+   "level": 4
+ },
+ {
+   "id": 585,
+   "statetime": "2022-12-23 00:27:46",
+   "region": 3,
+   "name": "Name#585",
+   "email": "email585@abc.com",
+   "gold": 710294,
+   "power": 580763,
+   "level": 28
+ },
+ {
+   "id": 586,
+   "statetime": "2022-12-20 06:49:22",
+   "region": 2,
+   "name": "Name#586",
+   "email": "email586@abc.com",
+   "gold": 118012,
+   "power": 970579,
+   "level": 4
+ },
+ {
+   "id": 587,
+   "statetime": "2022-12-22 05:09:29",
+   "region": 8,
+   "name": "Name#587",
+   "email": "email587@abc.com",
+   "gold": 970492,
+   "power": 464252,
+   "level": 48
+ },
+ {
+   "id": 588,
+   "statetime": "2022-12-24 06:49:22",
+   "region": 5,
+   "name": "Name#588",
+   "email": "email588@abc.com",
+   "gold": 314384,
+   "power": 420433,
+   "level": 24
+ },
+ {
+   "id": 589,
+   "statetime": "2022-12-22 02:07:28",
+   "region": 4,
+   "name": "Name#589",
+   "email": "email589@abc.com",
+   "gold": 583554,
+   "power": 686077,
+   "level": 33
+ },
+ {
+   "id": 590,
+   "statetime": "2022-12-17 19:40:19",
+   "region": 2,
+   "name": "Name#590",
+   "email": "email590@abc.com",
+   "gold": 557128,
+   "power": 405977,
+   "level": 10
+ },
+ {
+   "id": 591,
+   "statetime": "2022-12-18 10:40:16",
+   "region": 4,
+   "name": "Name#591",
+   "email": "email591@abc.com",
+   "gold": 786489,
+   "power": 609234,
+   "level": 42
+ },
+ {
+   "id": 592,
+   "statetime": "2022-12-21 20:52:31",
+   "region": 9,
+   "name": "Name#592",
+   "email": "email592@abc.com",
+   "gold": 310962,
+   "power": 157202,
+   "level": 18
+ },
+ {
+   "id": 593,
+   "statetime": "2022-12-18 17:05:47",
+   "region": 8,
+   "name": "Name#593",
+   "email": "email593@abc.com",
+   "gold": 450931,
+   "power": 760488,
+   "level": 9
+ },
+ {
+   "id": 594,
+   "statetime": "2022-12-18 19:04:59",
+   "region": 7,
+   "name": "Name#594",
+   "email": "email594@abc.com",
+   "gold": 488565,
+   "power": 636158,
+   "level": 23
+ },
+ {
+   "id": 595,
+   "statetime": "2022-12-17 15:06:56",
+   "region": 3,
+   "name": "Name#595",
+   "email": "email595@abc.com",
+   "gold": 950783,
+   "power": 760883,
+   "level": 30
+ },
+ {
+   "id": 596,
+   "statetime": "2022-12-20 01:28:53",
+   "region": 2,
+   "name": "Name#596",
+   "email": "email596@abc.com",
+   "gold": 931560,
+   "power": 897833,
+   "level": 4
+ },
+ {
+   "id": 597,
+   "statetime": "2022-12-18 20:06:15",
+   "region": 8,
+   "name": "Name#597",
+   "email": "email597@abc.com",
+   "gold": 555472,
+   "power": 233097,
+   "level": 36
+ },
+ {
+   "id": 598,
+   "statetime": "2022-12-21 18:27:42",
+   "region": 2,
+   "name": "Name#598",
+   "email": "email598@abc.com",
+   "gold": 977915,
+   "power": 647070,
+   "level": 2
+ },
+ {
+   "id": 599,
+   "statetime": "2022-12-18 00:21:05",
+   "region": 4,
+   "name": "Name#599",
+   "email": "email599@abc.com",
+   "gold": 841433,
+   "power": 597479,
+   "level": 29
+ },
+ {
+   "id": 600,
+   "statetime": "2022-12-24 01:21:24",
+   "region": 8,
+   "name": "Name#600",
+   "email": "email600@abc.com",
+   "gold": 389835,
+   "power": 26248,
+   "level": 37
+ },
+ {
+   "id": 601,
+   "statetime": "2022-12-19 22:57:17",
+   "region": 6,
+   "name": "Name#601",
+   "email": "email601@abc.com",
+   "gold": 990390,
+   "power": 1974,
+   "level": 47
+ },
+ {
+   "id": 602,
+   "statetime": "2022-12-18 13:21:59",
+   "region": 3,
+   "name": "Name#602",
+   "email": "email602@abc.com",
+   "gold": 283650,
+   "power": 149598,
+   "level": 22
+ },
+ {
+   "id": 603,
+   "statetime": "2022-12-22 12:21:46",
+   "region": 6,
+   "name": "Name#603",
+   "email": "email603@abc.com",
+   "gold": 803048,
+   "power": 353250,
+   "level": 6
+ },
+ {
+   "id": 604,
+   "statetime": "2022-12-23 21:07:49",
+   "region": 4,
+   "name": "Name#604",
+   "email": "email604@abc.com",
+   "gold": 73900,
+   "power": 562394,
+   "level": 36
+ },
+ {
+   "id": 605,
+   "statetime": "2022-12-18 04:17:06",
+   "region": 5,
+   "name": "Name#605",
+   "email": "email605@abc.com",
+   "gold": 147586,
+   "power": 381915,
+   "level": 9
+ },
+ {
+   "id": 606,
+   "statetime": "2022-12-19 19:04:12",
+   "region": 4,
+   "name": "Name#606",
+   "email": "email606@abc.com",
+   "gold": 353693,
+   "power": 366982,
+   "level": 17
+ },
+ {
+   "id": 607,
+   "statetime": "2022-12-23 16:16:36",
+   "region": 3,
+   "name": "Name#607",
+   "email": "email607@abc.com",
+   "gold": 949669,
+   "power": 353867,
+   "level": 22
+ },
+ {
+   "id": 608,
+   "statetime": "2022-12-23 21:24:52",
+   "region": 2,
+   "name": "Name#608",
+   "email": "email608@abc.com",
+   "gold": 224913,
+   "power": 158040,
+   "level": 41
+ },
+ {
+   "id": 609,
+   "statetime": "2022-12-21 15:42:27",
+   "region": 6,
+   "name": "Name#609",
+   "email": "email609@abc.com",
+   "gold": 814635,
+   "power": 278203,
+   "level": 9
+ },
+ {
+   "id": 610,
+   "statetime": "2022-12-18 05:27:39",
+   "region": 8,
+   "name": "Name#610",
+   "email": "email610@abc.com",
+   "gold": 358339,
+   "power": 45378,
+   "level": 2
+ },
+ {
+   "id": 611,
+   "statetime": "2022-12-17 14:42:28",
+   "region": 4,
+   "name": "Name#611",
+   "email": "email611@abc.com",
+   "gold": 778713,
+   "power": 436973,
+   "level": 6
+ },
+ {
+   "id": 612,
+   "statetime": "2022-12-21 14:54:52",
+   "region": 9,
+   "name": "Name#612",
+   "email": "email612@abc.com",
+   "gold": 732666,
+   "power": 347401,
+   "level": 44
+ },
+ {
+   "id": 613,
+   "statetime": "2022-12-21 11:22:32",
+   "region": 8,
+   "name": "Name#613",
+   "email": "email613@abc.com",
+   "gold": 664285,
+   "power": 371285,
+   "level": 44
+ },
+ {
+   "id": 614,
+   "statetime": "2022-12-22 13:57:52",
+   "region": 6,
+   "name": "Name#614",
+   "email": "email614@abc.com",
+   "gold": 587759,
+   "power": 950328,
+   "level": 20
+ },
+ {
+   "id": 615,
+   "statetime": "2022-12-19 21:00:10",
+   "region": 6,
+   "name": "Name#615",
+   "email": "email615@abc.com",
+   "gold": 406496,
+   "power": 560347,
+   "level": 2
+ },
+ {
+   "id": 616,
+   "statetime": "2022-12-20 08:26:00",
+   "region": 5,
+   "name": "Name#616",
+   "email": "email616@abc.com",
+   "gold": 196665,
+   "power": 510048,
+   "level": 46
+ },
+ {
+   "id": 617,
+   "statetime": "2022-12-22 18:35:41",
+   "region": 8,
+   "name": "Name#617",
+   "email": "email617@abc.com",
+   "gold": 546838,
+   "power": 788509,
+   "level": 45
+ },
+ {
+   "id": 618,
+   "statetime": "2022-12-20 03:21:55",
+   "region": 5,
+   "name": "Name#618",
+   "email": "email618@abc.com",
+   "gold": 376048,
+   "power": 199686,
+   "level": 29
+ },
+ {
+   "id": 619,
+   "statetime": "2022-12-21 22:13:36",
+   "region": 6,
+   "name": "Name#619",
+   "email": "email619@abc.com",
+   "gold": 57408,
+   "power": 870161,
+   "level": 34
+ },
+ {
+   "id": 620,
+   "statetime": "2022-12-17 18:04:32",
+   "region": 1,
+   "name": "Name#620",
+   "email": "email620@abc.com",
+   "gold": 448556,
+   "power": 145740,
+   "level": 48
+ },
+ {
+   "id": 621,
+   "statetime": "2022-12-17 22:16:53",
+   "region": 3,
+   "name": "Name#621",
+   "email": "email621@abc.com",
+   "gold": 976891,
+   "power": 976530,
+   "level": 7
+ },
+ {
+   "id": 622,
+   "statetime": "2022-12-21 10:17:54",
+   "region": 7,
+   "name": "Name#622",
+   "email": "email622@abc.com",
+   "gold": 270642,
+   "power": 355825,
+   "level": 9
+ },
+ {
+   "id": 623,
+   "statetime": "2022-12-23 19:01:56",
+   "region": 6,
+   "name": "Name#623",
+   "email": "email623@abc.com",
+   "gold": 217950,
+   "power": 771508,
+   "level": 35
+ },
+ {
+   "id": 624,
+   "statetime": "2022-12-18 10:05:44",
+   "region": 2,
+   "name": "Name#624",
+   "email": "email624@abc.com",
+   "gold": 442596,
+   "power": 465056,
+   "level": 21
+ },
+ {
+   "id": 625,
+   "statetime": "2022-12-17 21:54:56",
+   "region": 4,
+   "name": "Name#625",
+   "email": "email625@abc.com",
+   "gold": 402744,
+   "power": 737500,
+   "level": 19
+ },
+ {
+   "id": 626,
+   "statetime": "2022-12-21 19:27:39",
+   "region": 8,
+   "name": "Name#626",
+   "email": "email626@abc.com",
+   "gold": 445014,
+   "power": 167181,
+   "level": 18
+ },
+ {
+   "id": 627,
+   "statetime": "2022-12-22 20:36:13",
+   "region": 6,
+   "name": "Name#627",
+   "email": "email627@abc.com",
+   "gold": 831044,
+   "power": 280853,
+   "level": 33
+ },
+ {
+   "id": 628,
+   "statetime": "2022-12-21 12:44:57",
+   "region": 8,
+   "name": "Name#628",
+   "email": "email628@abc.com",
+   "gold": 6877,
+   "power": 170417,
+   "level": 3
+ },
+ {
+   "id": 629,
+   "statetime": "2022-12-18 08:14:23",
+   "region": 1,
+   "name": "Name#629",
+   "email": "email629@abc.com",
+   "gold": 530032,
+   "power": 126836,
+   "level": 4
+ },
+ {
+   "id": 630,
+   "statetime": "2022-12-18 22:11:26",
+   "region": 4,
+   "name": "Name#630",
+   "email": "email630@abc.com",
+   "gold": 831704,
+   "power": 823892,
+   "level": 29
+ },
+ {
+   "id": 631,
+   "statetime": "2022-12-19 11:37:20",
+   "region": 8,
+   "name": "Name#631",
+   "email": "email631@abc.com",
+   "gold": 969630,
+   "power": 50064,
+   "level": 12
+ },
+ {
+   "id": 632,
+   "statetime": "2022-12-22 05:53:39",
+   "region": 4,
+   "name": "Name#632",
+   "email": "email632@abc.com",
+   "gold": 257748,
+   "power": 368959,
+   "level": 29
+ },
+ {
+   "id": 633,
+   "statetime": "2022-12-22 08:28:22",
+   "region": 2,
+   "name": "Name#633",
+   "email": "email633@abc.com",
+   "gold": 835554,
+   "power": 16998,
+   "level": 38
+ },
+ {
+   "id": 634,
+   "statetime": "2022-12-24 03:30:30",
+   "region": 7,
+   "name": "Name#634",
+   "email": "email634@abc.com",
+   "gold": 427836,
+   "power": 608388,
+   "level": 30
+ },
+ {
+   "id": 635,
+   "statetime": "2022-12-20 11:43:16",
+   "region": 9,
+   "name": "Name#635",
+   "email": "email635@abc.com",
+   "gold": 641798,
+   "power": 488822,
+   "level": 22
+ },
+ {
+   "id": 636,
+   "statetime": "2022-12-21 14:33:09",
+   "region": 5,
+   "name": "Name#636",
+   "email": "email636@abc.com",
+   "gold": 364691,
+   "power": 223725,
+   "level": 41
+ },
+ {
+   "id": 637,
+   "statetime": "2022-12-18 19:01:48",
+   "region": 7,
+   "name": "Name#637",
+   "email": "email637@abc.com",
+   "gold": 673826,
+   "power": 799103,
+   "level": 48
+ },
+ {
+   "id": 638,
+   "statetime": "2022-12-22 19:29:04",
+   "region": 1,
+   "name": "Name#638",
+   "email": "email638@abc.com",
+   "gold": 647748,
+   "power": 419614,
+   "level": 49
+ },
+ {
+   "id": 639,
+   "statetime": "2022-12-21 23:15:15",
+   "region": 2,
+   "name": "Name#639",
+   "email": "email639@abc.com",
+   "gold": 226657,
+   "power": 835127,
+   "level": 40
+ },
+ {
+   "id": 640,
+   "statetime": "2022-12-19 00:22:56",
+   "region": 3,
+   "name": "Name#640",
+   "email": "email640@abc.com",
+   "gold": 601155,
+   "power": 988424,
+   "level": 37
+ },
+ {
+   "id": 641,
+   "statetime": "2022-12-23 11:37:06",
+   "region": 9,
+   "name": "Name#641",
+   "email": "email641@abc.com",
+   "gold": 185578,
+   "power": 945562,
+   "level": 5
+ },
+ {
+   "id": 642,
+   "statetime": "2022-12-18 00:58:29",
+   "region": 4,
+   "name": "Name#642",
+   "email": "email642@abc.com",
+   "gold": 788879,
+   "power": 7224,
+   "level": 30
+ },
+ {
+   "id": 643,
+   "statetime": "2022-12-18 09:34:08",
+   "region": 2,
+   "name": "Name#643",
+   "email": "email643@abc.com",
+   "gold": 882980,
+   "power": 148353,
+   "level": 34
+ },
+ {
+   "id": 644,
+   "statetime": "2022-12-18 02:56:22",
+   "region": 7,
+   "name": "Name#644",
+   "email": "email644@abc.com",
+   "gold": 922773,
+   "power": 622237,
+   "level": 1
+ },
+ {
+   "id": 645,
+   "statetime": "2022-12-22 17:07:00",
+   "region": 7,
+   "name": "Name#645",
+   "email": "email645@abc.com",
+   "gold": 395140,
+   "power": 132019,
+   "level": 38
+ },
+ {
+   "id": 646,
+   "statetime": "2022-12-18 04:45:32",
+   "region": 6,
+   "name": "Name#646",
+   "email": "email646@abc.com",
+   "gold": 723348,
+   "power": 672245,
+   "level": 34
+ },
+ {
+   "id": 647,
+   "statetime": "2022-12-20 07:26:22",
+   "region": 8,
+   "name": "Name#647",
+   "email": "email647@abc.com",
+   "gold": 376005,
+   "power": 623300,
+   "level": 37
+ },
+ {
+   "id": 648,
+   "statetime": "2022-12-18 07:34:22",
+   "region": 9,
+   "name": "Name#648",
+   "email": "email648@abc.com",
+   "gold": 583958,
+   "power": 619482,
+   "level": 7
+ },
+ {
+   "id": 649,
+   "statetime": "2022-12-20 11:51:00",
+   "region": 4,
+   "name": "Name#649",
+   "email": "email649@abc.com",
+   "gold": 216889,
+   "power": 687751,
+   "level": 29
+ },
+ {
+   "id": 650,
+   "statetime": "2022-12-18 18:10:29",
+   "region": 3,
+   "name": "Name#650",
+   "email": "email650@abc.com",
+   "gold": 679967,
+   "power": 915076,
+   "level": 27
+ },
+ {
+   "id": 651,
+   "statetime": "2022-12-19 12:35:43",
+   "region": 5,
+   "name": "Name#651",
+   "email": "email651@abc.com",
+   "gold": 840339,
+   "power": 340821,
+   "level": 46
+ },
+ {
+   "id": 652,
+   "statetime": "2022-12-18 14:41:16",
+   "region": 2,
+   "name": "Name#652",
+   "email": "email652@abc.com",
+   "gold": 169802,
+   "power": 882307,
+   "level": 23
+ },
+ {
+   "id": 653,
+   "statetime": "2022-12-19 07:57:29",
+   "region": 1,
+   "name": "Name#653",
+   "email": "email653@abc.com",
+   "gold": 514894,
+   "power": 555285,
+   "level": 30
+ },
+ {
+   "id": 654,
+   "statetime": "2022-12-20 16:41:58",
+   "region": 8,
+   "name": "Name#654",
+   "email": "email654@abc.com",
+   "gold": 845768,
+   "power": 985539,
+   "level": 43
+ },
+ {
+   "id": 655,
+   "statetime": "2022-12-23 15:58:00",
+   "region": 7,
+   "name": "Name#655",
+   "email": "email655@abc.com",
+   "gold": 763424,
+   "power": 80293,
+   "level": 39
+ },
+ {
+   "id": 656,
+   "statetime": "2022-12-18 15:08:43",
+   "region": 1,
+   "name": "Name#656",
+   "email": "email656@abc.com",
+   "gold": 22994,
+   "power": 846718,
+   "level": 33
+ },
+ {
+   "id": 657,
+   "statetime": "2022-12-24 02:40:09",
+   "region": 5,
+   "name": "Name#657",
+   "email": "email657@abc.com",
+   "gold": 771052,
+   "power": 836464,
+   "level": 42
+ },
+ {
+   "id": 658,
+   "statetime": "2022-12-18 00:02:53",
+   "region": 3,
+   "name": "Name#658",
+   "email": "email658@abc.com",
+   "gold": 219143,
+   "power": 874518,
+   "level": 19
+ },
+ {
+   "id": 659,
+   "statetime": "2022-12-19 20:08:44",
+   "region": 8,
+   "name": "Name#659",
+   "email": "email659@abc.com",
+   "gold": 748138,
+   "power": 125067,
+   "level": 19
+ },
+ {
+   "id": 660,
+   "statetime": "2022-12-17 16:13:19",
+   "region": 6,
+   "name": "Name#660",
+   "email": "email660@abc.com",
+   "gold": 955227,
+   "power": 308621,
+   "level": 16
+ },
+ {
+   "id": 661,
+   "statetime": "2022-12-23 07:42:45",
+   "region": 8,
+   "name": "Name#661",
+   "email": "email661@abc.com",
+   "gold": 875122,
+   "power": 483576,
+   "level": 7
+ },
+ {
+   "id": 662,
+   "statetime": "2022-12-20 10:06:41",
+   "region": 1,
+   "name": "Name#662",
+   "email": "email662@abc.com",
+   "gold": 309189,
+   "power": 318938,
+   "level": 16
+ },
+ {
+   "id": 663,
+   "statetime": "2022-12-23 01:53:29",
+   "region": 7,
+   "name": "Name#663",
+   "email": "email663@abc.com",
+   "gold": 287885,
+   "power": 261127,
+   "level": 5
+ },
+ {
+   "id": 664,
+   "statetime": "2022-12-23 22:14:00",
+   "region": 9,
+   "name": "Name#664",
+   "email": "email664@abc.com",
+   "gold": 528121,
+   "power": 28908,
+   "level": 16
+ },
+ {
+   "id": 665,
+   "statetime": "2022-12-20 22:48:44",
+   "region": 5,
+   "name": "Name#665",
+   "email": "email665@abc.com",
+   "gold": 12233,
+   "power": 515455,
+   "level": 10
+ },
+ {
+   "id": 666,
+   "statetime": "2022-12-20 22:20:56",
+   "region": 1,
+   "name": "Name#666",
+   "email": "email666@abc.com",
+   "gold": 461152,
+   "power": 711592,
+   "level": 4
+ },
+ {
+   "id": 667,
+   "statetime": "2022-12-18 10:51:00",
+   "region": 8,
+   "name": "Name#667",
+   "email": "email667@abc.com",
+   "gold": 400616,
+   "power": 433593,
+   "level": 8
+ },
+ {
+   "id": 668,
+   "statetime": "2022-12-23 16:38:48",
+   "region": 3,
+   "name": "Name#668",
+   "email": "email668@abc.com",
+   "gold": 732313,
+   "power": 283339,
+   "level": 46
+ },
+ {
+   "id": 669,
+   "statetime": "2022-12-19 11:21:48",
+   "region": 7,
+   "name": "Name#669",
+   "email": "email669@abc.com",
+   "gold": 765095,
+   "power": 935201,
+   "level": 15
+ },
+ {
+   "id": 670,
+   "statetime": "2022-12-20 13:45:49",
+   "region": 9,
+   "name": "Name#670",
+   "email": "email670@abc.com",
+   "gold": 262628,
+   "power": 558418,
+   "level": 25
+ },
+ {
+   "id": 671,
+   "statetime": "2022-12-19 16:20:25",
+   "region": 1,
+   "name": "Name#671",
+   "email": "email671@abc.com",
+   "gold": 988965,
+   "power": 658588,
+   "level": 21
+ },
+ {
+   "id": 672,
+   "statetime": "2022-12-17 22:48:24",
+   "region": 2,
+   "name": "Name#672",
+   "email": "email672@abc.com",
+   "gold": 509426,
+   "power": 851732,
+   "level": 10
+ },
+ {
+   "id": 673,
+   "statetime": "2022-12-22 07:48:53",
+   "region": 5,
+   "name": "Name#673",
+   "email": "email673@abc.com",
+   "gold": 879338,
+   "power": 88623,
+   "level": 4
+ },
+ {
+   "id": 674,
+   "statetime": "2022-12-22 13:31:42",
+   "region": 3,
+   "name": "Name#674",
+   "email": "email674@abc.com",
+   "gold": 853776,
+   "power": 955163,
+   "level": 12
+ },
+ {
+   "id": 675,
+   "statetime": "2022-12-18 16:59:31",
+   "region": 6,
+   "name": "Name#675",
+   "email": "email675@abc.com",
+   "gold": 579866,
+   "power": 627326,
+   "level": 15
+ },
+ {
+   "id": 676,
+   "statetime": "2022-12-20 09:39:17",
+   "region": 6,
+   "name": "Name#676",
+   "email": "email676@abc.com",
+   "gold": 782750,
+   "power": 396609,
+   "level": 13
+ },
+ {
+   "id": 677,
+   "statetime": "2022-12-20 20:29:19",
+   "region": 7,
+   "name": "Name#677",
+   "email": "email677@abc.com",
+   "gold": 622088,
+   "power": 291442,
+   "level": 49
+ },
+ {
+   "id": 678,
+   "statetime": "2022-12-20 00:55:51",
+   "region": 4,
+   "name": "Name#678",
+   "email": "email678@abc.com",
+   "gold": 992707,
+   "power": 293335,
+   "level": 46
+ },
+ {
+   "id": 679,
+   "statetime": "2022-12-18 20:32:58",
+   "region": 1,
+   "name": "Name#679",
+   "email": "email679@abc.com",
+   "gold": 791177,
+   "power": 942297,
+   "level": 36
+ },
+ {
+   "id": 680,
+   "statetime": "2022-12-20 09:19:12",
+   "region": 8,
+   "name": "Name#680",
+   "email": "email680@abc.com",
+   "gold": 674021,
+   "power": 806159,
+   "level": 5
+ },
+ {
+   "id": 681,
+   "statetime": "2022-12-24 00:50:30",
+   "region": 2,
+   "name": "Name#681",
+   "email": "email681@abc.com",
+   "gold": 137570,
+   "power": 200544,
+   "level": 49
+ },
+ {
+   "id": 682,
+   "statetime": "2022-12-21 14:06:59",
+   "region": 6,
+   "name": "Name#682",
+   "email": "email682@abc.com",
+   "gold": 161674,
+   "power": 474886,
+   "level": 17
+ },
+ {
+   "id": 683,
+   "statetime": "2022-12-23 21:23:11",
+   "region": 7,
+   "name": "Name#683",
+   "email": "email683@abc.com",
+   "gold": 251886,
+   "power": 888258,
+   "level": 2
+ },
+ {
+   "id": 684,
+   "statetime": "2022-12-22 04:48:15",
+   "region": 8,
+   "name": "Name#684",
+   "email": "email684@abc.com",
+   "gold": 274060,
+   "power": 173271,
+   "level": 31
+ },
+ {
+   "id": 685,
+   "statetime": "2022-12-23 12:04:04",
+   "region": 2,
+   "name": "Name#685",
+   "email": "email685@abc.com",
+   "gold": 817305,
+   "power": 844562,
+   "level": 23
+ },
+ {
+   "id": 686,
+   "statetime": "2022-12-21 19:43:27",
+   "region": 7,
+   "name": "Name#686",
+   "email": "email686@abc.com",
+   "gold": 254499,
+   "power": 830384,
+   "level": 9
+ },
+ {
+   "id": 687,
+   "statetime": "2022-12-23 05:45:09",
+   "region": 3,
+   "name": "Name#687",
+   "email": "email687@abc.com",
+   "gold": 468410,
+   "power": 96457,
+   "level": 38
+ },
+ {
+   "id": 688,
+   "statetime": "2022-12-20 01:59:24",
+   "region": 1,
+   "name": "Name#688",
+   "email": "email688@abc.com",
+   "gold": 559313,
+   "power": 336207,
+   "level": 42
+ },
+ {
+   "id": 689,
+   "statetime": "2022-12-20 23:01:30",
+   "region": 8,
+   "name": "Name#689",
+   "email": "email689@abc.com",
+   "gold": 239465,
+   "power": 867489,
+   "level": 8
+ },
+ {
+   "id": 690,
+   "statetime": "2022-12-20 01:46:47",
+   "region": 2,
+   "name": "Name#690",
+   "email": "email690@abc.com",
+   "gold": 52505,
+   "power": 179834,
+   "level": 39
+ },
+ {
+   "id": 691,
+   "statetime": "2022-12-18 07:08:42",
+   "region": 3,
+   "name": "Name#691",
+   "email": "email691@abc.com",
+   "gold": 4119,
+   "power": 257115,
+   "level": 30
+ },
+ {
+   "id": 692,
+   "statetime": "2022-12-23 20:14:02",
+   "region": 6,
+   "name": "Name#692",
+   "email": "email692@abc.com",
+   "gold": 701954,
+   "power": 581392,
+   "level": 9
+ },
+ {
+   "id": 693,
+   "statetime": "2022-12-20 03:31:24",
+   "region": 3,
+   "name": "Name#693",
+   "email": "email693@abc.com",
+   "gold": 46961,
+   "power": 107912,
+   "level": 27
+ },
+ {
+   "id": 694,
+   "statetime": "2022-12-21 03:43:11",
+   "region": 5,
+   "name": "Name#694",
+   "email": "email694@abc.com",
+   "gold": 396228,
+   "power": 833573,
+   "level": 30
+ },
+ {
+   "id": 695,
+   "statetime": "2022-12-19 01:37:08",
+   "region": 3,
+   "name": "Name#695",
+   "email": "email695@abc.com",
+   "gold": 372262,
+   "power": 495372,
+   "level": 25
+ },
+ {
+   "id": 696,
+   "statetime": "2022-12-22 11:01:48",
+   "region": 8,
+   "name": "Name#696",
+   "email": "email696@abc.com",
+   "gold": 271628,
+   "power": 810632,
+   "level": 3
+ },
+ {
+   "id": 697,
+   "statetime": "2022-12-18 03:52:18",
+   "region": 6,
+   "name": "Name#697",
+   "email": "email697@abc.com",
+   "gold": 483415,
+   "power": 346696,
+   "level": 19
+ },
+ {
+   "id": 698,
+   "statetime": "2022-12-17 09:11:58",
+   "region": 1,
+   "name": "Name#698",
+   "email": "email698@abc.com",
+   "gold": 802118,
+   "power": 361956,
+   "level": 33
+ },
+ {
+   "id": 699,
+   "statetime": "2022-12-19 15:15:15",
+   "region": 8,
+   "name": "Name#699",
+   "email": "email699@abc.com",
+   "gold": 752032,
+   "power": 837019,
+   "level": 28
+ },
+ {
+   "id": 700,
+   "statetime": "2022-12-23 03:15:49",
+   "region": 3,
+   "name": "Name#700",
+   "email": "email700@abc.com",
+   "gold": 27868,
+   "power": 640309,
+   "level": 48
+ },
+ {
+   "id": 701,
+   "statetime": "2022-12-22 03:19:05",
+   "region": 3,
+   "name": "Name#701",
+   "email": "email701@abc.com",
+   "gold": 647787,
+   "power": 441393,
+   "level": 25
+ },
+ {
+   "id": 702,
+   "statetime": "2022-12-19 15:07:15",
+   "region": 5,
+   "name": "Name#702",
+   "email": "email702@abc.com",
+   "gold": 673484,
+   "power": 292562,
+   "level": 44
+ },
+ {
+   "id": 703,
+   "statetime": "2022-12-23 16:20:06",
+   "region": 3,
+   "name": "Name#703",
+   "email": "email703@abc.com",
+   "gold": 975796,
+   "power": 835434,
+   "level": 1
+ },
+ {
+   "id": 704,
+   "statetime": "2022-12-19 23:17:00",
+   "region": 7,
+   "name": "Name#704",
+   "email": "email704@abc.com",
+   "gold": 730488,
+   "power": 949453,
+   "level": 5
+ },
+ {
+   "id": 705,
+   "statetime": "2022-12-19 02:58:08",
+   "region": 8,
+   "name": "Name#705",
+   "email": "email705@abc.com",
+   "gold": 329982,
+   "power": 283924,
+   "level": 2
+ },
+ {
+   "id": 706,
+   "statetime": "2022-12-21 05:49:10",
+   "region": 6,
+   "name": "Name#706",
+   "email": "email706@abc.com",
+   "gold": 792584,
+   "power": 212363,
+   "level": 4
+ },
+ {
+   "id": 707,
+   "statetime": "2022-12-23 03:38:31",
+   "region": 9,
+   "name": "Name#707",
+   "email": "email707@abc.com",
+   "gold": 446437,
+   "power": 228075,
+   "level": 1
+ },
+ {
+   "id": 708,
+   "statetime": "2022-12-18 11:06:46",
+   "region": 5,
+   "name": "Name#708",
+   "email": "email708@abc.com",
+   "gold": 516678,
+   "power": 882197,
+   "level": 8
+ },
+ {
+   "id": 709,
+   "statetime": "2022-12-19 11:58:24",
+   "region": 5,
+   "name": "Name#709",
+   "email": "email709@abc.com",
+   "gold": 718265,
+   "power": 217933,
+   "level": 48
+ },
+ {
+   "id": 710,
+   "statetime": "2022-12-23 16:41:50",
+   "region": 8,
+   "name": "Name#710",
+   "email": "email710@abc.com",
+   "gold": 781618,
+   "power": 755291,
+   "level": 45
+ },
+ {
+   "id": 711,
+   "statetime": "2022-12-23 17:53:28",
+   "region": 7,
+   "name": "Name#711",
+   "email": "email711@abc.com",
+   "gold": 695013,
+   "power": 10377,
+   "level": 9
+ },
+ {
+   "id": 712,
+   "statetime": "2022-12-22 07:54:10",
+   "region": 7,
+   "name": "Name#712",
+   "email": "email712@abc.com",
+   "gold": 595288,
+   "power": 967351,
+   "level": 38
+ },
+ {
+   "id": 713,
+   "statetime": "2022-12-20 18:12:14",
+   "region": 6,
+   "name": "Name#713",
+   "email": "email713@abc.com",
+   "gold": 603068,
+   "power": 698364,
+   "level": 20
+ },
+ {
+   "id": 714,
+   "statetime": "2022-12-21 20:12:01",
+   "region": 1,
+   "name": "Name#714",
+   "email": "email714@abc.com",
+   "gold": 879429,
+   "power": 995016,
+   "level": 39
+ },
+ {
+   "id": 715,
+   "statetime": "2022-12-19 12:09:54",
+   "region": 9,
+   "name": "Name#715",
+   "email": "email715@abc.com",
+   "gold": 958339,
+   "power": 424127,
+   "level": 48
+ },
+ {
+   "id": 716,
+   "statetime": "2022-12-21 07:10:11",
+   "region": 2,
+   "name": "Name#716",
+   "email": "email716@abc.com",
+   "gold": 969183,
+   "power": 737685,
+   "level": 30
+ },
+ {
+   "id": 717,
+   "statetime": "2022-12-22 23:02:15",
+   "region": 5,
+   "name": "Name#717",
+   "email": "email717@abc.com",
+   "gold": 591242,
+   "power": 842292,
+   "level": 32
+ },
+ {
+   "id": 718,
+   "statetime": "2022-12-20 08:13:32",
+   "region": 5,
+   "name": "Name#718",
+   "email": "email718@abc.com",
+   "gold": 601373,
+   "power": 796032,
+   "level": 31
+ },
+ {
+   "id": 719,
+   "statetime": "2022-12-20 01:46:53",
+   "region": 8,
+   "name": "Name#719",
+   "email": "email719@abc.com",
+   "gold": 945411,
+   "power": 815705,
+   "level": 15
+ },
+ {
+   "id": 720,
+   "statetime": "2022-12-20 02:42:08",
+   "region": 5,
+   "name": "Name#720",
+   "email": "email720@abc.com",
+   "gold": 519328,
+   "power": 871636,
+   "level": 7
+ },
+ {
+   "id": 721,
+   "statetime": "2022-12-23 21:07:49",
+   "region": 7,
+   "name": "Name#721",
+   "email": "email721@abc.com",
+   "gold": 558633,
+   "power": 11433,
+   "level": 20
+ },
+ {
+   "id": 722,
+   "statetime": "2022-12-23 19:36:55",
+   "region": 7,
+   "name": "Name#722",
+   "email": "email722@abc.com",
+   "gold": 338882,
+   "power": 222492,
+   "level": 49
+ },
+ {
+   "id": 723,
+   "statetime": "2022-12-22 16:50:57",
+   "region": 1,
+   "name": "Name#723",
+   "email": "email723@abc.com",
+   "gold": 201482,
+   "power": 354893,
+   "level": 2
+ },
+ {
+   "id": 724,
+   "statetime": "2022-12-17 17:54:50",
+   "region": 8,
+   "name": "Name#724",
+   "email": "email724@abc.com",
+   "gold": 912066,
+   "power": 123904,
+   "level": 48
+ },
+ {
+   "id": 725,
+   "statetime": "2022-12-23 13:19:00",
+   "region": 2,
+   "name": "Name#725",
+   "email": "email725@abc.com",
+   "gold": 324022,
+   "power": 998994,
+   "level": 48
+ },
+ {
+   "id": 726,
+   "statetime": "2022-12-23 06:38:27",
+   "region": 5,
+   "name": "Name#726",
+   "email": "email726@abc.com",
+   "gold": 891295,
+   "power": 177931,
+   "level": 46
+ },
+ {
+   "id": 727,
+   "statetime": "2022-12-21 00:08:33",
+   "region": 5,
+   "name": "Name#727",
+   "email": "email727@abc.com",
+   "gold": 651280,
+   "power": 497855,
+   "level": 11
+ },
+ {
+   "id": 728,
+   "statetime": "2022-12-18 15:40:02",
+   "region": 8,
+   "name": "Name#728",
+   "email": "email728@abc.com",
+   "gold": 750775,
+   "power": 297921,
+   "level": 15
+ },
+ {
+   "id": 729,
+   "statetime": "2022-12-23 21:47:35",
+   "region": 6,
+   "name": "Name#729",
+   "email": "email729@abc.com",
+   "gold": 181264,
+   "power": 177008,
+   "level": 19
+ },
+ {
+   "id": 730,
+   "statetime": "2022-12-19 03:18:08",
+   "region": 3,
+   "name": "Name#730",
+   "email": "email730@abc.com",
+   "gold": 165324,
+   "power": 999288,
+   "level": 9
+ },
+ {
+   "id": 731,
+   "statetime": "2022-12-22 04:02:44",
+   "region": 6,
+   "name": "Name#731",
+   "email": "email731@abc.com",
+   "gold": 113146,
+   "power": 295085,
+   "level": 45
+ },
+ {
+   "id": 732,
+   "statetime": "2022-12-18 03:02:04",
+   "region": 3,
+   "name": "Name#732",
+   "email": "email732@abc.com",
+   "gold": 303147,
+   "power": 387494,
+   "level": 24
+ },
+ {
+   "id": 733,
+   "statetime": "2022-12-24 04:02:38",
+   "region": 4,
+   "name": "Name#733",
+   "email": "email733@abc.com",
+   "gold": 753774,
+   "power": 63627,
+   "level": 22
+ },
+ {
+   "id": 734,
+   "statetime": "2022-12-22 01:54:07",
+   "region": 1,
+   "name": "Name#734",
+   "email": "email734@abc.com",
+   "gold": 845724,
+   "power": 167851,
+   "level": 14
+ },
+ {
+   "id": 735,
+   "statetime": "2022-12-22 20:59:32",
+   "region": 3,
+   "name": "Name#735",
+   "email": "email735@abc.com",
+   "gold": 467496,
+   "power": 5538,
+   "level": 3
+ },
+ {
+   "id": 736,
+   "statetime": "2022-12-20 06:03:55",
+   "region": 1,
+   "name": "Name#736",
+   "email": "email736@abc.com",
+   "gold": 510967,
+   "power": 207931,
+   "level": 17
+ },
+ {
+   "id": 737,
+   "statetime": "2022-12-22 21:52:22",
+   "region": 4,
+   "name": "Name#737",
+   "email": "email737@abc.com",
+   "gold": 861838,
+   "power": 108509,
+   "level": 45
+ },
+ {
+   "id": 738,
+   "statetime": "2022-12-19 05:03:58",
+   "region": 8,
+   "name": "Name#738",
+   "email": "email738@abc.com",
+   "gold": 471355,
+   "power": 201549,
+   "level": 23
+ },
+ {
+   "id": 739,
+   "statetime": "2022-12-21 16:56:29",
+   "region": 9,
+   "name": "Name#739",
+   "email": "email739@abc.com",
+   "gold": 683276,
+   "power": 892814,
+   "level": 21
+ },
+ {
+   "id": 740,
+   "statetime": "2022-12-17 18:55:20",
+   "region": 6,
+   "name": "Name#740",
+   "email": "email740@abc.com",
+   "gold": 703182,
+   "power": 378504,
+   "level": 35
+ },
+ {
+   "id": 741,
+   "statetime": "2022-12-18 11:56:22",
+   "region": 9,
+   "name": "Name#741",
+   "email": "email741@abc.com",
+   "gold": 558984,
+   "power": 669175,
+   "level": 15
+ },
+ {
+   "id": 742,
+   "statetime": "2022-12-17 09:31:40",
+   "region": 9,
+   "name": "Name#742",
+   "email": "email742@abc.com",
+   "gold": 155068,
+   "power": 319169,
+   "level": 14
+ },
+ {
+   "id": 743,
+   "statetime": "2022-12-23 19:39:39",
+   "region": 9,
+   "name": "Name#743",
+   "email": "email743@abc.com",
+   "gold": 157846,
+   "power": 732574,
+   "level": 40
+ },
+ {
+   "id": 744,
+   "statetime": "2022-12-22 01:23:02",
+   "region": 3,
+   "name": "Name#744",
+   "email": "email744@abc.com",
+   "gold": 263049,
+   "power": 791332,
+   "level": 2
+ },
+ {
+   "id": 745,
+   "statetime": "2022-12-21 21:10:05",
+   "region": 1,
+   "name": "Name#745",
+   "email": "email745@abc.com",
+   "gold": 771462,
+   "power": 957907,
+   "level": 29
+ },
+ {
+   "id": 746,
+   "statetime": "2022-12-20 18:12:39",
+   "region": 5,
+   "name": "Name#746",
+   "email": "email746@abc.com",
+   "gold": 806128,
+   "power": 559549,
+   "level": 6
+ },
+ {
+   "id": 747,
+   "statetime": "2022-12-23 03:57:56",
+   "region": 5,
+   "name": "Name#747",
+   "email": "email747@abc.com",
+   "gold": 717190,
+   "power": 112742,
+   "level": 33
+ },
+ {
+   "id": 748,
+   "statetime": "2022-12-18 08:25:03",
+   "region": 4,
+   "name": "Name#748",
+   "email": "email748@abc.com",
+   "gold": 21530,
+   "power": 826529,
+   "level": 2
+ },
+ {
+   "id": 749,
+   "statetime": "2022-12-20 14:16:24",
+   "region": 3,
+   "name": "Name#749",
+   "email": "email749@abc.com",
+   "gold": 307176,
+   "power": 268338,
+   "level": 9
+ },
+ {
+   "id": 750,
+   "statetime": "2022-12-24 01:35:22",
+   "region": 7,
+   "name": "Name#750",
+   "email": "email750@abc.com",
+   "gold": 351294,
+   "power": 290134,
+   "level": 12
+ },
+ {
+   "id": 751,
+   "statetime": "2022-12-17 09:08:55",
+   "region": 1,
+   "name": "Name#751",
+   "email": "email751@abc.com",
+   "gold": 755591,
+   "power": 819299,
+   "level": 41
+ },
+ {
+   "id": 752,
+   "statetime": "2022-12-18 22:17:19",
+   "region": 7,
+   "name": "Name#752",
+   "email": "email752@abc.com",
+   "gold": 899186,
+   "power": 20804,
+   "level": 19
+ },
+ {
+   "id": 753,
+   "statetime": "2022-12-20 14:36:08",
+   "region": 1,
+   "name": "Name#753",
+   "email": "email753@abc.com",
+   "gold": 683081,
+   "power": 960370,
+   "level": 5
+ },
+ {
+   "id": 754,
+   "statetime": "2022-12-18 21:25:48",
+   "region": 9,
+   "name": "Name#754",
+   "email": "email754@abc.com",
+   "gold": 729528,
+   "power": 285022,
+   "level": 45
+ },
+ {
+   "id": 755,
+   "statetime": "2022-12-24 03:19:08",
+   "region": 5,
+   "name": "Name#755",
+   "email": "email755@abc.com",
+   "gold": 312929,
+   "power": 430294,
+   "level": 34
+ },
+ {
+   "id": 756,
+   "statetime": "2022-12-19 16:42:53",
+   "region": 1,
+   "name": "Name#756",
+   "email": "email756@abc.com",
+   "gold": 359465,
+   "power": 965569,
+   "level": 46
+ },
+ {
+   "id": 757,
+   "statetime": "2022-12-21 16:37:29",
+   "region": 9,
+   "name": "Name#757",
+   "email": "email757@abc.com",
+   "gold": 766068,
+   "power": 836768,
+   "level": 16
+ },
+ {
+   "id": 758,
+   "statetime": "2022-12-19 14:26:46",
+   "region": 6,
+   "name": "Name#758",
+   "email": "email758@abc.com",
+   "gold": 269933,
+   "power": 507031,
+   "level": 32
+ },
+ {
+   "id": 759,
+   "statetime": "2022-12-21 06:14:57",
+   "region": 7,
+   "name": "Name#759",
+   "email": "email759@abc.com",
+   "gold": 504041,
+   "power": 254992,
+   "level": 7
+ },
+ {
+   "id": 760,
+   "statetime": "2022-12-17 21:48:29",
+   "region": 1,
+   "name": "Name#760",
+   "email": "email760@abc.com",
+   "gold": 247851,
+   "power": 856169,
+   "level": 27
+ },
+ {
+   "id": 761,
+   "statetime": "2022-12-22 20:14:02",
+   "region": 9,
+   "name": "Name#761",
+   "email": "email761@abc.com",
+   "gold": 749806,
+   "power": 110356,
+   "level": 8
+ },
+ {
+   "id": 762,
+   "statetime": "2022-12-19 19:43:03",
+   "region": 1,
+   "name": "Name#762",
+   "email": "email762@abc.com",
+   "gold": 994060,
+   "power": 84636,
+   "level": 11
+ },
+ {
+   "id": 763,
+   "statetime": "2022-12-19 22:19:04",
+   "region": 3,
+   "name": "Name#763",
+   "email": "email763@abc.com",
+   "gold": 962838,
+   "power": 427717,
+   "level": 12
+ },
+ {
+   "id": 764,
+   "statetime": "2022-12-20 12:38:14",
+   "region": 6,
+   "name": "Name#764",
+   "email": "email764@abc.com",
+   "gold": 25593,
+   "power": 536819,
+   "level": 46
+ },
+ {
+   "id": 765,
+   "statetime": "2022-12-18 04:04:49",
+   "region": 9,
+   "name": "Name#765",
+   "email": "email765@abc.com",
+   "gold": 668571,
+   "power": 653557,
+   "level": 49
+ },
+ {
+   "id": 766,
+   "statetime": "2022-12-22 01:06:26",
+   "region": 4,
+   "name": "Name#766",
+   "email": "email766@abc.com",
+   "gold": 12641,
+   "power": 360523,
+   "level": 37
+ },
+ {
+   "id": 767,
+   "statetime": "2022-12-23 05:08:31",
+   "region": 9,
+   "name": "Name#767",
+   "email": "email767@abc.com",
+   "gold": 2015,
+   "power": 260596,
+   "level": 34
+ },
+ {
+   "id": 768,
+   "statetime": "2022-12-21 10:49:58",
+   "region": 1,
+   "name": "Name#768",
+   "email": "email768@abc.com",
+   "gold": 510290,
+   "power": 558083,
+   "level": 24
+ },
+ {
+   "id": 769,
+   "statetime": "2022-12-18 17:52:48",
+   "region": 7,
+   "name": "Name#769",
+   "email": "email769@abc.com",
+   "gold": 587728,
+   "power": 506130,
+   "level": 32
+ },
+ {
+   "id": 770,
+   "statetime": "2022-12-21 15:44:00",
+   "region": 2,
+   "name": "Name#770",
+   "email": "email770@abc.com",
+   "gold": 980040,
+   "power": 588777,
+   "level": 4
+ },
+ {
+   "id": 771,
+   "statetime": "2022-12-21 12:13:37",
+   "region": 7,
+   "name": "Name#771",
+   "email": "email771@abc.com",
+   "gold": 57711,
+   "power": 404485,
+   "level": 23
+ },
+ {
+   "id": 772,
+   "statetime": "2022-12-22 12:47:54",
+   "region": 3,
+   "name": "Name#772",
+   "email": "email772@abc.com",
+   "gold": 270030,
+   "power": 126437,
+   "level": 43
+ },
+ {
+   "id": 773,
+   "statetime": "2022-12-21 23:05:05",
+   "region": 1,
+   "name": "Name#773",
+   "email": "email773@abc.com",
+   "gold": 768320,
+   "power": 639402,
+   "level": 21
+ },
+ {
+   "id": 774,
+   "statetime": "2022-12-18 05:09:28",
+   "region": 4,
+   "name": "Name#774",
+   "email": "email774@abc.com",
+   "gold": 945624,
+   "power": 483651,
+   "level": 20
+ },
+ {
+   "id": 775,
+   "statetime": "2022-12-20 10:34:21",
+   "region": 3,
+   "name": "Name#775",
+   "email": "email775@abc.com",
+   "gold": 142120,
+   "power": 845878,
+   "level": 14
+ },
+ {
+   "id": 776,
+   "statetime": "2022-12-22 11:11:23",
+   "region": 1,
+   "name": "Name#776",
+   "email": "email776@abc.com",
+   "gold": 333937,
+   "power": 969608,
+   "level": 30
+ },
+ {
+   "id": 777,
+   "statetime": "2022-12-23 15:04:09",
+   "region": 1,
+   "name": "Name#777",
+   "email": "email777@abc.com",
+   "gold": 170961,
+   "power": 178707,
+   "level": 12
+ },
+ {
+   "id": 778,
+   "statetime": "2022-12-21 02:04:42",
+   "region": 7,
+   "name": "Name#778",
+   "email": "email778@abc.com",
+   "gold": 989023,
+   "power": 771347,
+   "level": 5
+ },
+ {
+   "id": 779,
+   "statetime": "2022-12-17 19:50:42",
+   "region": 6,
+   "name": "Name#779",
+   "email": "email779@abc.com",
+   "gold": 135436,
+   "power": 599338,
+   "level": 41
+ },
+ {
+   "id": 780,
+   "statetime": "2022-12-22 08:22:12",
+   "region": 4,
+   "name": "Name#780",
+   "email": "email780@abc.com",
+   "gold": 100150,
+   "power": 469071,
+   "level": 49
+ },
+ {
+   "id": 781,
+   "statetime": "2022-12-17 15:57:04",
+   "region": 1,
+   "name": "Name#781",
+   "email": "email781@abc.com",
+   "gold": 265496,
+   "power": 15393,
+   "level": 29
+ },
+ {
+   "id": 782,
+   "statetime": "2022-12-22 20:30:11",
+   "region": 7,
+   "name": "Name#782",
+   "email": "email782@abc.com",
+   "gold": 281357,
+   "power": 264081,
+   "level": 45
+ },
+ {
+   "id": 783,
+   "statetime": "2022-12-18 18:40:07",
+   "region": 5,
+   "name": "Name#783",
+   "email": "email783@abc.com",
+   "gold": 594500,
+   "power": 73508,
+   "level": 31
+ },
+ {
+   "id": 784,
+   "statetime": "2022-12-18 00:54:15",
+   "region": 1,
+   "name": "Name#784",
+   "email": "email784@abc.com",
+   "gold": 139261,
+   "power": 98833,
+   "level": 44
+ },
+ {
+   "id": 785,
+   "statetime": "2022-12-19 10:28:51",
+   "region": 2,
+   "name": "Name#785",
+   "email": "email785@abc.com",
+   "gold": 867480,
+   "power": 63046,
+   "level": 24
+ },
+ {
+   "id": 786,
+   "statetime": "2022-12-19 20:16:08",
+   "region": 2,
+   "name": "Name#786",
+   "email": "email786@abc.com",
+   "gold": 308793,
+   "power": 926811,
+   "level": 45
+ },
+ {
+   "id": 787,
+   "statetime": "2022-12-23 01:16:04",
+   "region": 2,
+   "name": "Name#787",
+   "email": "email787@abc.com",
+   "gold": 293790,
+   "power": 347816,
+   "level": 42
+ },
+ {
+   "id": 788,
+   "statetime": "2022-12-19 02:11:46",
+   "region": 8,
+   "name": "Name#788",
+   "email": "email788@abc.com",
+   "gold": 2477,
+   "power": 589297,
+   "level": 27
+ },
+ {
+   "id": 789,
+   "statetime": "2022-12-18 02:12:10",
+   "region": 4,
+   "name": "Name#789",
+   "email": "email789@abc.com",
+   "gold": 131618,
+   "power": 529533,
+   "level": 34
+ },
+ {
+   "id": 790,
+   "statetime": "2022-12-22 10:25:37",
+   "region": 4,
+   "name": "Name#790",
+   "email": "email790@abc.com",
+   "gold": 899294,
+   "power": 829725,
+   "level": 29
+ },
+ {
+   "id": 791,
+   "statetime": "2022-12-17 15:36:40",
+   "region": 9,
+   "name": "Name#791",
+   "email": "email791@abc.com",
+   "gold": 987778,
+   "power": 881406,
+   "level": 36
+ },
+ {
+   "id": 792,
+   "statetime": "2022-12-23 05:25:21",
+   "region": 7,
+   "name": "Name#792",
+   "email": "email792@abc.com",
+   "gold": 493628,
+   "power": 190387,
+   "level": 46
+ },
+ {
+   "id": 793,
+   "statetime": "2022-12-18 07:56:36",
+   "region": 3,
+   "name": "Name#793",
+   "email": "email793@abc.com",
+   "gold": 120134,
+   "power": 577806,
+   "level": 24
+ },
+ {
+   "id": 794,
+   "statetime": "2022-12-18 08:47:34",
+   "region": 1,
+   "name": "Name#794",
+   "email": "email794@abc.com",
+   "gold": 539428,
+   "power": 344897,
+   "level": 29
+ },
+ {
+   "id": 795,
+   "statetime": "2022-12-20 08:06:46",
+   "region": 9,
+   "name": "Name#795",
+   "email": "email795@abc.com",
+   "gold": 995112,
+   "power": 199742,
+   "level": 36
+ },
+ {
+   "id": 796,
+   "statetime": "2022-12-20 08:22:09",
+   "region": 7,
+   "name": "Name#796",
+   "email": "email796@abc.com",
+   "gold": 239901,
+   "power": 357503,
+   "level": 42
+ },
+ {
+   "id": 797,
+   "statetime": "2022-12-19 23:30:39",
+   "region": 2,
+   "name": "Name#797",
+   "email": "email797@abc.com",
+   "gold": 528811,
+   "power": 374201,
+   "level": 36
+ },
+ {
+   "id": 798,
+   "statetime": "2022-12-18 05:48:35",
+   "region": 8,
+   "name": "Name#798",
+   "email": "email798@abc.com",
+   "gold": 468339,
+   "power": 90541,
+   "level": 44
+ },
+ {
+   "id": 799,
+   "statetime": "2022-12-23 08:54:15",
+   "region": 3,
+   "name": "Name#799",
+   "email": "email799@abc.com",
+   "gold": 893304,
+   "power": 613857,
+   "level": 45
+ },
+ {
+   "id": 800,
+   "statetime": "2022-12-22 08:38:25",
+   "region": 4,
+   "name": "Name#800",
+   "email": "email800@abc.com",
+   "gold": 510039,
+   "power": 587687,
+   "level": 13
+ },
+ {
+   "id": 801,
+   "statetime": "2022-12-23 03:57:20",
+   "region": 1,
+   "name": "Name#801",
+   "email": "email801@abc.com",
+   "gold": 704632,
+   "power": 493145,
+   "level": 30
+ },
+ {
+   "id": 802,
+   "statetime": "2022-12-21 23:57:26",
+   "region": 8,
+   "name": "Name#802",
+   "email": "email802@abc.com",
+   "gold": 133284,
+   "power": 936409,
+   "level": 11
+ },
+ {
+   "id": 803,
+   "statetime": "2022-12-19 07:44:00",
+   "region": 6,
+   "name": "Name#803",
+   "email": "email803@abc.com",
+   "gold": 715270,
+   "power": 635436,
+   "level": 15
+ },
+ {
+   "id": 804,
+   "statetime": "2022-12-22 13:08:39",
+   "region": 2,
+   "name": "Name#804",
+   "email": "email804@abc.com",
+   "gold": 174122,
+   "power": 27343,
+   "level": 23
+ },
+ {
+   "id": 805,
+   "statetime": "2022-12-21 19:25:03",
+   "region": 7,
+   "name": "Name#805",
+   "email": "email805@abc.com",
+   "gold": 80903,
+   "power": 165684,
+   "level": 33
+ },
+ {
+   "id": 806,
+   "statetime": "2022-12-21 06:10:05",
+   "region": 4,
+   "name": "Name#806",
+   "email": "email806@abc.com",
+   "gold": 924769,
+   "power": 419355,
+   "level": 23
+ },
+ {
+   "id": 807,
+   "statetime": "2022-12-20 07:58:22",
+   "region": 5,
+   "name": "Name#807",
+   "email": "email807@abc.com",
+   "gold": 138445,
+   "power": 357162,
+   "level": 18
+ },
+ {
+   "id": 808,
+   "statetime": "2022-12-18 03:14:03",
+   "region": 6,
+   "name": "Name#808",
+   "email": "email808@abc.com",
+   "gold": 670942,
+   "power": 895363,
+   "level": 48
+ },
+ {
+   "id": 809,
+   "statetime": "2022-12-19 00:06:39",
+   "region": 5,
+   "name": "Name#809",
+   "email": "email809@abc.com",
+   "gold": 539627,
+   "power": 955183,
+   "level": 32
+ },
+ {
+   "id": 810,
+   "statetime": "2022-12-22 14:32:39",
+   "region": 6,
+   "name": "Name#810",
+   "email": "email810@abc.com",
+   "gold": 139315,
+   "power": 289715,
+   "level": 19
+ },
+ {
+   "id": 811,
+   "statetime": "2022-12-18 22:36:21",
+   "region": 7,
+   "name": "Name#811",
+   "email": "email811@abc.com",
+   "gold": 817377,
+   "power": 283383,
+   "level": 46
+ },
+ {
+   "id": 812,
+   "statetime": "2022-12-17 10:46:45",
+   "region": 1,
+   "name": "Name#812",
+   "email": "email812@abc.com",
+   "gold": 852381,
+   "power": 8002,
+   "level": 24
+ },
+ {
+   "id": 813,
+   "statetime": "2022-12-22 21:51:46",
+   "region": 4,
+   "name": "Name#813",
+   "email": "email813@abc.com",
+   "gold": 790690,
+   "power": 474726,
+   "level": 30
+ },
+ {
+   "id": 814,
+   "statetime": "2022-12-20 10:39:03",
+   "region": 2,
+   "name": "Name#814",
+   "email": "email814@abc.com",
+   "gold": 324428,
+   "power": 257534,
+   "level": 35
+ },
+ {
+   "id": 815,
+   "statetime": "2022-12-17 10:54:14",
+   "region": 3,
+   "name": "Name#815",
+   "email": "email815@abc.com",
+   "gold": 975884,
+   "power": 699434,
+   "level": 2
+ },
+ {
+   "id": 816,
+   "statetime": "2022-12-24 03:43:21",
+   "region": 9,
+   "name": "Name#816",
+   "email": "email816@abc.com",
+   "gold": 888652,
+   "power": 491433,
+   "level": 23
+ },
+ {
+   "id": 817,
+   "statetime": "2022-12-18 00:40:28",
+   "region": 6,
+   "name": "Name#817",
+   "email": "email817@abc.com",
+   "gold": 43694,
+   "power": 289139,
+   "level": 4
+ },
+ {
+   "id": 818,
+   "statetime": "2022-12-21 10:39:15",
+   "region": 9,
+   "name": "Name#818",
+   "email": "email818@abc.com",
+   "gold": 80642,
+   "power": 347391,
+   "level": 15
+ },
+ {
+   "id": 819,
+   "statetime": "2022-12-20 11:14:12",
+   "region": 5,
+   "name": "Name#819",
+   "email": "email819@abc.com",
+   "gold": 669515,
+   "power": 236543,
+   "level": 43
+ },
+ {
+   "id": 820,
+   "statetime": "2022-12-22 09:35:56",
+   "region": 7,
+   "name": "Name#820",
+   "email": "email820@abc.com",
+   "gold": 695463,
+   "power": 432890,
+   "level": 49
+ },
+ {
+   "id": 821,
+   "statetime": "2022-12-23 19:33:52",
+   "region": 3,
+   "name": "Name#821",
+   "email": "email821@abc.com",
+   "gold": 553649,
+   "power": 915426,
+   "level": 47
+ },
+ {
+   "id": 822,
+   "statetime": "2022-12-20 09:21:10",
+   "region": 3,
+   "name": "Name#822",
+   "email": "email822@abc.com",
+   "gold": 867481,
+   "power": 990445,
+   "level": 13
+ },
+ {
+   "id": 823,
+   "statetime": "2022-12-20 22:54:54",
+   "region": 6,
+   "name": "Name#823",
+   "email": "email823@abc.com",
+   "gold": 923380,
+   "power": 244018,
+   "level": 1
+ },
+ {
+   "id": 824,
+   "statetime": "2022-12-17 16:22:56",
+   "region": 1,
+   "name": "Name#824",
+   "email": "email824@abc.com",
+   "gold": 854019,
+   "power": 663381,
+   "level": 22
+ },
+ {
+   "id": 825,
+   "statetime": "2022-12-23 04:36:38",
+   "region": 2,
+   "name": "Name#825",
+   "email": "email825@abc.com",
+   "gold": 820075,
+   "power": 204749,
+   "level": 5
+ },
+ {
+   "id": 826,
+   "statetime": "2022-12-24 07:14:57",
+   "region": 4,
+   "name": "Name#826",
+   "email": "email826@abc.com",
+   "gold": 390358,
+   "power": 99433,
+   "level": 30
+ },
+ {
+   "id": 827,
+   "statetime": "2022-12-22 20:59:59",
+   "region": 1,
+   "name": "Name#827",
+   "email": "email827@abc.com",
+   "gold": 579000,
+   "power": 201106,
+   "level": 18
+ },
+ {
+   "id": 828,
+   "statetime": "2022-12-20 05:25:50",
+   "region": 5,
+   "name": "Name#828",
+   "email": "email828@abc.com",
+   "gold": 722979,
+   "power": 933183,
+   "level": 33
+ },
+ {
+   "id": 829,
+   "statetime": "2022-12-20 04:50:42",
+   "region": 6,
+   "name": "Name#829",
+   "email": "email829@abc.com",
+   "gold": 803442,
+   "power": 755661,
+   "level": 30
+ },
+ {
+   "id": 830,
+   "statetime": "2022-12-20 02:18:42",
+   "region": 9,
+   "name": "Name#830",
+   "email": "email830@abc.com",
+   "gold": 336916,
+   "power": 768831,
+   "level": 34
+ },
+ {
+   "id": 831,
+   "statetime": "2022-12-21 14:56:19",
+   "region": 8,
+   "name": "Name#831",
+   "email": "email831@abc.com",
+   "gold": 959256,
+   "power": 151456,
+   "level": 30
+ },
+ {
+   "id": 832,
+   "statetime": "2022-12-22 02:48:47",
+   "region": 5,
+   "name": "Name#832",
+   "email": "email832@abc.com",
+   "gold": 595068,
+   "power": 994968,
+   "level": 22
+ },
+ {
+   "id": 833,
+   "statetime": "2022-12-23 14:12:28",
+   "region": 6,
+   "name": "Name#833",
+   "email": "email833@abc.com",
+   "gold": 272579,
+   "power": 153899,
+   "level": 47
+ },
+ {
+   "id": 834,
+   "statetime": "2022-12-19 10:10:03",
+   "region": 4,
+   "name": "Name#834",
+   "email": "email834@abc.com",
+   "gold": 994889,
+   "power": 365103,
+   "level": 39
+ },
+ {
+   "id": 835,
+   "statetime": "2022-12-22 10:18:00",
+   "region": 3,
+   "name": "Name#835",
+   "email": "email835@abc.com",
+   "gold": 936009,
+   "power": 697672,
+   "level": 42
+ },
+ {
+   "id": 836,
+   "statetime": "2022-12-23 21:26:40",
+   "region": 3,
+   "name": "Name#836",
+   "email": "email836@abc.com",
+   "gold": 413824,
+   "power": 332581,
+   "level": 16
+ },
+ {
+   "id": 837,
+   "statetime": "2022-12-18 07:38:59",
+   "region": 4,
+   "name": "Name#837",
+   "email": "email837@abc.com",
+   "gold": 507842,
+   "power": 895060,
+   "level": 32
+ },
+ {
+   "id": 838,
+   "statetime": "2022-12-18 02:29:56",
+   "region": 1,
+   "name": "Name#838",
+   "email": "email838@abc.com",
+   "gold": 100948,
+   "power": 374549,
+   "level": 24
+ },
+ {
+   "id": 839,
+   "statetime": "2022-12-23 13:18:08",
+   "region": 7,
+   "name": "Name#839",
+   "email": "email839@abc.com",
+   "gold": 334742,
+   "power": 460734,
+   "level": 45
+ },
+ {
+   "id": 840,
+   "statetime": "2022-12-22 22:17:45",
+   "region": 2,
+   "name": "Name#840",
+   "email": "email840@abc.com",
+   "gold": 162402,
+   "power": 431208,
+   "level": 35
+ },
+ {
+   "id": 841,
+   "statetime": "2022-12-18 01:57:55",
+   "region": 2,
+   "name": "Name#841",
+   "email": "email841@abc.com",
+   "gold": 353028,
+   "power": 987528,
+   "level": 2
+ },
+ {
+   "id": 842,
+   "statetime": "2022-12-23 21:11:29",
+   "region": 9,
+   "name": "Name#842",
+   "email": "email842@abc.com",
+   "gold": 165299,
+   "power": 964710,
+   "level": 1
+ },
+ {
+   "id": 843,
+   "statetime": "2022-12-22 21:26:18",
+   "region": 5,
+   "name": "Name#843",
+   "email": "email843@abc.com",
+   "gold": 185846,
+   "power": 478658,
+   "level": 20
+ },
+ {
+   "id": 844,
+   "statetime": "2022-12-23 13:15:26",
+   "region": 6,
+   "name": "Name#844",
+   "email": "email844@abc.com",
+   "gold": 501745,
+   "power": 548783,
+   "level": 10
+ },
+ {
+   "id": 845,
+   "statetime": "2022-12-19 15:24:07",
+   "region": 4,
+   "name": "Name#845",
+   "email": "email845@abc.com",
+   "gold": 37501,
+   "power": 740337,
+   "level": 3
+ },
+ {
+   "id": 846,
+   "statetime": "2022-12-21 18:37:45",
+   "region": 6,
+   "name": "Name#846",
+   "email": "email846@abc.com",
+   "gold": 889592,
+   "power": 945625,
+   "level": 49
+ },
+ {
+   "id": 847,
+   "statetime": "2022-12-20 14:02:12",
+   "region": 6,
+   "name": "Name#847",
+   "email": "email847@abc.com",
+   "gold": 808125,
+   "power": 936578,
+   "level": 21
+ },
+ {
+   "id": 848,
+   "statetime": "2022-12-21 03:15:10",
+   "region": 2,
+   "name": "Name#848",
+   "email": "email848@abc.com",
+   "gold": 194871,
+   "power": 802776,
+   "level": 33
+ },
+ {
+   "id": 849,
+   "statetime": "2022-12-17 14:07:43",
+   "region": 2,
+   "name": "Name#849",
+   "email": "email849@abc.com",
+   "gold": 819676,
+   "power": 909198,
+   "level": 39
+ },
+ {
+   "id": 850,
+   "statetime": "2022-12-22 17:36:17",
+   "region": 3,
+   "name": "Name#850",
+   "email": "email850@abc.com",
+   "gold": 473430,
+   "power": 316471,
+   "level": 39
+ },
+ {
+   "id": 851,
+   "statetime": "2022-12-23 23:05:38",
+   "region": 4,
+   "name": "Name#851",
+   "email": "email851@abc.com",
+   "gold": 148296,
+   "power": 526724,
+   "level": 12
+ },
+ {
+   "id": 852,
+   "statetime": "2022-12-18 01:08:41",
+   "region": 9,
+   "name": "Name#852",
+   "email": "email852@abc.com",
+   "gold": 396939,
+   "power": 524304,
+   "level": 16
+ },
+ {
+   "id": 853,
+   "statetime": "2022-12-24 03:43:24",
+   "region": 3,
+   "name": "Name#853",
+   "email": "email853@abc.com",
+   "gold": 591330,
+   "power": 809055,
+   "level": 32
+ },
+ {
+   "id": 854,
+   "statetime": "2022-12-23 07:13:50",
+   "region": 8,
+   "name": "Name#854",
+   "email": "email854@abc.com",
+   "gold": 515363,
+   "power": 788683,
+   "level": 5
+ },
+ {
+   "id": 855,
+   "statetime": "2022-12-19 17:28:44",
+   "region": 1,
+   "name": "Name#855",
+   "email": "email855@abc.com",
+   "gold": 378314,
+   "power": 414632,
+   "level": 48
+ },
+ {
+   "id": 856,
+   "statetime": "2022-12-19 23:34:07",
+   "region": 3,
+   "name": "Name#856",
+   "email": "email856@abc.com",
+   "gold": 432783,
+   "power": 373192,
+   "level": 47
+ },
+ {
+   "id": 857,
+   "statetime": "2022-12-20 14:12:29",
+   "region": 8,
+   "name": "Name#857",
+   "email": "email857@abc.com",
+   "gold": 332552,
+   "power": 829662,
+   "level": 16
+ },
+ {
+   "id": 858,
+   "statetime": "2022-12-21 17:10:25",
+   "region": 4,
+   "name": "Name#858",
+   "email": "email858@abc.com",
+   "gold": 669451,
+   "power": 784720,
+   "level": 41
+ },
+ {
+   "id": 859,
+   "statetime": "2022-12-23 19:11:37",
+   "region": 1,
+   "name": "Name#859",
+   "email": "email859@abc.com",
+   "gold": 953092,
+   "power": 145843,
+   "level": 41
+ },
+ {
+   "id": 860,
+   "statetime": "2022-12-19 00:26:05",
+   "region": 5,
+   "name": "Name#860",
+   "email": "email860@abc.com",
+   "gold": 500960,
+   "power": 736189,
+   "level": 33
+ },
+ {
+   "id": 861,
+   "statetime": "2022-12-18 13:35:38",
+   "region": 1,
+   "name": "Name#861",
+   "email": "email861@abc.com",
+   "gold": 805421,
+   "power": 991827,
+   "level": 27
+ },
+ {
+   "id": 862,
+   "statetime": "2022-12-19 20:11:32",
+   "region": 3,
+   "name": "Name#862",
+   "email": "email862@abc.com",
+   "gold": 385783,
+   "power": 359322,
+   "level": 18
+ },
+ {
+   "id": 863,
+   "statetime": "2022-12-20 19:18:43",
+   "region": 9,
+   "name": "Name#863",
+   "email": "email863@abc.com",
+   "gold": 893058,
+   "power": 456249,
+   "level": 16
+ },
+ {
+   "id": 864,
+   "statetime": "2022-12-20 11:58:09",
+   "region": 5,
+   "name": "Name#864",
+   "email": "email864@abc.com",
+   "gold": 563681,
+   "power": 545162,
+   "level": 2
+ },
+ {
+   "id": 865,
+   "statetime": "2022-12-23 00:27:53",
+   "region": 3,
+   "name": "Name#865",
+   "email": "email865@abc.com",
+   "gold": 340270,
+   "power": 626272,
+   "level": 5
+ },
+ {
+   "id": 866,
+   "statetime": "2022-12-22 14:26:32",
+   "region": 5,
+   "name": "Name#866",
+   "email": "email866@abc.com",
+   "gold": 68820,
+   "power": 555017,
+   "level": 40
+ },
+ {
+   "id": 867,
+   "statetime": "2022-12-18 10:35:00",
+   "region": 9,
+   "name": "Name#867",
+   "email": "email867@abc.com",
+   "gold": 568765,
+   "power": 700319,
+   "level": 20
+ },
+ {
+   "id": 868,
+   "statetime": "2022-12-23 13:06:13",
+   "region": 7,
+   "name": "Name#868",
+   "email": "email868@abc.com",
+   "gold": 351139,
+   "power": 90198,
+   "level": 49
+ },
+ {
+   "id": 869,
+   "statetime": "2022-12-18 11:29:05",
+   "region": 4,
+   "name": "Name#869",
+   "email": "email869@abc.com",
+   "gold": 413495,
+   "power": 391313,
+   "level": 28
+ },
+ {
+   "id": 870,
+   "statetime": "2022-12-20 07:03:14",
+   "region": 8,
+   "name": "Name#870",
+   "email": "email870@abc.com",
+   "gold": 519843,
+   "power": 292211,
+   "level": 47
+ },
+ {
+   "id": 871,
+   "statetime": "2022-12-18 01:57:26",
+   "region": 2,
+   "name": "Name#871",
+   "email": "email871@abc.com",
+   "gold": 484715,
+   "power": 896385,
+   "level": 35
+ },
+ {
+   "id": 872,
+   "statetime": "2022-12-20 16:30:08",
+   "region": 3,
+   "name": "Name#872",
+   "email": "email872@abc.com",
+   "gold": 365239,
+   "power": 6140,
+   "level": 21
+ },
+ {
+   "id": 873,
+   "statetime": "2022-12-22 23:28:53",
+   "region": 2,
+   "name": "Name#873",
+   "email": "email873@abc.com",
+   "gold": 982780,
+   "power": 216186,
+   "level": 27
+ },
+ {
+   "id": 874,
+   "statetime": "2022-12-18 08:36:52",
+   "region": 6,
+   "name": "Name#874",
+   "email": "email874@abc.com",
+   "gold": 728442,
+   "power": 402188,
+   "level": 19
+ },
+ {
+   "id": 875,
+   "statetime": "2022-12-17 20:30:39",
+   "region": 7,
+   "name": "Name#875",
+   "email": "email875@abc.com",
+   "gold": 393313,
+   "power": 487372,
+   "level": 49
+ },
+ {
+   "id": 876,
+   "statetime": "2022-12-19 17:11:45",
+   "region": 2,
+   "name": "Name#876",
+   "email": "email876@abc.com",
+   "gold": 356082,
+   "power": 489854,
+   "level": 29
+ },
+ {
+   "id": 877,
+   "statetime": "2022-12-21 16:14:12",
+   "region": 4,
+   "name": "Name#877",
+   "email": "email877@abc.com",
+   "gold": 336750,
+   "power": 286881,
+   "level": 26
+ },
+ {
+   "id": 878,
+   "statetime": "2022-12-20 05:04:24",
+   "region": 6,
+   "name": "Name#878",
+   "email": "email878@abc.com",
+   "gold": 496085,
+   "power": 577598,
+   "level": 42
+ },
+ {
+   "id": 879,
+   "statetime": "2022-12-20 21:31:42",
+   "region": 9,
+   "name": "Name#879",
+   "email": "email879@abc.com",
+   "gold": 432693,
+   "power": 71331,
+   "level": 49
+ },
+ {
+   "id": 880,
+   "statetime": "2022-12-21 12:11:48",
+   "region": 2,
+   "name": "Name#880",
+   "email": "email880@abc.com",
+   "gold": 417671,
+   "power": 950479,
+   "level": 19
+ },
+ {
+   "id": 881,
+   "statetime": "2022-12-19 16:04:25",
+   "region": 7,
+   "name": "Name#881",
+   "email": "email881@abc.com",
+   "gold": 762936,
+   "power": 295645,
+   "level": 8
+ },
+ {
+   "id": 882,
+   "statetime": "2022-12-18 09:38:10",
+   "region": 5,
+   "name": "Name#882",
+   "email": "email882@abc.com",
+   "gold": 763925,
+   "power": 37645,
+   "level": 12
+ },
+ {
+   "id": 883,
+   "statetime": "2022-12-19 10:37:38",
+   "region": 2,
+   "name": "Name#883",
+   "email": "email883@abc.com",
+   "gold": 22720,
+   "power": 708219,
+   "level": 26
+ },
+ {
+   "id": 884,
+   "statetime": "2022-12-22 02:06:18",
+   "region": 2,
+   "name": "Name#884",
+   "email": "email884@abc.com",
+   "gold": 463734,
+   "power": 410163,
+   "level": 30
+ },
+ {
+   "id": 885,
+   "statetime": "2022-12-19 11:30:38",
+   "region": 1,
+   "name": "Name#885",
+   "email": "email885@abc.com",
+   "gold": 153612,
+   "power": 174288,
+   "level": 32
+ },
+ {
+   "id": 886,
+   "statetime": "2022-12-20 19:27:14",
+   "region": 6,
+   "name": "Name#886",
+   "email": "email886@abc.com",
+   "gold": 90169,
+   "power": 841218,
+   "level": 16
+ },
+ {
+   "id": 887,
+   "statetime": "2022-12-22 06:57:56",
+   "region": 2,
+   "name": "Name#887",
+   "email": "email887@abc.com",
+   "gold": 9345,
+   "power": 697006,
+   "level": 24
+ },
+ {
+   "id": 888,
+   "statetime": "2022-12-19 21:58:26",
+   "region": 6,
+   "name": "Name#888",
+   "email": "email888@abc.com",
+   "gold": 132079,
+   "power": 35214,
+   "level": 41
+ },
+ {
+   "id": 889,
+   "statetime": "2022-12-22 08:36:18",
+   "region": 1,
+   "name": "Name#889",
+   "email": "email889@abc.com",
+   "gold": 239191,
+   "power": 283758,
+   "level": 41
+ },
+ {
+   "id": 890,
+   "statetime": "2022-12-19 23:15:18",
+   "region": 8,
+   "name": "Name#890",
+   "email": "email890@abc.com",
+   "gold": 428085,
+   "power": 690153,
+   "level": 38
+ },
+ {
+   "id": 891,
+   "statetime": "2022-12-17 14:07:41",
+   "region": 7,
+   "name": "Name#891",
+   "email": "email891@abc.com",
+   "gold": 446803,
+   "power": 223970,
+   "level": 24
+ },
+ {
+   "id": 892,
+   "statetime": "2022-12-19 20:29:40",
+   "region": 1,
+   "name": "Name#892",
+   "email": "email892@abc.com",
+   "gold": 825687,
+   "power": 460906,
+   "level": 29
+ },
+ {
+   "id": 893,
+   "statetime": "2022-12-20 19:31:23",
+   "region": 7,
+   "name": "Name#893",
+   "email": "email893@abc.com",
+   "gold": 775645,
+   "power": 757533,
+   "level": 25
+ },
+ {
+   "id": 894,
+   "statetime": "2022-12-22 22:06:22",
+   "region": 5,
+   "name": "Name#894",
+   "email": "email894@abc.com",
+   "gold": 840373,
+   "power": 433144,
+   "level": 35
+ },
+ {
+   "id": 895,
+   "statetime": "2022-12-22 04:37:40",
+   "region": 1,
+   "name": "Name#895",
+   "email": "email895@abc.com",
+   "gold": 398843,
+   "power": 536313,
+   "level": 29
+ },
+ {
+   "id": 896,
+   "statetime": "2022-12-22 22:09:05",
+   "region": 6,
+   "name": "Name#896",
+   "email": "email896@abc.com",
+   "gold": 547827,
+   "power": 304878,
+   "level": 46
+ },
+ {
+   "id": 897,
+   "statetime": "2022-12-18 07:27:52",
+   "region": 3,
+   "name": "Name#897",
+   "email": "email897@abc.com",
+   "gold": 916227,
+   "power": 989223,
+   "level": 24
+ },
+ {
+   "id": 898,
+   "statetime": "2022-12-18 16:36:00",
+   "region": 6,
+   "name": "Name#898",
+   "email": "email898@abc.com",
+   "gold": 340325,
+   "power": 412996,
+   "level": 10
+ },
+ {
+   "id": 899,
+   "statetime": "2022-12-18 18:37:56",
+   "region": 5,
+   "name": "Name#899",
+   "email": "email899@abc.com",
+   "gold": 260800,
+   "power": 790685,
+   "level": 9
+ },
+ {
+   "id": 900,
+   "statetime": "2022-12-21 04:26:27",
+   "region": 3,
+   "name": "Name#900",
+   "email": "email900@abc.com",
+   "gold": 46432,
+   "power": 286159,
+   "level": 38
+ },
+ {
+   "id": 901,
+   "statetime": "2022-12-22 00:10:27",
+   "region": 4,
+   "name": "Name#901",
+   "email": "email901@abc.com",
+   "gold": 775304,
+   "power": 377731,
+   "level": 10
+ },
+ {
+   "id": 902,
+   "statetime": "2022-12-18 06:31:43",
+   "region": 5,
+   "name": "Name#902",
+   "email": "email902@abc.com",
+   "gold": 118119,
+   "power": 859847,
+   "level": 2
+ },
+ {
+   "id": 903,
+   "statetime": "2022-12-23 11:47:36",
+   "region": 5,
+   "name": "Name#903",
+   "email": "email903@abc.com",
+   "gold": 527908,
+   "power": 255808,
+   "level": 24
+ },
+ {
+   "id": 904,
+   "statetime": "2022-12-23 18:51:13",
+   "region": 3,
+   "name": "Name#904",
+   "email": "email904@abc.com",
+   "gold": 165962,
+   "power": 534871,
+   "level": 40
+ },
+ {
+   "id": 905,
+   "statetime": "2022-12-21 20:45:15",
+   "region": 7,
+   "name": "Name#905",
+   "email": "email905@abc.com",
+   "gold": 232927,
+   "power": 550685,
+   "level": 11
+ },
+ {
+   "id": 906,
+   "statetime": "2022-12-24 05:35:16",
+   "region": 6,
+   "name": "Name#906",
+   "email": "email906@abc.com",
+   "gold": 327065,
+   "power": 796197,
+   "level": 40
+ },
+ {
+   "id": 907,
+   "statetime": "2022-12-20 00:30:59",
+   "region": 1,
+   "name": "Name#907",
+   "email": "email907@abc.com",
+   "gold": 857360,
+   "power": 69883,
+   "level": 1
+ },
+ {
+   "id": 908,
+   "statetime": "2022-12-22 02:41:32",
+   "region": 9,
+   "name": "Name#908",
+   "email": "email908@abc.com",
+   "gold": 49686,
+   "power": 975717,
+   "level": 14
+ },
+ {
+   "id": 909,
+   "statetime": "2022-12-20 20:25:40",
+   "region": 7,
+   "name": "Name#909",
+   "email": "email909@abc.com",
+   "gold": 960308,
+   "power": 997490,
+   "level": 20
+ },
+ {
+   "id": 910,
+   "statetime": "2022-12-21 03:04:28",
+   "region": 1,
+   "name": "Name#910",
+   "email": "email910@abc.com",
+   "gold": 354300,
+   "power": 327494,
+   "level": 1
+ },
+ {
+   "id": 911,
+   "statetime": "2022-12-17 11:47:17",
+   "region": 7,
+   "name": "Name#911",
+   "email": "email911@abc.com",
+   "gold": 985627,
+   "power": 854636,
+   "level": 44
+ },
+ {
+   "id": 912,
+   "statetime": "2022-12-17 15:22:48",
+   "region": 5,
+   "name": "Name#912",
+   "email": "email912@abc.com",
+   "gold": 177492,
+   "power": 406117,
+   "level": 48
+ },
+ {
+   "id": 913,
+   "statetime": "2022-12-18 14:53:12",
+   "region": 3,
+   "name": "Name#913",
+   "email": "email913@abc.com",
+   "gold": 853323,
+   "power": 548975,
+   "level": 18
+ },
+ {
+   "id": 914,
+   "statetime": "2022-12-22 04:43:17",
+   "region": 4,
+   "name": "Name#914",
+   "email": "email914@abc.com",
+   "gold": 69204,
+   "power": 619243,
+   "level": 20
+ },
+ {
+   "id": 915,
+   "statetime": "2022-12-18 01:28:22",
+   "region": 8,
+   "name": "Name#915",
+   "email": "email915@abc.com",
+   "gold": 834487,
+   "power": 245768,
+   "level": 3
+ },
+ {
+   "id": 916,
+   "statetime": "2022-12-19 07:11:10",
+   "region": 7,
+   "name": "Name#916",
+   "email": "email916@abc.com",
+   "gold": 819849,
+   "power": 31139,
+   "level": 29
+ },
+ {
+   "id": 917,
+   "statetime": "2022-12-17 23:29:58",
+   "region": 6,
+   "name": "Name#917",
+   "email": "email917@abc.com",
+   "gold": 469930,
+   "power": 736138,
+   "level": 5
+ },
+ {
+   "id": 918,
+   "statetime": "2022-12-21 01:30:00",
+   "region": 3,
+   "name": "Name#918",
+   "email": "email918@abc.com",
+   "gold": 154794,
+   "power": 580191,
+   "level": 5
+ },
+ {
+   "id": 919,
+   "statetime": "2022-12-20 11:59:22",
+   "region": 1,
+   "name": "Name#919",
+   "email": "email919@abc.com",
+   "gold": 477053,
+   "power": 192895,
+   "level": 28
+ },
+ {
+   "id": 920,
+   "statetime": "2022-12-21 12:05:32",
+   "region": 9,
+   "name": "Name#920",
+   "email": "email920@abc.com",
+   "gold": 953308,
+   "power": 130720,
+   "level": 8
+ },
+ {
+   "id": 921,
+   "statetime": "2022-12-17 19:57:50",
+   "region": 1,
+   "name": "Name#921",
+   "email": "email921@abc.com",
+   "gold": 709173,
+   "power": 56580,
+   "level": 6
+ },
+ {
+   "id": 922,
+   "statetime": "2022-12-22 01:25:50",
+   "region": 4,
+   "name": "Name#922",
+   "email": "email922@abc.com",
+   "gold": 494015,
+   "power": 471417,
+   "level": 27
+ },
+ {
+   "id": 923,
+   "statetime": "2022-12-21 19:41:15",
+   "region": 4,
+   "name": "Name#923",
+   "email": "email923@abc.com",
+   "gold": 338653,
+   "power": 646074,
+   "level": 12
+ },
+ {
+   "id": 924,
+   "statetime": "2022-12-22 22:44:58",
+   "region": 6,
+   "name": "Name#924",
+   "email": "email924@abc.com",
+   "gold": 962042,
+   "power": 41097,
+   "level": 16
+ },
+ {
+   "id": 925,
+   "statetime": "2022-12-21 19:15:34",
+   "region": 9,
+   "name": "Name#925",
+   "email": "email925@abc.com",
+   "gold": 624419,
+   "power": 720419,
+   "level": 11
+ },
+ {
+   "id": 926,
+   "statetime": "2022-12-20 01:15:43",
+   "region": 6,
+   "name": "Name#926",
+   "email": "email926@abc.com",
+   "gold": 60149,
+   "power": 910262,
+   "level": 38
+ },
+ {
+   "id": 927,
+   "statetime": "2022-12-22 15:32:32",
+   "region": 7,
+   "name": "Name#927",
+   "email": "email927@abc.com",
+   "gold": 303479,
+   "power": 223554,
+   "level": 33
+ },
+ {
+   "id": 928,
+   "statetime": "2022-12-21 00:26:56",
+   "region": 7,
+   "name": "Name#928",
+   "email": "email928@abc.com",
+   "gold": 971364,
+   "power": 853151,
+   "level": 49
+ },
+ {
+   "id": 929,
+   "statetime": "2022-12-18 13:46:52",
+   "region": 1,
+   "name": "Name#929",
+   "email": "email929@abc.com",
+   "gold": 146290,
+   "power": 498907,
+   "level": 5
+ },
+ {
+   "id": 930,
+   "statetime": "2022-12-22 20:55:34",
+   "region": 1,
+   "name": "Name#930",
+   "email": "email930@abc.com",
+   "gold": 626858,
+   "power": 894744,
+   "level": 7
+ },
+ {
+   "id": 931,
+   "statetime": "2022-12-23 01:52:45",
+   "region": 9,
+   "name": "Name#931",
+   "email": "email931@abc.com",
+   "gold": 82254,
+   "power": 30479,
+   "level": 13
+ },
+ {
+   "id": 932,
+   "statetime": "2022-12-19 03:47:27",
+   "region": 5,
+   "name": "Name#932",
+   "email": "email932@abc.com",
+   "gold": 95466,
+   "power": 389780,
+   "level": 30
+ },
+ {
+   "id": 933,
+   "statetime": "2022-12-20 20:34:10",
+   "region": 6,
+   "name": "Name#933",
+   "email": "email933@abc.com",
+   "gold": 485922,
+   "power": 761828,
+   "level": 48
+ },
+ {
+   "id": 934,
+   "statetime": "2022-12-18 20:01:44",
+   "region": 9,
+   "name": "Name#934",
+   "email": "email934@abc.com",
+   "gold": 820563,
+   "power": 645358,
+   "level": 45
+ },
+ {
+   "id": 935,
+   "statetime": "2022-12-17 19:30:04",
+   "region": 9,
+   "name": "Name#935",
+   "email": "email935@abc.com",
+   "gold": 161211,
+   "power": 474205,
+   "level": 37
+ },
+ {
+   "id": 936,
+   "statetime": "2022-12-22 22:30:25",
+   "region": 8,
+   "name": "Name#936",
+   "email": "email936@abc.com",
+   "gold": 421257,
+   "power": 345440,
+   "level": 16
+ },
+ {
+   "id": 937,
+   "statetime": "2022-12-18 11:28:19",
+   "region": 1,
+   "name": "Name#937",
+   "email": "email937@abc.com",
+   "gold": 60004,
+   "power": 405735,
+   "level": 40
+ },
+ {
+   "id": 938,
+   "statetime": "2022-12-22 00:02:41",
+   "region": 9,
+   "name": "Name#938",
+   "email": "email938@abc.com",
+   "gold": 569011,
+   "power": 50214,
+   "level": 17
+ },
+ {
+   "id": 939,
+   "statetime": "2022-12-19 21:58:04",
+   "region": 4,
+   "name": "Name#939",
+   "email": "email939@abc.com",
+   "gold": 700689,
+   "power": 759273,
+   "level": 38
+ },
+ {
+   "id": 940,
+   "statetime": "2022-12-18 03:08:45",
+   "region": 3,
+   "name": "Name#940",
+   "email": "email940@abc.com",
+   "gold": 90251,
+   "power": 717681,
+   "level": 14
+ },
+ {
+   "id": 941,
+   "statetime": "2022-12-18 04:37:52",
+   "region": 4,
+   "name": "Name#941",
+   "email": "email941@abc.com",
+   "gold": 300508,
+   "power": 783018,
+   "level": 6
+ },
+ {
+   "id": 942,
+   "statetime": "2022-12-17 09:25:30",
+   "region": 1,
+   "name": "Name#942",
+   "email": "email942@abc.com",
+   "gold": 570117,
+   "power": 396236,
+   "level": 26
+ },
+ {
+   "id": 943,
+   "statetime": "2022-12-22 04:58:10",
+   "region": 1,
+   "name": "Name#943",
+   "email": "email943@abc.com",
+   "gold": 93889,
+   "power": 715198,
+   "level": 7
+ },
+ {
+   "id": 944,
+   "statetime": "2022-12-22 06:27:45",
+   "region": 9,
+   "name": "Name#944",
+   "email": "email944@abc.com",
+   "gold": 518737,
+   "power": 195508,
+   "level": 41
+ },
+ {
+   "id": 945,
+   "statetime": "2022-12-20 09:46:39",
+   "region": 5,
+   "name": "Name#945",
+   "email": "email945@abc.com",
+   "gold": 729805,
+   "power": 862851,
+   "level": 44
+ },
+ {
+   "id": 946,
+   "statetime": "2022-12-22 07:24:55",
+   "region": 3,
+   "name": "Name#946",
+   "email": "email946@abc.com",
+   "gold": 59851,
+   "power": 580334,
+   "level": 16
+ },
+ {
+   "id": 947,
+   "statetime": "2022-12-19 09:13:52",
+   "region": 3,
+   "name": "Name#947",
+   "email": "email947@abc.com",
+   "gold": 197215,
+   "power": 898147,
+   "level": 25
+ },
+ {
+   "id": 948,
+   "statetime": "2022-12-23 18:06:19",
+   "region": 2,
+   "name": "Name#948",
+   "email": "email948@abc.com",
+   "gold": 804829,
+   "power": 180648,
+   "level": 45
+ },
+ {
+   "id": 949,
+   "statetime": "2022-12-20 22:59:56",
+   "region": 3,
+   "name": "Name#949",
+   "email": "email949@abc.com",
+   "gold": 843488,
+   "power": 949991,
+   "level": 12
+ },
+ {
+   "id": 950,
+   "statetime": "2022-12-20 09:48:58",
+   "region": 5,
+   "name": "Name#950",
+   "email": "email950@abc.com",
+   "gold": 25723,
+   "power": 312409,
+   "level": 44
+ },
+ {
+   "id": 951,
+   "statetime": "2022-12-22 21:43:19",
+   "region": 1,
+   "name": "Name#951",
+   "email": "email951@abc.com",
+   "gold": 745565,
+   "power": 887441,
+   "level": 37
+ },
+ {
+   "id": 952,
+   "statetime": "2022-12-23 23:16:22",
+   "region": 7,
+   "name": "Name#952",
+   "email": "email952@abc.com",
+   "gold": 552855,
+   "power": 804331,
+   "level": 40
+ },
+ {
+   "id": 953,
+   "statetime": "2022-12-20 11:29:19",
+   "region": 7,
+   "name": "Name#953",
+   "email": "email953@abc.com",
+   "gold": 518362,
+   "power": 236101,
+   "level": 12
+ },
+ {
+   "id": 954,
+   "statetime": "2022-12-20 06:31:40",
+   "region": 5,
+   "name": "Name#954",
+   "email": "email954@abc.com",
+   "gold": 90039,
+   "power": 257261,
+   "level": 34
+ },
+ {
+   "id": 955,
+   "statetime": "2022-12-21 03:08:27",
+   "region": 8,
+   "name": "Name#955",
+   "email": "email955@abc.com",
+   "gold": 352349,
+   "power": 541811,
+   "level": 29
+ },
+ {
+   "id": 956,
+   "statetime": "2022-12-22 10:31:54",
+   "region": 8,
+   "name": "Name#956",
+   "email": "email956@abc.com",
+   "gold": 848555,
+   "power": 398531,
+   "level": 46
+ },
+ {
+   "id": 957,
+   "statetime": "2022-12-17 23:01:42",
+   "region": 2,
+   "name": "Name#957",
+   "email": "email957@abc.com",
+   "gold": 860091,
+   "power": 18112,
+   "level": 27
+ },
+ {
+   "id": 958,
+   "statetime": "2022-12-19 07:33:44",
+   "region": 8,
+   "name": "Name#958",
+   "email": "email958@abc.com",
+   "gold": 55088,
+   "power": 62962,
+   "level": 31
+ },
+ {
+   "id": 959,
+   "statetime": "2022-12-18 17:35:02",
+   "region": 2,
+   "name": "Name#959",
+   "email": "email959@abc.com",
+   "gold": 970220,
+   "power": 90581,
+   "level": 49
+ },
+ {
+   "id": 960,
+   "statetime": "2022-12-18 00:17:46",
+   "region": 2,
+   "name": "Name#960",
+   "email": "email960@abc.com",
+   "gold": 760879,
+   "power": 219049,
+   "level": 17
+ },
+ {
+   "id": 961,
+   "statetime": "2022-12-17 09:31:18",
+   "region": 1,
+   "name": "Name#961",
+   "email": "email961@abc.com",
+   "gold": 892444,
+   "power": 844862,
+   "level": 4
+ },
+ {
+   "id": 962,
+   "statetime": "2022-12-18 01:27:34",
+   "region": 4,
+   "name": "Name#962",
+   "email": "email962@abc.com",
+   "gold": 430136,
+   "power": 122425,
+   "level": 28
+ },
+ {
+   "id": 963,
+   "statetime": "2022-12-20 15:51:30",
+   "region": 7,
+   "name": "Name#963",
+   "email": "email963@abc.com",
+   "gold": 33627,
+   "power": 630601,
+   "level": 41
+ },
+ {
+   "id": 964,
+   "statetime": "2022-12-24 03:26:40",
+   "region": 5,
+   "name": "Name#964",
+   "email": "email964@abc.com",
+   "gold": 683584,
+   "power": 821310,
+   "level": 45
+ },
+ {
+   "id": 965,
+   "statetime": "2022-12-21 11:59:32",
+   "region": 9,
+   "name": "Name#965",
+   "email": "email965@abc.com",
+   "gold": 871203,
+   "power": 212938,
+   "level": 31
+ },
+ {
+   "id": 966,
+   "statetime": "2022-12-20 18:02:01",
+   "region": 2,
+   "name": "Name#966",
+   "email": "email966@abc.com",
+   "gold": 346444,
+   "power": 770435,
+   "level": 9
+ },
+ {
+   "id": 967,
+   "statetime": "2022-12-23 14:44:29",
+   "region": 2,
+   "name": "Name#967",
+   "email": "email967@abc.com",
+   "gold": 660163,
+   "power": 903993,
+   "level": 5
+ },
+ {
+   "id": 968,
+   "statetime": "2022-12-23 21:11:35",
+   "region": 6,
+   "name": "Name#968",
+   "email": "email968@abc.com",
+   "gold": 914628,
+   "power": 328220,
+   "level": 43
+ },
+ {
+   "id": 969,
+   "statetime": "2022-12-21 14:16:29",
+   "region": 2,
+   "name": "Name#969",
+   "email": "email969@abc.com",
+   "gold": 672799,
+   "power": 507236,
+   "level": 35
+ },
+ {
+   "id": 970,
+   "statetime": "2022-12-21 12:01:46",
+   "region": 1,
+   "name": "Name#970",
+   "email": "email970@abc.com",
+   "gold": 774748,
+   "power": 33474,
+   "level": 49
+ },
+ {
+   "id": 971,
+   "statetime": "2022-12-22 14:20:48",
+   "region": 8,
+   "name": "Name#971",
+   "email": "email971@abc.com",
+   "gold": 714153,
+   "power": 918691,
+   "level": 42
+ },
+ {
+   "id": 972,
+   "statetime": "2022-12-21 18:37:06",
+   "region": 4,
+   "name": "Name#972",
+   "email": "email972@abc.com",
+   "gold": 137224,
+   "power": 197677,
+   "level": 1
+ },
+ {
+   "id": 973,
+   "statetime": "2022-12-19 12:26:49",
+   "region": 8,
+   "name": "Name#973",
+   "email": "email973@abc.com",
+   "gold": 860596,
+   "power": 342278,
+   "level": 17
+ },
+ {
+   "id": 974,
+   "statetime": "2022-12-20 03:59:38",
+   "region": 2,
+   "name": "Name#974",
+   "email": "email974@abc.com",
+   "gold": 159158,
+   "power": 70524,
+   "level": 21
+ },
+ {
+   "id": 975,
+   "statetime": "2022-12-17 16:53:17",
+   "region": 3,
+   "name": "Name#975",
+   "email": "email975@abc.com",
+   "gold": 839873,
+   "power": 821745,
+   "level": 14
+ },
+ {
+   "id": 976,
+   "statetime": "2022-12-21 14:19:04",
+   "region": 7,
+   "name": "Name#976",
+   "email": "email976@abc.com",
+   "gold": 535798,
+   "power": 952156,
+   "level": 27
+ },
+ {
+   "id": 977,
+   "statetime": "2022-12-20 12:24:28",
+   "region": 1,
+   "name": "Name#977",
+   "email": "email977@abc.com",
+   "gold": 197714,
+   "power": 22924,
+   "level": 16
+ },
+ {
+   "id": 978,
+   "statetime": "2022-12-18 21:47:58",
+   "region": 7,
+   "name": "Name#978",
+   "email": "email978@abc.com",
+   "gold": 966796,
+   "power": 794241,
+   "level": 33
+ },
+ {
+   "id": 979,
+   "statetime": "2022-12-19 06:02:20",
+   "region": 3,
+   "name": "Name#979",
+   "email": "email979@abc.com",
+   "gold": 470069,
+   "power": 269143,
+   "level": 4
+ },
+ {
+   "id": 980,
+   "statetime": "2022-12-21 02:33:33",
+   "region": 6,
+   "name": "Name#980",
+   "email": "email980@abc.com",
+   "gold": 436710,
+   "power": 545482,
+   "level": 45
+ },
+ {
+   "id": 981,
+   "statetime": "2022-12-22 22:50:57",
+   "region": 1,
+   "name": "Name#981",
+   "email": "email981@abc.com",
+   "gold": 859161,
+   "power": 872045,
+   "level": 5
+ },
+ {
+   "id": 982,
+   "statetime": "2022-12-17 21:03:48",
+   "region": 2,
+   "name": "Name#982",
+   "email": "email982@abc.com",
+   "gold": 581255,
+   "power": 497498,
+   "level": 10
+ },
+ {
+   "id": 983,
+   "statetime": "2022-12-17 17:27:14",
+   "region": 1,
+   "name": "Name#983",
+   "email": "email983@abc.com",
+   "gold": 129091,
+   "power": 405267,
+   "level": 4
+ },
+ {
+   "id": 984,
+   "statetime": "2022-12-17 21:30:36",
+   "region": 3,
+   "name": "Name#984",
+   "email": "email984@abc.com",
+   "gold": 759436,
+   "power": 588745,
+   "level": 18
+ },
+ {
+   "id": 985,
+   "statetime": "2022-12-18 05:38:40",
+   "region": 1,
+   "name": "Name#985",
+   "email": "email985@abc.com",
+   "gold": 920069,
+   "power": 165592,
+   "level": 3
+ },
+ {
+   "id": 986,
+   "statetime": "2022-12-19 00:43:16",
+   "region": 8,
+   "name": "Name#986",
+   "email": "email986@abc.com",
+   "gold": 732279,
+   "power": 568376,
+   "level": 2
+ },
+ {
+   "id": 987,
+   "statetime": "2022-12-17 12:21:43",
+   "region": 5,
+   "name": "Name#987",
+   "email": "email987@abc.com",
+   "gold": 713835,
+   "power": 423541,
+   "level": 23
+ },
+ {
+   "id": 988,
+   "statetime": "2022-12-19 10:37:13",
+   "region": 9,
+   "name": "Name#988",
+   "email": "email988@abc.com",
+   "gold": 30555,
+   "power": 265891,
+   "level": 25
+ },
+ {
+   "id": 989,
+   "statetime": "2022-12-24 02:44:24",
+   "region": 1,
+   "name": "Name#989",
+   "email": "email989@abc.com",
+   "gold": 595376,
+   "power": 814478,
+   "level": 27
+ },
+ {
+   "id": 990,
+   "statetime": "2022-12-18 03:04:20",
+   "region": 4,
+   "name": "Name#990",
+   "email": "email990@abc.com",
+   "gold": 90432,
+   "power": 438046,
+   "level": 18
+ },
+ {
+   "id": 991,
+   "statetime": "2022-12-20 15:39:41",
+   "region": 9,
+   "name": "Name#991",
+   "email": "email991@abc.com",
+   "gold": 471250,
+   "power": 738100,
+   "level": 35
+ },
+ {
+   "id": 992,
+   "statetime": "2022-12-18 08:20:28",
+   "region": 3,
+   "name": "Name#992",
+   "email": "email992@abc.com",
+   "gold": 33626,
+   "power": 14392,
+   "level": 13
+ },
+ {
+   "id": 993,
+   "statetime": "2022-12-21 15:53:53",
+   "region": 3,
+   "name": "Name#993",
+   "email": "email993@abc.com",
+   "gold": 381408,
+   "power": 969668,
+   "level": 6
+ },
+ {
+   "id": 994,
+   "statetime": "2022-12-17 19:09:41",
+   "region": 8,
+   "name": "Name#994",
+   "email": "email994@abc.com",
+   "gold": 904178,
+   "power": 36632,
+   "level": 48
+ },
+ {
+   "id": 995,
+   "statetime": "2022-12-18 08:40:36",
+   "region": 9,
+   "name": "Name#995",
+   "email": "email995@abc.com",
+   "gold": 805744,
+   "power": 533835,
+   "level": 23
+ },
+ {
+   "id": 996,
+   "statetime": "2022-12-18 13:16:10",
+   "region": 6,
+   "name": "Name#996",
+   "email": "email996@abc.com",
+   "gold": 565623,
+   "power": 993478,
+   "level": 49
+ },
+ {
+   "id": 997,
+   "statetime": "2022-12-21 21:59:40",
+   "region": 9,
+   "name": "Name#997",
+   "email": "email997@abc.com",
+   "gold": 460758,
+   "power": 25561,
+   "level": 41
+ },
+ {
+   "id": 998,
+   "statetime": "2022-12-21 04:17:56",
+   "region": 8,
+   "name": "Name#998",
+   "email": "email998@abc.com",
+   "gold": 716521,
+   "power": 449440,
+   "level": 7
+ },
+ {
+   "id": 999,
+   "statetime": "2022-12-19 12:33:21",
+   "region": 6,
+   "name": "Name#999",
+   "email": "email999@abc.com",
+   "gold": 239723,
+   "power": 224284,
+   "level": 48
+ },
+ {
+   "id": 1000,
+   "statetime": "2022-12-22 13:32:37",
+   "region": 4,
+   "name": "Name#1000",
+   "email": "email1000@abc.com",
+   "gold": 16993,
+   "power": 764298,
+   "level": 21
+ }
+]
