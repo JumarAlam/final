@@ -10,11 +10,12 @@ public class GameEvent {
     private Integer diffgold ;
     private Integer diffpower ;
     private Integer difflevel ;
+    private Integer count;
 
     public GameEvent() {
     }
 
-    public GameEvent(Integer eventid, Integer userid, Date eventtime, Integer type, Integer diffgold, Integer diffpower, Integer difflevel) {
+    public GameEvent(Integer eventid, Integer userid, Date eventtime, Integer type, Integer diffgold, Integer diffpower, Integer difflevel, Integer count) {
         this.eventid = eventid;
         this.userid = userid;
         this.eventtime = eventtime;
@@ -22,6 +23,7 @@ public class GameEvent {
         this.diffgold = diffgold;
         this.diffpower = diffpower;
         this.difflevel = difflevel;
+        this.count = count;
     }
 
     public Integer getEventid() {
@@ -79,5 +81,14 @@ public class GameEvent {
     public void setDifflevel(Integer difflevel) {
         this.difflevel = difflevel;
     }
+
+    public Integer getCount() {
+        return count;
+    }
+
+    public void setCount(Integer count) {
+        this.count = count;
+    }
+
 
 }

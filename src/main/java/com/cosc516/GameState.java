@@ -1,6 +1,5 @@
 package com.cosc516;
 
-import java.util.Date;
 
 public class GameState {
     private Integer stateid;

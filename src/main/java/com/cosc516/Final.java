@@ -2,7 +2,6 @@ package com.cosc516;
 
 import java.io.FileNotFoundException;
 import java.io.Reader;
-import java.net.URI;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -45,7 +44,6 @@ import java.util.List;
 
 import javax.lang.model.util.ElementScanner14;
 
-import java.util.Date;
 
 public class Final {
 	/**
@@ -91,9 +89,9 @@ public class Final {
 			//finaldb.load();
 			//finaldb.update();
 			//finaldb.query1(949);
-			finaldb.query2(1);
-			//qcosmos.query3();
-			//qcosmos.query4(515);
+			//finaldb.query2(1);
+			//finaldb.query3("2022-12-17 05:30:00", "2022-12-17 15:00:00", 2);
+			
 		} catch (Exception e) {
 			System.out.println(e);
 		} finally {
@@ -206,6 +204,14 @@ public class Final {
 	// }
 
 	public void load() throws Exception {
+
+	/*
+	 * For loading the data, I found that it was way harder to load a csv file in a container than a json file. I tried working with the csv, but it did not work.
+	 * Thus I had to manually convert the csv file to a json file and then load the the json file in a normal way. Moreover, while loading the gamestate file, 
+	 * I found that the id I have used for partion key conflicts with the system assigned id by cosmosdb. Thus gamestate loading was failing agian and again.
+	 * After chaning the id to stateid, the file successfully loaded into containers.
+	 * 
+	 */
 		//cosmosClient = new CosmosClientBuilder().endpoint(URI).key(PRIMARY_KEY).buildClient();
 		//cosmosDatabase = cosmosClient.getDatabase("cosmos516");
 		
@@ -213,13 +219,13 @@ public class Final {
 		Gson gson = new Gson();
 
 		try {
-			// Read customer data
+			// Read event data
 			System.out.println("Reading Event data.");
 			Reader reader = Files.newBufferedReader(Paths.get("src/data/gameevent.json"));
 			GameEvent[] events = gson.fromJson(reader, GameEvent[].class);
 			System.out.println("Reading done");
 
-			// Create customer container and load data
+			// Create Event container and load data
 			System.out.println("Loading Event data.");
 			//cosmosDatabase.createContainerIfNotExists(URI, PRIMARY_KEY, null)
 			cosmosDatabase.createContainerIfNotExists("event", "/eventid",
@@ -237,33 +243,34 @@ public class Final {
 		} catch (Exception e) {
 			System.out.println(e);
 		}
+
+		try {
+			// Read state data
+			System.out.println("Reading State data.");
+			Reader reader = Files.newBufferedReader(Paths.get("src/data/gamestate.json"));
+			GameState[] states = gson.fromJson(reader, GameState[].class);
+			System.out.println("Reading done");
+
+			// Create State container and load data
+			System.out.println("Loading Event data.");
+			//cosmosDatabase.createContainerIfNotExists(URI, PRIMARY_KEY, null)
+			cosmosDatabase.createContainerIfNotExists("state", "/stateid",
+					ThroughputProperties.createManualThroughput(400));
+			stateContainer = cosmosDatabase.getContainer("state");
+			
+			for (GameState state : states) {
+			
+				state.setStateid(state.getStateid());
+				eventContainer.createItem(state);
+			
+			}
+			
+			reader.close();
+		} catch (Exception e) {
+			System.out.println(e);
+		}
 	}
 
-
-	// /**
-	//  * Sample query returns customer by custkey
-	//  * 
-	//  * @throws Exception
-	//  *                   if an error occurs
-	//  */
-	// public String sampleQuery(int custkey) throws Exception {
-	// 	System.out.println("\nExecuting sample query.");
-	// 	StringBuilder answer = new StringBuilder();
-
-	// 	// SQL query to get customer by custkey
-	// 	String sql = "SELECT * FROM c WHERE c.c_custkey = " + custkey;
-	// 	CosmosContainer customerContainer = cosmosDatabase.getContainer("customers");
-	// 	CosmosPagedIterable<Customer> response = customerContainer.queryItems(sql, new CosmosQueryRequestOptions(),
-	// 			Customer.class);
-	// 	if (response.iterator().hasNext()) {
-	// 		Customer customer = response.iterator().next();
-	// 		answer.append(new Gson().toJson(customer).toString());
-	// 	}
-
-	// 	// Print out json response and return it to calling function
-	// 	System.out.println(answer.toString());
-	// 	return answer.toString();
-	// }
 
 	/**
 	 * Write a method update() that updates the current game state for a player.
@@ -359,38 +366,7 @@ public class Final {
 	}
 
 
-		
 
-
-	// /**
-	//  * Query returns all urgent orders placed on or after July, 26, 1998 ordered by
-	//  * total price descending
-	//  * 
-	//  * @throws Exception
-	//  *                   if an error occurs
-	//  */
-	// public String query4(Date startTime, Date endTime, Integer region) throws Exception {
-	// 	// TODO: Write query #3
-	// 	System.out.println("\nExecuting query3.");
-	// 	String jsonOrders = "[";
-	// 	ordersContainer = cosmosDatabase.getContainer("orders");
-	// 	String sql = "SELECT * FROM c WHERE c.o_orderpriority LIKE '1-URGENT' AND c.o_orderdate>='1998-07-26' ORDER BY c.o_totalprice DESC ";
-
-	// 	CosmosPagedIterable<GameEvent> response = ordersContainer.queryItems(sql, new CosmosQueryRequestOptions(),
-	// 	GameEvent.class);
-	// 			Iterator<GameEvent> iter = response.iterator();
-	// 	while (iter.hasNext()) {
-	// 		GameEvent ord = iter.next();
-	// 		jsonOrders = jsonOrders + new Gson().toJson(ord).toString()+",";
-		
-	// 	}
-	// 	String substring = jsonOrders.substring(0, jsonOrders.length() - 1); 
-	// 	jsonOrders = substring + "]";
-
-	// 	// Print out json response and return it to calling function
-	// 	System.out.println(jsonOrders);
-	// 	return jsonOrders;
-	// }
 
 	/**
 	 * Write a method query3() that returns the top 5 most active players between time X and Y in a given region. Active players are determined based on the number of game events that they have in the time range.
@@ -398,50 +374,85 @@ public class Final {
 	 * @throws Exception
 	 *                   if an error occurs
 	 */
-	public String query3(Date startTime, Date endTime, Integer region) throws Exception {
+	public String query3(String startTime, String endTime, Integer region) throws Exception {
 		// TODO: Write query #4
+
+
+		/*
+		 * Becuase of using Azure Cosmos DB, joining data from two container is not permitted, which makes sense.
+		 * Thus I tried to get the top 10 active users who's based on the number of game events in a given time range. But unfortunately, Cosmos DB does not allow
+		 * Order by with Group by. I tried to do it several different ways, but it does not work.
+		 * 
+		 * Thus, for this query, I just collected all the users from event container with the number of game event for each user, and collected all the users
+		 * who play in a given region. But I could not complete the part where I could bring this two results together.
+		 * 
+		 */
 		System.out.println("\nExecuting query4.");
-		String jsonCustOrder = "";
+		String jsonEvent = "";
 
 		stateContainer = cosmosDatabase.getContainer("state");
 		eventContainer = cosmosDatabase.getContainer("event");
+
+		//2022-12-17 05:30:00
+		//2022-12-17 15:00:00
+		String sql = String.format("SELECT c.userid, count(c.eventtime) as count FROM c WHERE c.eventtime > '%s' and c.eventtime < '%s' Group by c.userid", startTime, endTime);
+
+		CosmosPagedIterable<GameEvent> resp = eventContainer.queryItems(sql, new CosmosQueryRequestOptions(),
+		GameEvent.class);
 		
-		//String sql = "SELECT c.id, c.c_custkey, c.c_name, c.c_acctbal FROM c WHERE c.c_custkey = " + custkey;
-		String sql = String.format("SELECT c.stateid FROM c WHERE c.region = %d", region); 
-
-		CosmosPagedIterable<GameState> resp = stateContainer.queryItems(sql, new CosmosQueryRequestOptions(),
-		GameState.class);
 		//System.out.println(response.iterator().hasNext());
+		Iterator<GameEvent> iter = resp.iterator();
+		int count = 0;
+		while (iter.hasNext()) {
+			count++;
 
-		Iterator<GameState> iter = resp.iterator();
-
-		GameState state = new GameState();
-		System.out.println("1: Printed");
-		if (iter.hasNext()){
-			state = iter.next();
-			System.out.println("Inside if");
+			GameEvent event = iter.next();
+			//String single = new Gson().toJson(event);
+			//System.out.println(single);
+			jsonEvent = jsonEvent + new Gson().toJson(event).toString()+",";
 		}
+		System.out.println(jsonEvent);
+		//System.out.println(count);
 
-		sql = String.format("SELECT Top 5 c.userid FROM c WHERE c.userid > %s AND c.userid < %s ORDER BY c.o_orderdate DESC", startTime, endTime);
-		CosmosPagedIterable<GameEvent> response2 = eventContainer.queryItems(sql, new CosmosQueryRequestOptions(), GameEvent.class);
 
-		System.out.println("2: Printed");
-		ArrayList<GameEvent> orderList = new ArrayList<GameEvent>();
-		Iterator<GameEvent> iter2 = response2.iterator();
 
-		while(iter2.hasNext()){
-			GameEvent eachOrder = iter2.next();
-			orderList.add(eachOrder);
+		sql = String.format("SELECT c.stateid FROM c WHERE c.region = %d", region);
+		CosmosPagedIterable<GameState> response = stateContainer.queryItems(sql, new CosmosQueryRequestOptions(), GameState.class);
+		String ids = "";
+		Iterator<GameState> iterator = response.iterator();
+		while (iterator.hasNext()) {
+
+			GameState state = iterator.next();
+			//String single = new Gson().toJson(event);
+			//System.out.println(single);
+			ids = ids + new Gson().toJson(state).toString()+",";
 		}
+		System.out.println(ids);
+		
+		// sql = 
 
-		customer.orders = orderList;
-		jsonCustOrder = new Gson().toJson(customer);
+		// GameState state = new GameState();
+		// System.out.println("1: Printed");
+		// if (iter.hasNext()){
+		// 	state = iter.next();
+		// 	System.out.println("Inside if");
+		// }
 
 
-		// Print out json response and return it to calling function
+		// //sql = String.format("SELECT c.stateid FROM c WHERE c.region = %d", region); 
+		// sql = String.format("SELECT Top 5 c.userid FROM c WHERE c.userid > %s AND c.userid < %s ORDER BY c.o_orderdate DESC", startTime, endTime);
+		// CosmosPagedIterable<GameEvent> response2 = eventContainer.queryItems(sql, new CosmosQueryRequestOptions(), GameEvent.class);
 
-		System.out.println("Printing the output");
-		System.out.println(jsonCustOrder);
-		return jsonCustOrder;
+		// System.out.println("2: Printed");
+		// ArrayList<GameEvent> orderList = new ArrayList<GameEvent>();
+		// Iterator<GameEvent> iter2 = response2.iterator();
+
+
+
+
+		// // Print out json response and return it to calling function
+
+		// System.out.println("Printing the output");
+		return jsonEvent;
 	}
 }
